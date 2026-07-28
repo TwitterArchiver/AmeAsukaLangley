@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2072460469466697760",
+    "created_at": "2026-07-02T04:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072541149311668714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626412170337746944",
+          "start": 0,
+          "username": "moontidebemoth"
+        },
+        {
+          "end": 32,
+          "id": "2064742493271576576",
+          "start": 16,
+          "username": "mizukiFuyugumom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072541149311668714",
+    "in_reply_to_user_id": "1626412170337746944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072460469466697760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moontidebemoth @mizukiFuyugumom 哇还有狗狗薯条"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2072460466782392320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLb0G2a0AAJsik.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2072460469466697760",
+        "created_at": "2026-07-02T04:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072541149311668714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626412170337746944",
+              "start": 0,
+              "username": "moontidebemoth"
+            },
+            {
+              "end": 32,
+              "id": "2064742493271576576",
+              "start": 16,
+              "username": "mizukiFuyugumom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072541149311668714",
+        "in_reply_to_user_id": "1626412170337746944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072460469466697760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moontidebemoth @mizukiFuyugumom 哇还有狗狗薯条"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072460466782392320"
+          ]
+        },
+        "author_id": "1626412170337746944",
+        "conversation_id": "2072460469466697760",
+        "created_at": "2026-07-01T23:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072460469466697760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2064742493271576576",
+              "start": 17,
+              "username": "mizukiFuyugumom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Em3IAlEfut",
+              "end": 57,
+              "expanded_url": "https://x.com/moontidebemoth/status/2072460469466697760/photo/1",
+              "media_key": "3_2072460466782392320",
+              "start": 34,
+              "url": "https://t.co/Em3IAlEfut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072460469466697760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢我小宝宝mizuki的赠图喵 @mizukiFuyugumom https://t.co/Em3IAlEfut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 342,
+          "like_count": 26432,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T02:44:27.000Z",
+        "description": "PDD人格障碍 穷且益坚 黄毛碎钻 语言！\nYuki need 電波系宅女 kaiunRadio 恋人  @mizukiFuyugumom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "mizukiFuyugumom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaiun7773283479",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaiun7773283479",
+                "start": 0,
+                "url": "https://t.co/BLxgCbfkk3"
+              }
+            ]
+          }
+        },
+        "id": "1626412170337746944",
+        "location": "阶段四",
+        "name": "AOI99905230523cocbg",
+        "pinned_tweet_id": "2053063715273277741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862057214338314240/ykNDOPkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 167,
+          "like_count": 18359,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/BLxgCbfkk3",
+        "username": "moontidebemoth",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T16:13:53.000Z",
+        "description": "LGBTQ+‖迷思‖语言障碍且匮乏之人‖骑士之誓‖恋爱中‖⚢‖短暂的前身  @Fuyugumomizuki ‖恋人  @moontidebemoth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Fuyugumomizuki"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "moontidebemoth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuyugumomizuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuyugumomizuki",
+                "start": 0,
+                "url": "https://t.co/9MNyN3xXl7"
+              }
+            ]
+          }
+        },
+        "id": "2064742493271576576",
+        "location": "翌日",
+        "name": "ºₒmizuki˖Ი𐑼ֶָ֢݁ ☁︎",
+        "pinned_tweet_id": "2064746468951617802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072416771160887296/j76URQhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/9MNyN3xXl7",
+        "username": "mizukiFuyugumom",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2069062711682421214",
+    "created_at": "2026-06-23T07:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069317351561179266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780055196460048385",
+          "start": 0,
+          "username": "Lzg_Althea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069317351561179266",
+    "in_reply_to_user_id": "1780055196460048385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069062711682421214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lzg_Althea 如此可爱的saki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069062695735934977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbJjzVaQAE_0qc.jpg",
+        "width": 708
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069062695752740864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbJjzZasAAQlUZ.jpg",
+        "width": 1070
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069062695744348161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbJjzXaoAE8wID.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069062696230858752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbJj1LaMAAqb7q.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2069062711682421214",
+        "created_at": "2026-06-23T07:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069317351561179266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "Lzg_Althea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069317351561179266",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069062711682421214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lzg_Althea 如此可爱的saki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069062695735934977",
+            "3_2069062695752740864",
+            "3_2069062695744348161",
+            "3_2069062696230858752"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069062711682421214",
+        "created_at": "2026-06-22T14:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069062711682421214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWIrbJ8Qek",
+              "end": 145,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2069062711682421214/photo/1",
+              "media_key": "3_2069062695735934977",
+              "start": 122,
+              "url": "https://t.co/uWIrbJ8Qek"
+            },
+            {
+              "display_url": "pic.x.com/uWIrbJ8Qek",
+              "end": 145,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2069062711682421214/photo/1",
+              "media_key": "3_2069062695752740864",
+              "start": 122,
+              "url": "https://t.co/uWIrbJ8Qek"
+            },
+            {
+              "display_url": "pic.x.com/uWIrbJ8Qek",
+              "end": 145,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2069062711682421214/photo/1",
+              "media_key": "3_2069062695744348161",
+              "start": 122,
+              "url": "https://t.co/uWIrbJ8Qek"
+            },
+            {
+              "display_url": "pic.x.com/uWIrbJ8Qek",
+              "end": 145,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2069062711682421214/photo/1",
+              "media_key": "3_2069062696230858752",
+              "start": 122,
+              "url": "https://t.co/uWIrbJ8Qek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069062711682421214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🔝ABOUT ME\n终于码好了自介总之大家看图吧 \n\n关注+转发+评论此条抽6个8.88r\n6.30开奖 同类会缓慢回fo\n\np4是自产 认识的可以夸夸小祥和88 不认识的也可以夸夸我的画\n百fo感激不尽 永远爱着你们🥹🤲💗往后也请多多关心吧 https://t.co/uWIrbJ8Qek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 344,
+          "like_count": 24654,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2069062711682421214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 304,
+          "like_count": 6609,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1484
+        },
+        "url": "",
+        "username": "Lzg_Althea",
+        "verified": false
+      }
+    ]
+  }
+}

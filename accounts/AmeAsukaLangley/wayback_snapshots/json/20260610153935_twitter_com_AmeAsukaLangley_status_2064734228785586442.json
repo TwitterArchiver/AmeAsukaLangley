@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2064585743377600830",
+    "created_at": "2026-06-10T15:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064734228785586442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046295889103441921",
+          "start": 0,
+          "username": "Xie_miaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064734228785586442",
+    "in_reply_to_user_id": "2046295889103441921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064585743377600830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xie_miaoyu かわいい❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064585727988621312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbhx-0aYAAWeLV.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2064585743377600830",
+        "created_at": "2026-06-10T15:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064734228785586442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046295889103441921",
+              "start": 0,
+              "username": "Xie_miaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064734228785586442",
+        "in_reply_to_user_id": "2046295889103441921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064585743377600830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xie_miaoyu かわいい❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064585727988621312"
+          ]
+        },
+        "author_id": "2046295889103441921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2064585743377600830",
+        "created_at": "2026-06-10T05:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064585743377600830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "vrchat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0bBwy7S7C",
+              "end": 84,
+              "expanded_url": "https://x.com/Xie_miaoyu/status/2064585743377600830/photo/1",
+              "media_key": "3_2064585727988621312",
+              "start": 61,
+              "url": "https://t.co/R0bBwy7S7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064585743377600830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "▷GAME START\n▷ゲームスタート\n————\nWorld: Ballroom Blitz XVII\n#vrchat https://t.co/R0bBwy7S7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 297,
+          "like_count": 19639,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T18:32:40.000Z",
+        "description": "「盯……」\n\n▷1月1日生｜看成分回fo｜不主动私信关注(社恐)\n▷Live2D｜日语練習｜VRC｜VTB｜战雷｜日常｜絵｜心理｜树洞\n▷心理稳定｜不自杀自残｜PTSD｜强迫症｜社恐｜多重人格\n▷前急性自杀干预行动者｜旧绩2/26｜大学生心理健康协会(持证)干事｜首都大学生心理健康联盟成员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@drvb_nyame?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@drvb_nyame?si=rkW4s0_GpvsKSGPp",
+                "start": 0,
+                "url": "https://t.co/ZTuDjcTr2J"
+              }
+            ]
+          }
+        },
+        "id": "2046295889103441921",
+        "location": "北京/厦门/坟堆里",
+        "name": "Nyame | コミュ障猫",
+        "pinned_tweet_id": "2055015648452018221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059306873267122176/cg7JXVZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 42,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/ZTuDjcTr2J",
+        "username": "Xie_miaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2075884974323138910",
+    "created_at": "2026-07-11T16:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075980401332699496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640751385502425088",
+          "start": 0,
+          "username": "aiaiaiai_9"
+        },
+        {
+          "end": 20,
+          "id": "1596794857179459584",
+          "start": 12,
+          "username": "1227uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075980401332699496",
+    "in_reply_to_user_id": "1640751385502425088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075960409107148824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaiaiai_9 @1227uwu 看日期，上古神话了已经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2075884974323138910",
+        "created_at": "2026-07-11T16:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075980401332699496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640751385502425088",
+              "start": 0,
+              "username": "aiaiaiai_9"
+            },
+            {
+              "end": 20,
+              "id": "1596794857179459584",
+              "start": 12,
+              "username": "1227uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075980401332699496",
+        "in_reply_to_user_id": "1640751385502425088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075960409107148824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaiaiai_9 @1227uwu 看日期，上古神话了已经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640751385502425088",
+        "conversation_id": "2075884974323138910",
+        "created_at": "2026-07-11T15:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075960409107148824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596794857179459584",
+              "start": 0,
+              "username": "1227uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075960409107148824",
+        "in_reply_to_user_id": "1596794857179459584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075884974323138910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1227uwu 这个好o吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 341,
+          "like_count": 27652,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1906
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "🪦魂兮归来～互fo大欢迎！\n06女/双相/坐标北京\n情绪失禁之人🚨\n急需被拯救中🚑",
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075443555062206464/v1S5MOlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 83,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:15:49.000Z",
+        "description": "bpd｜asd｜友跨｜自伤行为｜精神状态不是很良好｜可以私信互fo但是会查成分选择性回｜仅记录生活｜有需要可以陪你聊天不用钱｜只是按医嘱处方正常服药",
+        "id": "1596794857179459584",
+        "name": "今天过得还好吗",
+        "pinned_tweet_id": "2060295656242299093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597873722852970498/Zq1iYwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 78,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "1227uwu",
+        "verified": false
+      }
+    ]
+  }
+}

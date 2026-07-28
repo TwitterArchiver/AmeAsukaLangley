@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076904678382784512",
+        "3_2076904678328344576"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2076904685534077317",
+    "created_at": "2026-07-14T05:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076904685534077317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HoBkj3VmsI",
+          "end": 156,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2076904685534077317/photo/1",
+          "media_key": "3_2076904678382784512",
+          "start": 133,
+          "url": "https://t.co/HoBkj3VmsI"
+        },
+        {
+          "display_url": "pic.x.com/HoBkj3VmsI",
+          "end": 156,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2076904685534077317/photo/1",
+          "media_key": "3_2076904678328344576",
+          "start": 133,
+          "url": "https://t.co/HoBkj3VmsI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076904685534077317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但我真接受不了生肉，出去吃牛排也没点过九分熟以下的，秋葵一直感觉吃着味道和口感都很奇怪，莲子有试过但是感觉很苦，榴莲也不是很能接受，猫狗肉就更别说了，折耳根只见到过别人很喜欢吃，葱姜蒜里其实蒜我很喜欢但是无奈真心讨厌姜，燕窝没吃过但是感觉也挺奇怪的，然后我吃不了辣 https://t.co/HoBkj3VmsI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2076904678382784512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKlzRNaUAAY5zD.jpg",
+        "width": 960
+      },
+      {
+        "height": 935,
+        "media_key": "3_2076904678328344576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKlzRAboAAaPh7.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076904678382784512",
+            "3_2076904678328344576"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2076904685534077317",
+        "created_at": "2026-07-14T05:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076904685534077317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoBkj3VmsI",
+              "end": 156,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2076904685534077317/photo/1",
+              "media_key": "3_2076904678382784512",
+              "start": 133,
+              "url": "https://t.co/HoBkj3VmsI"
+            },
+            {
+              "display_url": "pic.x.com/HoBkj3VmsI",
+              "end": 156,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2076904685534077317/photo/1",
+              "media_key": "3_2076904678328344576",
+              "start": 133,
+              "url": "https://t.co/HoBkj3VmsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076904685534077317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但我真接受不了生肉，出去吃牛排也没点过九分熟以下的，秋葵一直感觉吃着味道和口感都很奇怪，莲子有试过但是感觉很苦，榴莲也不是很能接受，猫狗肉就更别说了，折耳根只见到过别人很喜欢吃，葱姜蒜里其实蒜我很喜欢但是无奈真心讨厌姜，燕窝没吃过但是感觉也挺奇怪的，然后我吃不了辣 https://t.co/HoBkj3VmsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 348,
+          "like_count": 27758,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

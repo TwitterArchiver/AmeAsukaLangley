@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078880842751909888",
+        "3_2078880842735132672",
+        "3_2078880842756034560"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078880859495465025",
+    "created_at": "2026-07-19T16:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078880859495465025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9OEy2hiPa",
+          "end": 46,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2078880859495465025/photo/1",
+          "media_key": "3_2078880842751909888",
+          "start": 23,
+          "url": "https://t.co/r9OEy2hiPa"
+        },
+        {
+          "display_url": "pic.x.com/r9OEy2hiPa",
+          "end": 46,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2078880859495465025/photo/1",
+          "media_key": "3_2078880842735132672",
+          "start": 23,
+          "url": "https://t.co/r9OEy2hiPa"
+        },
+        {
+          "display_url": "pic.x.com/r9OEy2hiPa",
+          "end": 46,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2078880859495465025/photo/1",
+          "media_key": "3_2078880842756034560",
+          "start": 23,
+          "url": "https://t.co/r9OEy2hiPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078880859495465025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到这个能忍住不截一张图的你做什么都会成功的 https://t.co/r9OEy2hiPa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2078880842751909888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmrHLKXoAAKPaW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 944,
+        "media_key": "3_2078880842735132672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmrHLGXoAAJQ6z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 944,
+        "media_key": "3_2078880842756034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmrHLLWkAAMjab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078880842751909888",
+            "3_2078880842735132672",
+            "3_2078880842756034560"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078880859495465025",
+        "created_at": "2026-07-19T16:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078880859495465025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9OEy2hiPa",
+              "end": 46,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2078880859495465025/photo/1",
+              "media_key": "3_2078880842751909888",
+              "start": 23,
+              "url": "https://t.co/r9OEy2hiPa"
+            },
+            {
+              "display_url": "pic.x.com/r9OEy2hiPa",
+              "end": 46,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2078880859495465025/photo/1",
+              "media_key": "3_2078880842735132672",
+              "start": 23,
+              "url": "https://t.co/r9OEy2hiPa"
+            },
+            {
+              "display_url": "pic.x.com/r9OEy2hiPa",
+              "end": 46,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2078880859495465025/photo/1",
+              "media_key": "3_2078880842756034560",
+              "start": 23,
+              "url": "https://t.co/r9OEy2hiPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078880859495465025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个能忍住不截一张图的你做什么都会成功的 https://t.co/r9OEy2hiPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 350,
+          "like_count": 27927,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

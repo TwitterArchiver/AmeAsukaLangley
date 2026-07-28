@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2065987009395765503",
+    "created_at": "2026-06-14T11:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066127689258606613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779383702214303744",
+          "start": 0,
+          "username": "midnightcat_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066127689258606613",
+    "in_reply_to_user_id": "1779383702214303744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065987009395765503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@midnightcat_w 好可爱的发型"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065986996854804480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvcOkIbUAAlhoh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2065987009395765503",
+        "created_at": "2026-06-14T11:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066127689258606613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779383702214303744",
+              "start": 0,
+              "username": "midnightcat_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066127689258606613",
+        "in_reply_to_user_id": "1779383702214303744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065987009395765503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midnightcat_w 好可爱的发型"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065986996854804480"
+          ]
+        },
+        "author_id": "1779383702214303744",
+        "conversation_id": "2065987009395765503",
+        "created_at": "2026-06-14T02:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065987009395765503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "德克萨斯cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4SGZC6OoH",
+              "end": 59,
+              "expanded_url": "https://x.com/midnightcat_w/status/2065987009395765503/photo/1",
+              "media_key": "3_2065986996854804480",
+              "start": 36,
+              "url": "https://t.co/r4SGZC6OoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065987009395765503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 921,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝可以不怎么受欢迎吗我也和你一起玩 #男娘 #德克萨斯cosplay https://t.co/r4SGZC6OoH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 313,
+          "like_count": 21974,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T05:38:59.000Z",
+        "description": "男娘，07大学可以培养感情(没有什么朋友ww)，很喜欢cosplay会化妆，给点不会饿死是穷鬼",
+        "id": "1779383702214303744",
+        "location": "Guangdong",
+        "name": "Mlmidnightcat",
+        "pinned_tweet_id": "2056698953173991606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052948326040080384/qGq0kmV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 169,
+          "like_count": 355,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 130
+        },
+        "username": "midnightcat_w",
+        "verified": false
+      }
+    ]
+  }
+}

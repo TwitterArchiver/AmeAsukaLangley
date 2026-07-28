@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2067482834953179554",
+    "created_at": "2026-06-18T19:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067698657584128121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780055196460048385",
+          "start": 0,
+          "username": "Lzg_Althea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067698657584128121",
+    "in_reply_to_user_id": "1780055196460048385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067482834953179554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lzg_Althea 这个牌子的右佐确实便宜的超乎我想象了，我一盒托鲁地文拉法辛就要五十多块，还有氟伏沙明也好便宜，国产的一些新药真的好贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067482822991138816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEsrGub0AA4jqD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2067482834953179554",
+        "created_at": "2026-06-18T19:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067698657584128121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "Lzg_Althea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067698657584128121",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067482834953179554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lzg_Althea 这个牌子的右佐确实便宜的超乎我想象了，我一盒托鲁地文拉法辛就要五十多块，还有氟伏沙明也好便宜，国产的一些新药真的好贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067482822991138816"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2067482834953179554",
+        "created_at": "2026-06-18T05:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067482834953179554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryAwwhh6rK",
+              "end": 60,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2067482834953179554/photo/1",
+              "media_key": "3_2067482822991138816",
+              "start": 37,
+              "url": "https://t.co/ryAwwhh6rK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067482834953179554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1735,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁敢信这些药一共就六块三 仿制药还是太前卫了 完全点菜来的 要什么有什么 https://t.co/ryAwwhh6rK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 335,
+          "like_count": 23517,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1670
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "1915163759582261466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 297,
+          "like_count": 6596,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1475
+        },
+        "url": "",
+        "username": "Lzg_Althea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067191570508718080"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2067191577433559394",
+    "created_at": "2026-06-17T10:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067191577433559394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0HKp5l77i",
+          "end": 83,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2067191577433559394/photo/1",
+          "media_key": "3_2067191570508718080",
+          "start": 60,
+          "url": "https://t.co/M0HKp5l77i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067191577433559394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眨眼间，柯洁的名人名言已经两周年了，中考的朋友记得去找柯洁定制名人名言哦，实在不行自己编两句阅卷老师也不会说什么的（） https://t.co/M0HKp5l77i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_2067191570508718080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAjx-raoAAVZR8.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067191570508718080"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2067191577433559394",
+        "created_at": "2026-06-17T10:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067191577433559394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0HKp5l77i",
+              "end": 83,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2067191577433559394/photo/1",
+              "media_key": "3_2067191570508718080",
+              "start": 60,
+              "url": "https://t.co/M0HKp5l77i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067191577433559394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眨眼间，柯洁的名人名言已经两周年了，中考的朋友记得去找柯洁定制名人名言哦，实在不行自己编两句阅卷老师也不会说什么的（） https://t.co/M0HKp5l77i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 328,
+          "like_count": 23228,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

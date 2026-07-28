@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2077290046533874050",
+    "created_at": "2026-07-15T18:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077460878920757512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015583135480811520",
+          "start": 0,
+          "username": "OvooLOO3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077460878920757512",
+    "in_reply_to_user_id": "2015583135480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077290046533874050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvooLOO3o 小苏顺顺利利的呀，加油加油加油今晚收拾东西的时候突然想到你之前发的推文说大扫除做家务那个然后我后知后觉才发现你好久没怎么发言了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2077290046533874050",
+        "created_at": "2026-07-15T18:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077460878920757512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015583135480811520",
+              "start": 0,
+              "username": "OvooLOO3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077460878920757512",
+        "in_reply_to_user_id": "2015583135480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077290046533874050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvooLOO3o 小苏顺顺利利的呀，加油加油加油今晚收拾东西的时候突然想到你之前发的推文说大扫除做家务那个然后我后知后觉才发现你好久没怎么发言了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015583135480811520",
+        "conversation_id": "2077290046533874050",
+        "created_at": "2026-07-15T07:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077290046533874050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077290046533874050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3665,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们 我把手机卖了 没下推特梯子什么的所以一直没登推特 sorrysorry…以后可能也就淡推了 不用担心我啦我最近还好啦 谢谢你们还记得我你们真好…🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 349,
+          "like_count": 27833,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "幸运e的小苏碎碎念",
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056951951657672704/rY5x-zpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 696,
+          "like_count": 20657,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 6544
+        },
+        "url": "",
+        "username": "OvooLOO3o",
+        "verified": false
+      }
+    ]
+  }
+}

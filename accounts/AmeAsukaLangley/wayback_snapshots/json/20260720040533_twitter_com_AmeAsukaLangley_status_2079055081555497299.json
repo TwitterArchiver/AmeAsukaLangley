@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2078816374219317350",
+    "created_at": "2026-07-20T04:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079055081555497299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004916215773589506",
+          "start": 0,
+          "username": "ziyin0081221"
+        },
+        {
+          "end": 23,
+          "id": "2054196065172344832",
+          "start": 14,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079055081555497299",
+    "in_reply_to_user_id": "2004916215773589506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078951195067187314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziyin0081221 @GptRainy 这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2078816374219317350",
+        "created_at": "2026-07-20T04:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079055081555497299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004916215773589506",
+              "start": 0,
+              "username": "ziyin0081221"
+            },
+            {
+              "end": 23,
+              "id": "2054196065172344832",
+              "start": 14,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079055081555497299",
+        "in_reply_to_user_id": "2004916215773589506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078951195067187314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziyin0081221 @GptRainy 这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004916215773589506",
+        "conversation_id": "2078816374219317350",
+        "created_at": "2026-07-19T21:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078951195067187314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            },
+            {
+              "end": 26,
+              "id": "2054196065172344832",
+              "start": 17,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078951195067187314",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078885847991001231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley @GptRainy 虽然我有没有去过，我朋友去过就是一群人找个营销带台然后喝酒玩游戏然后社交然后月吧反正蛮乱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 351,
+          "like_count": 28001,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2014
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T14:04:20.000Z",
+        "description": "fuck off",
+        "id": "2004916215773589506",
+        "name": "pompompurin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061540050987606016/BW7ju5ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "ziyin0081221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 565,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2067049517933891804",
+    "created_at": "2026-06-17T03:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067093089504878819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867567506581598208",
+          "start": 0,
+          "username": "freequan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067093089504878819",
+    "in_reply_to_user_id": "1867567506581598208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067049517933891804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freequan2025 AI没办法替代人类的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2067049517933891804",
+        "created_at": "2026-06-17T03:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067093089504878819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867567506581598208",
+              "start": 0,
+              "username": "freequan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067093089504878819",
+        "in_reply_to_user_id": "1867567506581598208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067049517933891804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freequan2025 AI没办法替代人类的原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867567506581598208",
+        "conversation_id": "2067049517933891804",
+        "created_at": "2026-06-17T00:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067049517933891804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067049517933891804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师的意思是说，我男朋友去班主任办公室拿假条出校门打针，在敲三下门的情况下进入办公室然后撞见一名女老师换衣服然后被骂了？班主任是不是傻？女老师难道就必须在公共办公室里面换衣服吗？女教工厕所就在楼下而已，而且老师也四十多岁了，班主任还问我男朋友就没错吗😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 324,
+          "like_count": 23001,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1571
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T13:49:36.000Z",
+        "description": "不建政！/16岁🥺/高中生/每天都很劳累🥲/友好交流哦🥺/欢迎交友/互fo查成分（正常账号和能友好交流的会fo）\n我的猫猫🐱@vicoOci_Olvidar @mengqing5208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "mengqing5208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freequan20252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freequan20252",
+                "start": 0,
+                "url": "https://t.co/aBNInYwL9K"
+              }
+            ]
+          }
+        },
+        "id": "1867567506581598208",
+        "location": "幸福之地",
+        "name": "自由的权😇🏳️‍⚧️",
+        "pinned_tweet_id": "1904145995153228009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923572385174765570/zUr7IrOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 1285,
+          "like_count": 8880,
+          "listed_count": 7,
+          "media_count": 178,
+          "tweet_count": 7245
+        },
+        "url": "https://t.co/aBNInYwL9K",
+        "username": "freequan2025",
+        "verified": false
+      }
+    ]
+  }
+}

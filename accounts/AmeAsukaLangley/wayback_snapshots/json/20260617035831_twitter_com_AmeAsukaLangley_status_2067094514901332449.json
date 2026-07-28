@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066578358998286336"
+      ],
+      "media_source_tweet_id": [
+        "2066662033903472946"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2067094514901332449",
+    "created_at": "2026-06-17T03:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067094514901332449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1522770171982598145",
+          "start": 3,
+          "username": "karichumasann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cV1NYdfmNM",
+          "end": 57,
+          "expanded_url": "https://x.com/karichumasann/status/2066662033903472946/photo/1",
+          "media_key": "3_2066578358998286336",
+          "start": 34,
+          "url": "https://t.co/cV1NYdfmNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067094514901332449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066662033903472946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karichumasann: 前髪バッサリいかれたアンアン https://t.co/cV1NYdfmNM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2066578358998286336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK32EXyaQAA7Hfm.jpg",
+        "width": 2948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066578358998286336"
+          ],
+          "media_source_tweet_id": [
+            "2066662033903472946"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2067094514901332449",
+        "created_at": "2026-06-17T03:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067094514901332449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1522770171982598145",
+              "start": 3,
+              "username": "karichumasann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cV1NYdfmNM",
+              "end": 57,
+              "expanded_url": "https://x.com/karichumasann/status/2066662033903472946/photo/1",
+              "media_key": "3_2066578358998286336",
+              "start": 34,
+              "url": "https://t.co/cV1NYdfmNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067094514901332449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066662033903472946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karichumasann: 前髪バッサリいかれたアンアン https://t.co/cV1NYdfmNM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066578358998286336"
+          ]
+        },
+        "author_id": "1522770171982598145",
+        "conversation_id": "2066662033903472946",
+        "created_at": "2026-06-15T23:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066662033903472946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cV1NYdfmNM",
+              "end": 38,
+              "expanded_url": "https://x.com/karichumasann/status/2066662033903472946/photo/1",
+              "media_key": "3_2066578358998286336",
+              "start": 15,
+              "url": "https://t.co/cV1NYdfmNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066662033903472946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 29349,
+          "like_count": 2381,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "前髪バッサリいかれたアンアン https://t.co/cV1NYdfmNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 326,
+          "like_count": 23035,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1574
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T02:48:10.000Z",
+        "description": "絵を描きます(最近はまのさば)\nskeb⇨https://t.co/QqSjMNp5Nb　マシュマロ⇨https://t.co/dsy1I9K2Sf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@karichumasann",
+                "end": 44,
+                "expanded_url": "https://skeb.jp/@karichumasann",
+                "start": 21,
+                "url": "https://t.co/QqSjMNp5Nb"
+              },
+              {
+                "display_url": "marshmallow-qa.com/7ed5ro2wdm0wmvl",
+                "end": 74,
+                "expanded_url": "https://marshmallow-qa.com/7ed5ro2wdm0wmvl",
+                "start": 51,
+                "url": "https://t.co/dsy1I9K2Sf"
+              }
+            ]
+          }
+        },
+        "id": "1522770171982598145",
+        "name": "かりちゅま",
+        "pinned_tweet_id": "2047450451071652182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053958260211011585/rtBsBwnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 179,
+          "like_count": 2142,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 2926
+        },
+        "username": "karichumasann",
+        "verified": false
+      }
+    ]
+  }
+}

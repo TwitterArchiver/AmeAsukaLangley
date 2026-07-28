@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2066128355049734527",
+    "created_at": "2026-06-14T12:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066132383158644851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707351899551490048",
+          "start": 0,
+          "username": "FhtgKey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066132383158644851",
+    "in_reply_to_user_id": "1707351899551490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066128632972808470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FhtgKey 这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2066128355049734527",
+        "created_at": "2026-06-14T12:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066132383158644851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707351899551490048",
+              "start": 0,
+              "username": "FhtgKey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066132383158644851",
+        "in_reply_to_user_id": "1707351899551490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066128632972808470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FhtgKey 这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707351899551490048",
+        "conversation_id": "2066128355049734527",
+        "created_at": "2026-06-14T12:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066128632972808470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066128632972808470",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066128355049734527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 很难受，嘴巴黏糊糊，舌尖被烟雾烫伤后吃东西没什么滋味。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 313,
+          "like_count": 22001,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:09:57.000Z",
+        "description": "Balance、Natural、Greatness\n中文/English/日本語",
+        "id": "1707351899551490048",
+        "location": "Japan",
+        "name": "日落向日葵",
+        "pinned_tweet_id": "2065318970794934291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001681060569194496/zfU0hPtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 35,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 501
+        },
+        "username": "FhtgKey",
+        "verified": true
+      }
+    ]
+  }
+}

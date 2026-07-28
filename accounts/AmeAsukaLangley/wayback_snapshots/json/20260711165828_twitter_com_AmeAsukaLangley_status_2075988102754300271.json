@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2075889150071636092",
+    "created_at": "2026-07-11T16:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075988102754300271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989191439339933696",
+          "start": 0,
+          "username": "Hiro8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075988102754300271",
+    "in_reply_to_user_id": "1989191439339933696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075889150071636092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiro8964 袜子好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075889126667374592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8KKYQa0AAGhak.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075889126667382784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8KKYQa8AA0u-A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2075889150071636092",
+        "created_at": "2026-07-11T16:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075988102754300271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989191439339933696",
+              "start": 0,
+              "username": "Hiro8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075988102754300271",
+        "in_reply_to_user_id": "1989191439339933696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075889150071636092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiro8964 袜子好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075889126667374592",
+            "3_2075889126667382784"
+          ]
+        },
+        "author_id": "1989191439339933696",
+        "conversation_id": "2075889150071636092",
+        "created_at": "2026-07-11T10:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075889150071636092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAqe5BOrQZ",
+              "end": 31,
+              "expanded_url": "https://x.com/Hiro8964/status/2075889150071636092/photo/1",
+              "media_key": "3_2075889126667374592",
+              "start": 8,
+              "url": "https://t.co/qAqe5BOrQZ"
+            },
+            {
+              "display_url": "pic.x.com/qAqe5BOrQZ",
+              "end": 31,
+              "expanded_url": "https://x.com/Hiro8964/status/2075889150071636092/photo/1",
+              "media_key": "3_2075889126667382784",
+              "start": 8,
+              "url": "https://t.co/qAqe5BOrQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075889150071636092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这集有点太骚了 https://t.co/qAqe5BOrQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 341,
+          "like_count": 27706,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1916
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:39:32.000Z",
+        "description": "还没被选中的ネクサス适能者/严重失眠/焦虑max",
+        "id": "1989191439339933696",
+        "name": "宝↗生↘永↗梦↘ ！👾",
+        "pinned_tweet_id": "2057836503393583580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074028386939498496/p5KowUOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 299,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2296
+        },
+        "url": "",
+        "username": "Hiro8964",
+        "verified": false
+      }
+    ]
+  }
+}

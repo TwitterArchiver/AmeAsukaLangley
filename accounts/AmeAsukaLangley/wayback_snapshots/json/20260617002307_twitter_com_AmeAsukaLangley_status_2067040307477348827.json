@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2066921601141264682",
+    "created_at": "2026-06-17T00:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067040307477348827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880808636144054273",
+          "start": 0,
+          "username": "yuqian1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067040307477348827",
+    "in_reply_to_user_id": "1880808636144054273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066921601141264682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqian1145 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2066921601141264682",
+        "created_at": "2026-06-17T00:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067040307477348827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880808636144054273",
+              "start": 0,
+              "username": "yuqian1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067040307477348827",
+        "in_reply_to_user_id": "1880808636144054273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066921601141264682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqian1145 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880808636144054273",
+        "conversation_id": "2066921601141264682",
+        "created_at": "2026-06-16T16:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066921601141264682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066921601141264682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 322,
+          "like_count": 22891,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:45:11.000Z",
+        "description": "mtf|无证含糖|HRT🍥 26.04.22|出厂日期 12.06.17|半家长党（?）|成绩倒数|休学|爱发疯|负面帖垃圾桶|缺爱想交朋友私信互fo|友好相处|一只厌恶男性身体的猫猫",
+        "id": "1880808636144054273",
+        "name": "语千🍥",
+        "pinned_tweet_id": "2060303347190808845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039744349265854464/S8edWYzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 276,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "yuqian1145",
+        "verified": false
+      }
+    ]
+  }
+}

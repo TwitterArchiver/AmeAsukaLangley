@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2074676132243550424",
+    "created_at": "2026-07-08T11:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074815140290306209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2071927446052720640",
+          "start": 0,
+          "username": "Maki6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074815140290306209",
+    "in_reply_to_user_id": "2071927446052720640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074799740055957713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maki6y 分批次吃10t到12t左右，着急的话可以442，不急的话可以22222，高脂肪可以强效，碳酸饮料也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2074676132243550424",
+        "created_at": "2026-07-08T11:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074815140290306209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2071927446052720640",
+              "start": 0,
+              "username": "Maki6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074815140290306209",
+        "in_reply_to_user_id": "2071927446052720640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074799740055957713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maki6y 分批次吃10t到12t左右，着急的话可以442，不急的话可以22222，高脂肪可以强效，碳酸饮料也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071927446052720640",
+        "conversation_id": "2074676132243550424",
+        "created_at": "2026-07-08T10:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074799740055957713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074799740055957713",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074676132243550424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 加吧喷丁怎么吃才有效果啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 343,
+          "like_count": 27619,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T12:05:47.000Z",
+        "description": "我是一只老鼠 下水道里的蛆女孩",
+        "id": "2071927446052720640",
+        "name": "鼠女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071928368665128960/3wUdsm0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Maki6y",
+        "verified": false
+      }
+    ]
+  }
+}

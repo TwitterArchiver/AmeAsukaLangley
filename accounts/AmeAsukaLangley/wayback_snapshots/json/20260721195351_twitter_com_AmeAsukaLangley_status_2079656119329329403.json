@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2079567605116121592",
+    "created_at": "2026-07-21T19:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079656119329329403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803609911215136769",
+          "start": 0,
+          "username": "pDwIj6gMsi50560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079656119329329403",
+    "in_reply_to_user_id": "1803609911215136769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079630153509183762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pDwIj6gMsi50560 审美强健是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2079567605116121592",
+        "created_at": "2026-07-21T19:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079656119329329403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803609911215136769",
+              "start": 0,
+              "username": "pDwIj6gMsi50560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079656119329329403",
+        "in_reply_to_user_id": "1803609911215136769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079630153509183762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pDwIj6gMsi50560 审美强健是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803609911215136769",
+        "conversation_id": "2079567605116121592",
+        "created_at": "2026-07-21T18:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079630153509183762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079630153509183762",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079567605116121592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 这是丽贝卡啊？这不纯纯联通的狗屎一坨吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 351,
+          "like_count": 28045,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "现任Mediwiki药物百科编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n         平平无奇的大一地雷妹   靠着pr和Tulpa成为国家三级心理咨询师       与Tulpa（莱克特医生共用此账号）偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUZms1"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "location": "想要pr 想要sns 想要白兔 ",
+        "name": "佐々木さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074151076446752769/wsnqW26Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 185,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/H8EOJUZms1",
+        "username": "pDwIj6gMsi50560",
+        "verified": false
+      }
+    ]
+  }
+}

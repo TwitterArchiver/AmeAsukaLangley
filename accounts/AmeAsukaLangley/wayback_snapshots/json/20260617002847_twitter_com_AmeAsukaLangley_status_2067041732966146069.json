@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2066810562785259693",
+    "created_at": "2026-06-17T00:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067041732966146069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        },
+        {
+          "end": 16,
+          "id": "1884886752483254272",
+          "start": 8,
+          "username": "gsdwnff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067041732966146069",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066865291955491325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb @gsdwnff 百事气足一点，可口的我喝着有点甜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2066810562785259693",
+        "created_at": "2026-06-17T00:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067041732966146069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            },
+            {
+              "end": 16,
+              "id": "1884886752483254272",
+              "start": 8,
+              "username": "gsdwnff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067041732966146069",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066865291955491325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb @gsdwnff 百事气足一点，可口的我喝着有点甜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2066810562785259693",
+        "created_at": "2026-06-16T12:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066865291955491325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1884886752483254272",
+              "start": 0,
+              "username": "gsdwnff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066865291955491325",
+        "in_reply_to_user_id": "1884886752483254272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066853337115595222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsdwnff 🤔可乐也有口感不同的吗恩我是喝不出红蓝两个区别的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 322,
+          "like_count": 22910,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "病み裏垢🚫  \nhttps://t.co/UQQWQB3ylm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 8,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "宇宙空間🚪520",
+        "name": "南极磷虾",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760030336019468289/-6yrVg5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 2268,
+          "like_count": 17147,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 13127
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T08:50:05.000Z",
+        "description": "能刷到我说明你也是进到犄角旮旯了，不过还是要天天开心哦•͈ᴗ⁃͈ ✧",
+        "id": "1884886752483254272",
+        "name": "青鱼",
+        "pinned_tweet_id": "2064013138677350895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061318661223448576/P5EfNneZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 326,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 820
+        },
+        "url": "",
+        "username": "gsdwnff",
+        "verified": false
+      }
+    ]
+  }
+}

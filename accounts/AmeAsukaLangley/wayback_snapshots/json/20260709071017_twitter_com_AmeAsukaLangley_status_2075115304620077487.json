@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075115296055259136"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2075115304620077487",
+    "created_at": "2026-07-09T07:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075115304620077487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7rPE3Aup0q",
+          "end": 53,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2075115304620077487/photo/1",
+          "media_key": "3_2075115296055259136",
+          "start": 30,
+          "url": "https://t.co/7rPE3Aup0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075115304620077487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是啥啊，怎么歌词都这么有活，我第一次在wyy看黑叫的歌词 https://t.co/7rPE3Aup0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075115296055259136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxKXglacAAmL4i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075115296055259136"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2075115304620077487",
+        "created_at": "2026-07-09T07:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075115304620077487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rPE3Aup0q",
+              "end": 53,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2075115304620077487/photo/1",
+              "media_key": "3_2075115296055259136",
+              "start": 30,
+              "url": "https://t.co/7rPE3Aup0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075115304620077487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥啊，怎么歌词都这么有活，我第一次在wyy看黑叫的歌词 https://t.co/7rPE3Aup0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 341,
+          "like_count": 27653,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

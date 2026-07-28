@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2067561354760962358",
+    "created_at": "2026-06-18T13:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067597506587021729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032112283103739907",
+          "start": 0,
+          "username": "Cubic929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067597506587021729",
+    "in_reply_to_user_id": "2032112283103739907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067561354760962358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cubic929 南京可以春秋来，冬夏要不太热要不太冷，能玩的还是挺多的，而且一般都是几个景区在一起这样，比方说秦淮河就和夫子庙在一起，然后再比方说鸡鸣寺和玄武湖靠的很近，可以去完寺庙去湖边转转，鸡鸣寺的樱花很有名"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2067561350092709888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF0F--aYAA4Gn6.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2067561354760962358",
+        "created_at": "2026-06-18T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067597506587021729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032112283103739907",
+              "start": 0,
+              "username": "Cubic929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067597506587021729",
+        "in_reply_to_user_id": "2032112283103739907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067561354760962358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cubic929 南京可以春秋来，冬夏要不太热要不太冷，能玩的还是挺多的，而且一般都是几个景区在一起这样，比方说秦淮河就和夫子庙在一起，然后再比方说鸡鸣寺和玄武湖靠的很近，可以去完寺庙去湖边转转，鸡鸣寺的樱花很有名"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067561350092709888"
+          ]
+        },
+        "author_id": "2032112283103739907",
+        "conversation_id": "2067561354760962358",
+        "created_at": "2026-06-18T10:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067561354760962358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国三十四省级行政区域制霸标记生成工具",
+              "display_url": "lab.magiconch.com/china-ex/",
+              "end": 47,
+              "expanded_url": "http://lab.magiconch.com/china-ex/",
+              "start": 24,
+              "status": 200,
+              "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+              "unwound_url": "https://lab.magiconch.com/china-ex/",
+              "url": "https://t.co/gGdnOyenx9"
+            },
+            {
+              "display_url": "pic.x.com/uSIY1wjze2",
+              "end": 71,
+              "expanded_url": "https://x.com/Cubic929/status/2067561354760962358/photo/1",
+              "media_key": "3_2067561350092709888",
+              "start": 48,
+              "url": "https://t.co/uSIY1wjze2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067561354760962358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，一直想去南京成都重庆南宁厦门新疆来着。。。\nhttps://t.co/gGdnOyenx9 https://t.co/uSIY1wjze2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 335,
+          "like_count": 23432,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T15:12:03.000Z",
+        "description": "@Square527某平方的弹射座椅/\n23届北语国政/enby→mtf(?)🏳️‍⚧️/ADHD/爱人@dissolvingspace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Square527"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "username": "dissolvingspace"
+              }
+            ]
+          }
+        },
+        "id": "2032112283103739907",
+        "location": "天津市",
+        "name": "某立方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066367603938095104/jeeEyO3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 174,
+          "like_count": 10894,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 626
+        },
+        "username": "Cubic929",
+        "verified": false
+      }
+    ]
+  }
+}

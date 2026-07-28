@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2078816374219317350",
+    "created_at": "2026-07-20T04:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079055173213729090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707351899551490048",
+          "start": 0,
+          "username": "FhtgKey"
+        },
+        {
+          "end": 18,
+          "id": "2054196065172344832",
+          "start": 9,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079055173213729090",
+    "in_reply_to_user_id": "1707351899551490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079017072689021093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FhtgKey @GptRainy 那我可能还是更希望去那种清吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2078816374219317350",
+        "created_at": "2026-07-20T04:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079055173213729090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707351899551490048",
+              "start": 0,
+              "username": "FhtgKey"
+            },
+            {
+              "end": 18,
+              "id": "2054196065172344832",
+              "start": 9,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079055173213729090",
+        "in_reply_to_user_id": "1707351899551490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079017072689021093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FhtgKey @GptRainy 那我可能还是更希望去那种清吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707351899551490048",
+        "conversation_id": "2078816374219317350",
+        "created_at": "2026-07-20T01:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079017072689021093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            },
+            {
+              "end": 26,
+              "id": "2054196065172344832",
+              "start": 17,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079017072689021093",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078885847991001231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley @GptRainy 质量超烂的酒，超级吵的音乐，一群人堆在一起，用喊的音量在聊天和玩些小游戏。有人喜欢这种氛围感，我觉得我无福消受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 351,
+          "like_count": 28001,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:09:57.000Z",
+        "description": "Balance、Natural、Greatness\n中文/English/日本語",
+        "id": "1707351899551490048",
+        "location": "京都/厦门",
+        "name": "日落向日葵",
+        "pinned_tweet_id": "2065318970794934291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001681060569194496/zfU0hPtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 43,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "FhtgKey",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 565,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      }
+    ]
+  }
+}

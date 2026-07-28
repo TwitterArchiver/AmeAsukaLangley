@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066000265208352768"
+      ],
+      "media_source_tweet_id": [
+        "2066000267741680078"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2066383218555940997",
+    "created_at": "2026-06-15T04:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066383218555940997"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1163856408",
+          "start": 3,
+          "username": "itouyuzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F3K0lUwFf0",
+          "end": 49,
+          "expanded_url": "https://x.com/itouyuzu/status/2066000267741680078/photo/1",
+          "media_key": "3_2066000265208352768",
+          "start": 26,
+          "url": "https://t.co/F3K0lUwFf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066383218555940997",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066000267741680078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itouyuzu: 🏰\n#まのさば二次創作 https://t.co/F3K0lUwFf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066000265208352768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvoS4mbUAAQOaM.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066000265208352768"
+          ],
+          "media_source_tweet_id": [
+            "2066000267741680078"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2066383218555940997",
+        "created_at": "2026-06-15T04:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066383218555940997"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1163856408",
+              "start": 3,
+              "username": "itouyuzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3K0lUwFf0",
+              "end": 49,
+              "expanded_url": "https://x.com/itouyuzu/status/2066000267741680078/photo/1",
+              "media_key": "3_2066000265208352768",
+              "start": 26,
+              "url": "https://t.co/F3K0lUwFf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066383218555940997",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066000267741680078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itouyuzu: 🏰\n#まのさば二次創作 https://t.co/F3K0lUwFf0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066000265208352768"
+          ]
+        },
+        "author_id": "1163856408",
+        "conversation_id": "2066000267741680078",
+        "created_at": "2026-06-14T03:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066000267741680078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 2,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3K0lUwFf0",
+              "end": 35,
+              "expanded_url": "https://x.com/itouyuzu/status/2066000267741680078/photo/1",
+              "media_key": "3_2066000265208352768",
+              "start": 12,
+              "url": "https://t.co/F3K0lUwFf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066000267741680078",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 14728,
+          "like_count": 1040,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "🏰\n#まのさば二次創作 https://t.co/F3K0lUwFf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 313,
+          "like_count": 22145,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-09T19:36:08.000Z",
+        "description": "📷ドール写真┊\n✨カスタムメイクとウィッグ、アイ、小物作りをしています┊\n🎶Vと写真が好き┊\n無言フォロー歓迎です。",
+        "id": "1163856408",
+        "name": "i-tori🐣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054748417365348352/E_WSpiGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5109,
+          "following_count": 858,
+          "like_count": 7052,
+          "listed_count": 60,
+          "media_count": 503,
+          "tweet_count": 872
+        },
+        "username": "itouyuzu",
+        "verified": false
+      }
+    ]
+  }
+}

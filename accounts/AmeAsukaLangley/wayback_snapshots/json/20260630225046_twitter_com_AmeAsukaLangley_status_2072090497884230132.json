@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2072090497884230132",
+    "created_at": "2026-06-30T22:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072090497884230132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1202981939931561984",
+          "start": 3,
+          "username": "isekaijoucho"
+        },
+        {
+          "end": 120,
+          "id": "3262969398",
+          "start": 107,
+          "username": "7kiso_nakiso"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/aW6fAdLMbRg",
+          "end": 95,
+          "expanded_url": "https://youtu.be/aW6fAdLMbRg",
+          "start": 72,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?v=aW6fAdLMbRg&feature=youtu.be",
+          "url": "https://t.co/kluanQul8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072090497884230132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1541
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071896529426874738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isekaijoucho: わたしの好きな歌を歌います。114曲目。\n\n【歌ってみた】いますぐ輪廻 / covered by ヰ世界情緒https://t.co/kluanQul8Y\n\n作詞・作曲：なきそ（@7kiso_nakiso）\n\nIllustration：ヰ世界…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 422,
+        "media_key": "16_2071895777517928448",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMDaO3aWgAAdBws.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMDaO3aWgAAdBws.mp4"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2072090497884230132",
+        "created_at": "2026-06-30T22:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072090497884230132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1202981939931561984",
+              "start": 3,
+              "username": "isekaijoucho"
+            },
+            {
+              "end": 120,
+              "id": "3262969398",
+              "start": 107,
+              "username": "7kiso_nakiso"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/aW6fAdLMbRg",
+              "end": 95,
+              "expanded_url": "https://youtu.be/aW6fAdLMbRg",
+              "start": 72,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=aW6fAdLMbRg&feature=youtu.be",
+              "url": "https://t.co/kluanQul8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072090497884230132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1541
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071896529426874738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isekaijoucho: わたしの好きな歌を歌います。114曲目。\n\n【歌ってみた】いますぐ輪廻 / covered by ヰ世界情緒https://t.co/kluanQul8Y\n\n作詞・作曲：なきそ（@7kiso_nakiso）\n\nIllustration：ヰ世界…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071895777517928448"
+          ]
+        },
+        "author_id": "1202981939931561984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2071896529426874738",
+        "created_at": "2026-06-30T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071896529426874738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 141,
+              "tag": "ヰ世界情緒"
+            },
+            {
+              "end": 167,
+              "start": 148,
+              "tag": "KAMITSUBAKI_STUDIO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 102,
+              "id": "3262969398",
+              "start": 89,
+              "username": "7kiso_nakiso"
+            },
+            {
+              "end": 137,
+              "id": "1202981939931561984",
+              "start": 124,
+              "username": "isekaijoucho"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/aW6fAdLMbRg",
+              "end": 77,
+              "expanded_url": "https://youtu.be/aW6fAdLMbRg",
+              "start": 54,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=aW6fAdLMbRg&feature=youtu.be",
+              "url": "https://t.co/kluanQul8Y"
+            },
+            {
+              "display_url": "pic.x.com/M5mjl7r25f",
+              "end": 191,
+              "expanded_url": "https://x.com/isekaijoucho/status/2071896529426874738/photo/1",
+              "media_key": "16_2071895777517928448",
+              "start": 168,
+              "url": "https://t.co/M5mjl7r25f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071896529426874738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 104825,
+          "like_count": 4259,
+          "quote_count": 130,
+          "reply_count": 46,
+          "retweet_count": 1541
+        },
+        "reply_settings": "everyone",
+        "text": "わたしの好きな歌を歌います。114曲目。\n\n【歌ってみた】いますぐ輪廻 / covered by ヰ世界情緒https://t.co/kluanQul8Y\n\n作詞・作曲：なきそ（@7kiso_nakiso）\n\nIllustration：ヰ世界情緒（@isekaijoucho ）\n\n#ヰ世界情緒 #KAMITSUBAKI_STUDIO https://t.co/M5mjl7r25f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 343,
+          "like_count": 26024,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1768
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T16:03:56.000Z",
+        "description": "ヰ世界情緒( ɪꜱᴇᴋᴀɪᴊᴏᴜᴄʜᴏ )といいます。歌い、創ります🌏 ∣ ✉️ : isekaijoucho.info@gmail.com ∣ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ：@isekai_info ∣ ꜰᴀ : #ヰ世界情緒美術部 ∣ ᴛᴀɢ : #もしもし情緒ちゃん #ゴミダスといっしょ ∣ 星界 ∣ 夜河世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 105,
+                "tag": "ヰ世界情緒美術部"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "tag": "もしもし情緒ちゃん"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "tag": "ゴミダスといっしょ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "isekai_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/isekaijoucho",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/isekaijoucho",
+                "start": 0,
+                "url": "https://t.co/PJ6G9AMcmb"
+              }
+            ]
+          }
+        },
+        "id": "1202981939931561984",
+        "location": "KAMITSUBAKI STUDIO",
+        "name": "ヰ世界情緒",
+        "pinned_tweet_id": "2011390159376552021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039327396277714944/1oDTJ2qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186212,
+          "following_count": 110,
+          "like_count": 4683,
+          "listed_count": 1552,
+          "media_count": 851,
+          "tweet_count": 7487
+        },
+        "url": "https://t.co/PJ6G9AMcmb",
+        "username": "isekaijoucho",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-01T07:28:29.000Z",
+        "description": "NAKISO □info：@NAKISO_info □YouTube：https://t.co/OAqBUfGUSY □niconico：https://t.co/R9mpQAvU19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "NAKISO_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@NAKISO",
+                "end": 58,
+                "expanded_url": "http://youtube.com/@NAKISO",
+                "start": 35,
+                "url": "https://t.co/OAqBUfGUSY"
+              },
+              {
+                "display_url": "nico.ms/user/53610183",
+                "end": 92,
+                "expanded_url": "http://nico.ms/user/53610183",
+                "start": 69,
+                "url": "https://t.co/R9mpQAvU19"
+              }
+            ]
+          }
+        },
+        "id": "3262969398",
+        "location": "7kiso.nakiso@gmail.com",
+        "name": "なきそ",
+        "pinned_tweet_id": "2019712682908147786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643824923683717121/fmpjBpsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186785,
+          "following_count": 234,
+          "like_count": 22526,
+          "listed_count": 486,
+          "media_count": 351,
+          "tweet_count": 1904
+        },
+        "url": "",
+        "username": "7kiso_nakiso",
+        "verified": true
+      }
+    ]
+  }
+}

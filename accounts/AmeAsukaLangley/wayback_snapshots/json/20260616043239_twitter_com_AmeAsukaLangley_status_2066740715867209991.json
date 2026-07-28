@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066176134195421184"
+      ],
+      "media_source_tweet_id": [
+        "2066215843847954502"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2066740715867209991",
+    "created_at": "2026-06-16T04:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066740715867209991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yH9PcfbRHW",
+          "end": 39,
+          "expanded_url": "https://x.com/_ropu/status/2066215843847954502/photo/1",
+          "media_key": "3_2066176134195421184",
+          "start": 16,
+          "url": "https://t.co/yH9PcfbRHW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066740715867209991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066215843847954502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 喜欢这个 https://t.co/yH9PcfbRHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2066176134195421184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyIPzoboAApWdX.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066176134195421184"
+          ],
+          "media_source_tweet_id": [
+            "2066215843847954502"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2066740715867209991",
+        "created_at": "2026-06-16T04:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066740715867209991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yH9PcfbRHW",
+              "end": 39,
+              "expanded_url": "https://x.com/_ropu/status/2066215843847954502/photo/1",
+              "media_key": "3_2066176134195421184",
+              "start": 16,
+              "url": "https://t.co/yH9PcfbRHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066740715867209991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066215843847954502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 喜欢这个 https://t.co/yH9PcfbRHW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066176134195421184"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2066215843847954502",
+        "created_at": "2026-06-14T17:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066215843847954502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yH9PcfbRHW",
+              "end": 28,
+              "expanded_url": "https://x.com/_ropu/status/2066215843847954502/photo/1",
+              "media_key": "3_2066176134195421184",
+              "start": 5,
+              "url": "https://t.co/yH9PcfbRHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066215843847954502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 43033,
+          "like_count": 2327,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢这个 https://t.co/yH9PcfbRHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 318,
+          "like_count": 22296,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31253,
+          "following_count": 4398,
+          "like_count": 16137,
+          "listed_count": 32,
+          "media_count": 4789,
+          "tweet_count": 35229
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

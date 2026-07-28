@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2066938196907393498",
+    "created_at": "2026-06-17T17:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067291660665721112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1676119892230037509",
+          "start": 0,
+          "username": "Ayyyyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067291660665721112",
+    "in_reply_to_user_id": "1676119892230037509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066938196907393498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayyyyano 关于这个我觉得如果不着急可以等上大学拿个借记卡先用着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2066937876466814976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK89DCua0AAOMxj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066937876441628672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK89DCoagAA1ZmG.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066937876462686208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK89DCtb0AAkej4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2066938196907393498",
+        "created_at": "2026-06-17T17:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067291660665721112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1676119892230037509",
+              "start": 0,
+              "username": "Ayyyyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067291660665721112",
+        "in_reply_to_user_id": "1676119892230037509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066938196907393498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayyyyano 关于这个我觉得如果不着急可以等上大学拿个借记卡先用着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066937876466814976",
+            "3_2066937876441628672",
+            "3_2066937876462686208"
+          ]
+        },
+        "author_id": "1676119892230037509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2066938196907393498",
+        "created_at": "2026-06-16T17:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066938196907393498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0uJkmmxsE",
+              "end": 177,
+              "expanded_url": "https://x.com/Ayyyyano/status/2066938196907393498/photo/1",
+              "media_key": "3_2066937876466814976",
+              "start": 154,
+              "url": "https://t.co/c0uJkmmxsE"
+            },
+            {
+              "display_url": "pic.x.com/c0uJkmmxsE",
+              "end": 177,
+              "expanded_url": "https://x.com/Ayyyyano/status/2066938196907393498/photo/1",
+              "media_key": "3_2066937876441628672",
+              "start": 154,
+              "url": "https://t.co/c0uJkmmxsE"
+            },
+            {
+              "display_url": "pic.x.com/c0uJkmmxsE",
+              "end": 177,
+              "expanded_url": "https://x.com/Ayyyyano/status/2066938196907393498/photo/1",
+              "media_key": "3_2066937876462686208",
+              "start": 154,
+              "url": "https://t.co/c0uJkmmxsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066938196907393498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1716,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未成年境内有什么容易办的 MasterCard / Visa 卡吗? \n听说招行好办就在线上申请了一张，16 岁以上填身份证可以成功申请。但到线下拿卡的时候说得家长代办且需要验证亲属关系。\n工作人员说带自己和家长的身份证与出生证明，结果自己的出生证明上没有姓名过不了，带上了户口本也是说没办法确定亲属关系。 https://t.co/c0uJkmmxsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 328,
+          "like_count": 23287,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T06:45:32.000Z",
+        "description": "Into the World / 请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekro.top",
+                "end": 23,
+                "expanded_url": "https://www.nekro.top/",
+                "start": 0,
+                "url": "https://t.co/INXz8Am8Dg"
+              }
+            ]
+          }
+        },
+        "id": "1676119892230037509",
+        "location": "幻想乡",
+        "name": "Pavlova",
+        "pinned_tweet_id": "2064340191507337636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062800747704864769/8r1KiyMq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 233,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/INXz8Am8Dg",
+        "username": "Ayyyyano",
+        "verified": false
+      }
+    ]
+  }
+}

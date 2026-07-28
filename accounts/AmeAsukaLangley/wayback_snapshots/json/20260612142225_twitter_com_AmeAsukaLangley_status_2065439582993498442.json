@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2065370183431266447",
+    "created_at": "2026-06-12T14:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065439582993498442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1299233902066692097",
+          "start": 0,
+          "username": "NekoSukiXoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065439582993498442",
+    "in_reply_to_user_id": "1299233902066692097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065434000362283098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoSukiXoX 也很棒啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2065433984478375937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnlRAfacAEqAEl.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2065370183431266447",
+        "created_at": "2026-06-12T14:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065439582993498442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1299233902066692097",
+              "start": 0,
+              "username": "NekoSukiXoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065439582993498442",
+        "in_reply_to_user_id": "1299233902066692097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065434000362283098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoSukiXoX 也很棒啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065433984478375937"
+          ]
+        },
+        "author_id": "1299233902066692097",
+        "conversation_id": "2065370183431266447",
+        "created_at": "2026-06-12T14:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065434000362283098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/carPxIqXik",
+              "end": 45,
+              "expanded_url": "https://x.com/NekoSukiXoX/status/2065434000362283098/photo/1",
+              "media_key": "3_2065433984478375937",
+              "start": 22,
+              "url": "https://t.co/carPxIqXik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065434000362283098",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065370183431266447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 会瞎画… https://t.co/carPxIqXik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 306,
+          "like_count": 20932,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T06:34:47.000Z",
+        "description": "キモいの雑魚変態バカ一只/中英日はOK/喜欢碎碎念/2010.11出厂/初三在读/想要变成可爱的女孩子/水仙/深柜/MTF/酒蒙子/偶尔自残(确信)/已累似/希望25岁前似掉/可互fo喔\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 0,
+                "url": "https://t.co/bEwcPWU8h3"
+              }
+            ]
+          }
+        },
+        "id": "1299233902066692097",
+        "location": "NightCity",
+        "name": "𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲🏳️‍⚧️",
+        "pinned_tweet_id": "2063600929774109039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 168,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/bEwcPWU8h3",
+        "username": "NekoSukiXoX",
+        "verified": true
+      }
+    ]
+  }
+}

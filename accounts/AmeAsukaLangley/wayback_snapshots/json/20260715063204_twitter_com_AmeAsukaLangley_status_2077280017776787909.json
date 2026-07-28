@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2077242186777927917",
+    "created_at": "2026-07-15T06:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077280017776787909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841429529413529600",
+          "start": 0,
+          "username": "LazyCataww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077280017776787909",
+    "in_reply_to_user_id": "1841429529413529600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077242186777927917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazyCataww 那确实是，但我是感觉猫狗肉尊重但不理解，毕竟老家那边挺多狗肉馆的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2077242178636746752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPYwXoaEAABx1h.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2077242186777927917",
+        "created_at": "2026-07-15T06:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077280017776787909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841429529413529600",
+              "start": 0,
+              "username": "LazyCataww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077280017776787909",
+        "in_reply_to_user_id": "1841429529413529600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077242186777927917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazyCataww 那确实是，但我是感觉猫狗肉尊重但不理解，毕竟老家那边挺多狗肉馆的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077242178636746752"
+          ]
+        },
+        "author_id": "1841429529413529600",
+        "conversation_id": "2077242186777927917",
+        "created_at": "2026-07-15T04:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077242186777927917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJGughNZBn",
+              "end": 84,
+              "expanded_url": "https://x.com/LazyCataww/status/2077242186777927917/photo/1",
+              "media_key": "3_2077242178636746752",
+              "start": 61,
+              "url": "https://t.co/iJGughNZBn"
+            },
+            {
+              "display_url": "x.com/ameasukalangle…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/ameasukalangley/status/2076904685534077317",
+              "start": 85,
+              "url": "https://t.co/iLhHySFpVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077242186777927917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076904685534077317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "内脏只要不是生殖器官泌尿系统我都能接受（什么鞭，腰子，动物的睾丸，子宫之类的）\n猫狗能接受因为我是中国人🤓\n虽然我没吃过 https://t.co/iJGughNZBn https://t.co/iLhHySFpVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 349,
+          "like_count": 27833,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "emm缺爱逼泛（双？）性恋（x）爱喝酒爱吃菠萝白切鸡……长发男短发女重度依赖（确信）喜欢年上但长相多半没人喜欢……想不起来了……会写欧体不抽烟没精神疾病……差不多这些XD……很喜欢一句歌词：别忘了寂寞的山谷的角落里野百合也有春天！",
+        "id": "1841429529413529600",
+        "name": "天雨雋子",
+        "pinned_tweet_id": "2050612191548825768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068341947690082304/T7DnUdZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 337,
+          "like_count": 11888,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2579
+        },
+        "url": "",
+        "username": "LazyCataww",
+        "verified": false
+      }
+    ]
+  }
+}

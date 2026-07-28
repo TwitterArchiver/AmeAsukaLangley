@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2080985123710005314",
+    "created_at": "2026-07-25T14:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081027379770618040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775846129243942912",
+          "start": 0,
+          "username": "yelai431420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081027379770618040",
+    "in_reply_to_user_id": "1775846129243942912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080985123710005314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yelai431420 如果真有有这样的妈妈我为什么要选择磕药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2164,
+        "media_key": "3_2080985120962715648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEk8SXbIAAh3tj.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2080985123710005314",
+        "created_at": "2026-07-25T14:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081027379770618040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081027379770618040",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080985123710005314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 如果真有有这样的妈妈我为什么要选择磕药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080985120962715648"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2080985123710005314",
+        "created_at": "2026-07-25T11:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080985123710005314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWgT0Xg0Jv",
+              "end": 39,
+              "expanded_url": "https://x.com/yelai431420/status/2080985123710005314/photo/1",
+              "media_key": "3_2080985120962715648",
+              "start": 16,
+              "url": "https://t.co/hWgT0Xg0Jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080985123710005314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 646,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒药吧的传奇母亲。我也想要。😿 https://t.co/hWgT0Xg0Jv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 350,
+          "like_count": 28075,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "附庸的附庸/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebGwM5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 44,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 21,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgfmTr"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "!",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 276,
+          "like_count": 2819,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/yiPFTgfmTr",
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2067042628391379029",
+    "created_at": "2026-06-17T00:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067042628391379029"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "まのさばネタバレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1180051867",
+          "start": 3,
+          "username": "ssvs73608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067042628391379029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066871761623453803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssvs73608: #まのさばネタバレ\n有人說魔裁\n比較熱的角色是雪莉跟梅露露\n比較冷的角色是亞里莎跟奈葉香\n\n我一開始本來想說點什麼\n直到我看懂後就沒意見了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2067042628391379029",
+        "created_at": "2026-06-17T00:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067042628391379029"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1180051867",
+              "start": 3,
+              "username": "ssvs73608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067042628391379029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066871761623453803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssvs73608: #まのさばネタバレ\n有人說魔裁\n比較熱的角色是雪莉跟梅露露\n比較冷的角色是亞里莎跟奈葉香\n\n我一開始本來想說點什麼\n直到我看懂後就沒意見了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180051867",
+        "conversation_id": "2066871761623453803",
+        "created_at": "2026-06-16T13:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066871761623453803"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさばネタバレ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066871761623453803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4942,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさばネタバレ\n有人說魔裁\n比較熱的角色是雪莉跟梅露露\n比較冷的角色是亞里莎跟奈葉香\n\n我一開始本來想說點什麼\n直到我看懂後就沒意見了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 322,
+          "like_count": 22919,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1563
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-14T19:02:03.000Z",
+        "description": "コメントやメッセージご自由に\n《スタァライト》神楽ひかり推し\n《まのさば》ヒロ推し\nall推し派\n\n🔞垢 @yue_ero18\nFanbox：https://t.co/bj0FFs3Yec\nFantia：https://t.co/p442WZ45uV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "yue_ero18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yuetan.fanbox.cc",
+                "end": 94,
+                "expanded_url": "https://yuetan.fanbox.cc/",
+                "start": 71,
+                "url": "https://t.co/bj0FFs3Yec"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/503270",
+                "end": 125,
+                "expanded_url": "https://fantia.jp/fanclubs/503270",
+                "start": 102,
+                "url": "https://t.co/p442WZ45uV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/ssvs73608",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/ssvs73608",
+                "start": 0,
+                "url": "https://t.co/MqUh4wDYfH"
+              }
+            ]
+          }
+        },
+        "id": "1180051867",
+        "location": "台灣",
+        "name": "玥炭(ゆえたん)@C108（土）東ナ 50b/異ノ祭2【E-11】委託参加",
+        "pinned_tweet_id": "1389109476293189634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231449212757262336/4h-CYPYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6435,
+          "following_count": 1812,
+          "like_count": 9798,
+          "listed_count": 51,
+          "media_count": 2928,
+          "tweet_count": 17364
+        },
+        "url": "https://t.co/MqUh4wDYfH",
+        "username": "ssvs73608",
+        "verified": false
+      }
+    ]
+  }
+}
