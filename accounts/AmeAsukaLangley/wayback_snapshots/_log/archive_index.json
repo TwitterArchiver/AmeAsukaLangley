@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T14:31:05",
+  "last_updated": "2026-07-28T14:32:15",
   "html": {
     "https://web.archive.org/web/20260610094416if_/https://twitter.com/AmeAsukaLangley/status/2064644809130950904": {
       "status": "done",
@@ -6143,9 +6143,9 @@
       "referenced_by": [
         "20260611044708_twitter_com_AmeAsukaLangley_status_2064932422358347931.json"
       ],
-      "last_updated": "2026-07-28T14:17:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611044708if_/https://pbs.twimg.com/profile_images/2001212791013957632/ZFV4sHdP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9dffcd40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:31:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611044708im_/https://pbs.twimg.com/profile_images/2001212791013957632/ZFV4sHdP_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca047b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg": {
       "status": "done",
@@ -6405,9 +6405,9 @@
       "referenced_by": [
         "20260613051859_twitter_com_AmeAsukaLangley_status_2065665210992738427.json"
       ],
-      "last_updated": "2026-07-28T14:17:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613051859if_/https://pbs.twimg.com/profile_images/2060272865400987648/cHhB1Ceb_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9de1faa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:31:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613051859im_/https://pbs.twimg.com/profile_images/2060272865400987648/cHhB1Ceb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca0be6f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2056979654725283840/-M_pi1dm_normal.jpg": {
       "status": "done",
@@ -6511,9 +6511,9 @@
         "20260618194412_twitter_com_AmeAsukaLangley_status_2067694891334058229.json",
         "20260618200110_twitter_com_AmeAsukaLangley_status_2067699161747837012.json"
       ],
-      "last_updated": "2026-07-28T14:17:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618200110if_/https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9de6c950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:31:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618200110im_/https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca0bdee0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg": {
       "status": "done",
@@ -6698,11 +6698,11 @@
       "last_updated": "2026-07-28T14:17:29"
     },
     "https://pbs.twimg.com/profile_images/2066432686064123905/bgwUMZhm_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260615121745_twitter_com_AmeAsukaLangley_status_2066495375184454060.json"
       ],
-      "last_updated": "2026-07-28T14:17:33",
+      "last_updated": "2026-07-28T14:31:26",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615121745if_/https://pbs.twimg.com/profile_images/2066432686064123905/bgwUMZhm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9dcb6450>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -6723,9 +6723,9 @@
       "referenced_by": [
         "20260616072450_twitter_com_AmeAsukaLangley_status_2066784048975069302.json"
       ],
-      "last_updated": "2026-07-28T14:17:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616072450if_/https://pbs.twimg.com/profile_images/2065266649650069504/3o28PO5B_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9de1f200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:31:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616072450im_/https://pbs.twimg.com/profile_images/2065266649650069504/3o28PO5B_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca0f8e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1935308151785394176/7Yjx61XC_normal.jpg": {
       "status": "done",
@@ -6756,9 +6756,9 @@
       "referenced_by": [
         "20260616153427_twitter_com_AmeAsukaLangley_status_2066907264355836018.json"
       ],
-      "last_updated": "2026-07-28T14:17:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616153427if_/https://pbs.twimg.com/profile_images/1580752318286295040/CMv7KtOS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9dc7f230>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:31:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616153427im_/https://pbs.twimg.com/profile_images/1580752318286295040/CMv7KtOS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca0be2a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2062582170120855552/o_wJwRLU_normal.jpg": {
       "status": "done",
@@ -6795,9 +6795,9 @@
       "referenced_by": [
         "20260616210748_twitter_com_AmeAsukaLangley_status_2066991151597699087.json"
       ],
-      "last_updated": "2026-07-28T14:17:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616210748if_/https://pbs.twimg.com/profile_images/2066801096019034113/cl1hWS2Q_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9de4c470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:31:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616210748im_/https://pbs.twimg.com/profile_images/2066801096019034113/cl1hWS2Q_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca0fae40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2051028867230658560/Ub-5J11Y_normal.jpg": {
       "status": "done",
@@ -6811,9 +6811,9 @@
       "referenced_by": [
         "20260617001206_twitter_com_AmeAsukaLangley_status_2067037535487021316.json"
       ],
-      "last_updated": "2026-07-28T14:17:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617001206if_/https://pbs.twimg.com/profile_images/2006917223009722368/i3FmF0f2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9df46a50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:31:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617001206im_/https://pbs.twimg.com/profile_images/2006917223009722368/i3FmF0f2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca046210>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg": {
       "status": "done",
@@ -6919,9 +6919,9 @@
       "referenced_by": [
         "20260617035457_twitter_com_AmeAsukaLangley_status_2067093615139340561.json"
       ],
-      "last_updated": "2026-07-28T14:17:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617035457if_/https://pbs.twimg.com/profile_images/2066466786904870912/xG412lqg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9dcb7140>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:32:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617035457im_/https://pbs.twimg.com/profile_images/2066466786904870912/xG412lqg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca2082c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg": {
       "status": "done",
@@ -7017,13 +7017,13 @@
       "last_updated": "2026-07-28T14:17:30"
     },
     "https://pbs.twimg.com/profile_images/2066851577319825408/pJaaRkGl_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260617042604_twitter_com_AmeAsukaLangley_status_2067101445271523604.json",
         "20260618034322_twitter_com_AmeAsukaLangley_status_2067453090694054116.json",
         "20260618034409_twitter_com_AmeAsukaLangley_status_2067453285540454539.json"
       ],
-      "last_updated": "2026-07-28T14:17:33",
+      "last_updated": "2026-07-28T14:31:26",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618034409if_/https://pbs.twimg.com/profile_images/2066851577319825408/pJaaRkGl_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9df97d10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -7148,9 +7148,9 @@
       "referenced_by": [
         "20260618100420_twitter_com_AmeAsukaLangley_status_2067548964090769657.json"
       ],
-      "last_updated": "2026-07-28T14:17:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618100420if_/https://pbs.twimg.com/profile_images/2065496850543886336/YehlHnbZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9dcb7920>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:32:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618100420im_/https://pbs.twimg.com/profile_images/2065496850543886336/YehlHnbZ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca0fbfb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2004914578770329600/-wLelY51_normal.jpg": {
       "status": "done",
@@ -7260,9 +7260,9 @@
       "referenced_by": [
         "20260619101415_twitter_com_AmeAsukaLangley_status_2067913846556438716.json"
       ],
-      "last_updated": "2026-07-28T14:17:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619101415if_/https://pbs.twimg.com/profile_images/2066928123523051520/E5ku9piX_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9df95070>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:32:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619101415im_/https://pbs.twimg.com/profile_images/2066928123523051520/E5ku9piX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca209ac0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg": {
       "status": "done",
@@ -7656,9 +7656,9 @@
         "20260706144132_twitter_com_AmeAsukaLangley_status_2074141704400282076.json",
         "20260714055845_twitter_com_AmeAsukaLangley_status_2076909244188905547.json"
       ],
-      "last_updated": "2026-07-28T14:17:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714055845if_/https://pbs.twimg.com/profile_images/2062307192209063936/FNlDzm4g_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9dd7e930>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:32:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714055845im_/https://pbs.twimg.com/profile_images/2062307192209063936/FNlDzm4g_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca0fbda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1987548177243992064/UniIXj95_normal.jpg": {
       "status": "done",
@@ -8036,9 +8036,9 @@
       "referenced_by": [
         "20260719074146_twitter_com_AmeAsukaLangley_status_2078747108350325061.json"
       ],
-      "last_updated": "2026-07-28T14:17:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719074146if_/https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3c9df47c20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:32:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719074146im_/https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cca209730>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg": {
       "status": "done",
@@ -10660,7 +10660,7 @@
       "last_updated": "2026-07-28T14:17:29"
     },
     "20260615121745_twitter_com_AmeAsukaLangley_status_2066495375184454060.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10669,7 +10669,7 @@
           "https://pbs.twimg.com/profile_images/2066432686064123905/bgwUMZhm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T14:31:05",
+      "last_updated": "2026-07-28T14:31:26",
       "miss_count": 2
     },
     "20260615121905_twitter_com_AmeAsukaLangley_status_2066495708119843026.json": {
@@ -11509,7 +11509,7 @@
       "last_updated": "2026-07-28T14:17:30"
     },
     "20260617042604_twitter_com_AmeAsukaLangley_status_2067101445271523604.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK_PbYQaoAAfnCC.jpg"
@@ -11520,7 +11520,7 @@
           "https://pbs.twimg.com/profile_images/2066851577319825408/pJaaRkGl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T14:31:05",
+      "last_updated": "2026-07-28T14:31:26",
       "miss_count": 2
     },
     "20260617042730_twitter_com_AmeAsukaLangley_status_2067101808225632369.json": {
@@ -12237,7 +12237,7 @@
       "last_updated": "2026-07-28T14:17:30"
     },
     "20260618034322_twitter_com_AmeAsukaLangley_status_2067453090694054116.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12246,11 +12246,11 @@
           "https://pbs.twimg.com/profile_images/2066851577319825408/pJaaRkGl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T14:31:05",
+      "last_updated": "2026-07-28T14:31:26",
       "miss_count": 2
     },
     "20260618034409_twitter_com_AmeAsukaLangley_status_2067453285540454539.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12259,7 +12259,7 @@
           "https://pbs.twimg.com/profile_images/2066851577319825408/pJaaRkGl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T14:31:05",
+      "last_updated": "2026-07-28T14:31:26",
       "miss_count": 2
     },
     "20260618054257_twitter_com_AmeAsukaLangley_status_2067483184691048684.json": {
