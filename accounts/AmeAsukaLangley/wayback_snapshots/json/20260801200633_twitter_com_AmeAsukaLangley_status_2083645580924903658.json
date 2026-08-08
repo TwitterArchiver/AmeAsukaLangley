@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2083553660852986091",
+    "created_at": "2026-08-01T20:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083645580924903658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054587695490613248",
+          "start": 0,
+          "username": "agsg_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083645580924903658",
+    "in_reply_to_user_id": "2054587695490613248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083553660852986091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agsg_553 我的信箱完全没人发，过了两个月再一次有人给我发是来骚扰我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2083553660852986091",
+        "created_at": "2026-08-01T20:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083645580924903658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054587695490613248",
+              "start": 0,
+              "username": "agsg_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083645580924903658",
+        "in_reply_to_user_id": "2054587695490613248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083553660852986091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agsg_553 我的信箱完全没人发，过了两个月再一次有人给我发是来骚扰我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054587695490613248",
+        "conversation_id": "2083553660852986091",
+        "created_at": "2026-08-01T14:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083553660852986091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/agnk_553",
+              "end": 53,
+              "expanded_url": "https://ngl.link/agnk_553",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2083553694860427264/wVXy6_Tp?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083553694860427264/wVXy6_Tp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "@agnk_553: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/agnk_553",
+              "url": "https://t.co/TijwDrdxD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553660852986091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QAQ为什么没有人给我发ngl喵\nAsk Anything\nhttps://t.co/TijwDrdxD7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 364,
+          "like_count": 29637,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T15:41:14.000Z",
+        "description": "AG553 they/them\n另一个号gban了没解除暂时不登了\nEN😋/CN😋/JP🔰\nDTM/Minecraft/音ゲー/FPV\n本体/日常:@agnk_553\n求回foQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 74,
+                "username": "agnk_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/maVhPxynIr"
+              }
+            ]
+          }
+        },
+        "id": "2054587695490613248",
+        "name": "AG553_Nyan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082125765622333440/uANxfXCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 100,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/maVhPxynIr",
+        "username": "agsg_553",
+        "verified": false
+      }
+    ]
+  }
+}

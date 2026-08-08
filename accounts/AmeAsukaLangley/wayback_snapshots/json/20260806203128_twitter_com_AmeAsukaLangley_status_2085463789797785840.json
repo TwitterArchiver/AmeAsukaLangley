@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2085377852711866675",
+    "created_at": "2026-08-06T20:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T21:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085463789797785840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054587695490613248",
+          "start": 0,
+          "username": "agsg_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085463789797785840",
+    "in_reply_to_user_id": "2054587695490613248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085459844673495471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agsg_553 反正我现在已经过了那种对音游很热爱的阶段了了我也打不来，我也没天赋，我也不是没有练过，假如让我重来一回我绝对不碰这个，在墙内不是被跳脸就是被跳脸，自己打又打不明白，先天协调天残音律白痴碰这个跟他妈吃大便有什么区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2085377852711866675",
+        "created_at": "2026-08-06T20:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085463789797785840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054587695490613248",
+              "start": 0,
+              "username": "agsg_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085463789797785840",
+        "in_reply_to_user_id": "2054587695490613248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085459844673495471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agsg_553 反正我现在已经过了那种对音游很热爱的阶段了了我也打不来，我也没天赋，我也不是没有练过，假如让我重来一回我绝对不碰这个，在墙内不是被跳脸就是被跳脸，自己打又打不明白，先天协调天残音律白痴碰这个跟他妈吃大便有什么区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054587695490613248",
+        "conversation_id": "2085377852711866675",
+        "created_at": "2026-08-06T20:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085459844673495471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085459844673495471",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085458290419322946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 对…，力竭了 这种人还觉得自己打得好自己就是对的自己能代表整个圈子 有这天赋不享受游戏来混小团体真是没招了 更招笑是打得没他们强他们觉得你低一等 打得比他们强他们就觉得你装。不知道这些团体是怎么聚在一起的…，\n附加额外buff之上推特只为了看片和各种ranker然后发表爱国言论并且往墙内发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 378,
+          "like_count": 30436,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2531
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T15:41:14.000Z",
+        "description": "AG553 they/them\n大号gban了没解除暂时不登了\nEN😋/CN😋/JP🔰\nDTM/Minecraft/音ゲー/FPV\n本体/日常:@agnk_553\n求回foQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "agnk_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/maVhPxynIr"
+              }
+            ]
+          }
+        },
+        "id": "2054587695490613248",
+        "name": "AG553_Nyan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082125765622333440/uANxfXCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 132,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/maVhPxynIr",
+        "username": "agsg_553",
+        "verified": false
+      }
+    ]
+  }
+}

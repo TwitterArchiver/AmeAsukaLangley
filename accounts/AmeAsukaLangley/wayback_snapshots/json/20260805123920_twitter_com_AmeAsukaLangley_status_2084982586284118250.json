@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2084780390766809097",
+    "created_at": "2026-08-05T12:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084982586284118250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2078955531767853056",
+          "start": 0,
+          "username": "opsd5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084982586284118250",
+    "in_reply_to_user_id": "2078955531767853056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084780390766809097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opsd5f 用你吗分头的草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2084780390766809097",
+        "created_at": "2026-08-05T12:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084982586284118250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2078955531767853056",
+              "start": 0,
+              "username": "opsd5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084982586284118250",
+        "in_reply_to_user_id": "2078955531767853056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084780390766809097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opsd5f 用你吗分头的草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078955531767853056",
+        "conversation_id": "2084780390766809097",
+        "created_at": "2026-08-04T23:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084780390766809097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084780390766809097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伪娘药娘一般是怎么满足自己的？\n剁屌的是用肛吗？没剁的两边都满足吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 375,
+          "like_count": 30234,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T21:33:18.000Z",
+        "description": "我是一个正常人\n不会把自己的睾丸还有阴茎给割掉试做骄傲\n不会把纸片人的头像当做自己，不会认为纸片人的生命大于人\n也不会贬低自己的国家，去舔外国的屁眼\n坚持武统台湾\n坚持一个中国原则\n反跨性别恋者，反同性恋，反伪娘药娘群体",
+        "id": "2078955531767853056",
+        "location": "雨隐村",
+        "name": "漩涡长门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084766438796255232/a-RPsHSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "opsd5f",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2084298303408337153",
+    "created_at": "2026-08-03T16:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084316403734065509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762372293559476224",
+          "start": 0,
+          "username": "oo3790310189007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084316403734065509",
+    "in_reply_to_user_id": "1762372293559476224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084315163738706156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oo3790310189007 加油呀...会好起来的，也很感谢你主动fo我呀，不然我又错过一个有趣的灵魂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2084298303408337153",
+        "created_at": "2026-08-03T16:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084316403734065509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1762372293559476224",
+              "start": 0,
+              "username": "oo3790310189007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084316403734065509",
+        "in_reply_to_user_id": "1762372293559476224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084315163738706156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oo3790310189007 加油呀...会好起来的，也很感谢你主动fo我呀，不然我又错过一个有趣的灵魂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762372293559476224",
+        "conversation_id": "2084298303408337153",
+        "created_at": "2026-08-03T16:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084315163738706156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084315163738706156",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084311871994118176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 谢谢你！我喜欢你置顶的内容喜欢你的碎碎念，很开心你主动评论我，因为我没有这样的勇气😿好心态决定傻狗的一生，我会不断坚实自己，调整心态，这样遇到什么问题也都不用担心因为那个时候我应该已经足够坚强！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 372,
+          "like_count": 30102,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2418
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T07:01:38.000Z",
+        "description": "想要好好看看待我友善，真心的欣赏我看见我夸奖我的人。我想要注视你的情绪想法和生活，想为你忧心或欣喜，在心里默默为你祝福或祈祷\n努力温良，努力贴近，心是柔软的，灵魂是轻盈的所有。\n拜托慢慢说话吧",
+        "id": "1762372293559476224",
+        "name": "o-o",
+        "pinned_tweet_id": "2084298303408337153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146856482353152/Ppl9Nkp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 62,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "oo3790310189007",
+        "verified": false
+      }
+    ]
+  }
+}

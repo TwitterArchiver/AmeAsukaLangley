@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2082254221869756892",
+    "created_at": "2026-07-28T23:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082254221869756892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1346734643744100352",
+          "start": 3,
+          "username": "asami_haru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082254221869756892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081679255201841642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asami_haru_: 先日のイベントの際、花束やお手紙、プレゼント受け取らせていただきました！\nありがとうございます😭✨️❤️\n\n時間をかけてペンを走らせてくださったり、浅見のことを考えてプレゼントを選んでくださったり…皆さんからの愛を全身で感じています🥲🫰🏻❣️……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081679243982118912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOcPkHboAA5sYD.jpg",
+        "width": 1716
+      },
+      {
+        "height": 1548,
+        "media_key": "3_2081679243940171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOcPj9bkAApLEq.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "浅見もこの前このシリーズのガチャを回したのですがその時はクロミちゃんお迎えできず…！\nまさかの🥹ありがとうございます🥹",
+        "height": 1176,
+        "media_key": "3_2081679243935981568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOcPj8boAASarl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2082254221869756892",
+        "created_at": "2026-07-28T23:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082254221869756892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1346734643744100352",
+              "start": 3,
+              "username": "asami_haru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082254221869756892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081679255201841642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asami_haru_: 先日のイベントの際、花束やお手紙、プレゼント受け取らせていただきました！\nありがとうございます😭✨️❤️\n\n時間をかけてペンを走らせてくださったり、浅見のことを考えてプレゼントを選んでくださったり…皆さんからの愛を全身で感じています🥲🫰🏻❣️……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081679243982118912",
+            "3_2081679243940171776",
+            "3_2081679243935981568"
+          ]
+        },
+        "author_id": "1346734643744100352",
+        "conversation_id": "2081679255201841642",
+        "created_at": "2026-07-27T09:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081679255201841642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ud80hts1yc",
+              "end": 145,
+              "expanded_url": "https://x.com/asami_haru_/status/2081679255201841642/photo/1",
+              "media_key": "3_2081679243982118912",
+              "start": 122,
+              "url": "https://t.co/ud80hts1yc"
+            },
+            {
+              "display_url": "pic.x.com/ud80hts1yc",
+              "end": 145,
+              "expanded_url": "https://x.com/asami_haru_/status/2081679255201841642/photo/1",
+              "media_key": "3_2081679243940171776",
+              "start": 122,
+              "url": "https://t.co/ud80hts1yc"
+            },
+            {
+              "display_url": "pic.x.com/ud80hts1yc",
+              "end": 145,
+              "expanded_url": "https://x.com/asami_haru_/status/2081679255201841642/photo/1",
+              "media_key": "3_2081679243935981568",
+              "start": 122,
+              "url": "https://t.co/ud80hts1yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081679255201841642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "先日のイベントの際、花束やお手紙、プレゼント受け取らせていただきました！\nありがとうございます😭✨️❤️\n\n時間をかけてペンを走らせてくださったり、浅見のことを考えてプレゼントを選んでくださったり…皆さんからの愛を全身で感じています🥲🫰🏻❣️\n出演作のことや、実況みたいな感じで感想をお伝えしてくださったり嬉しい🥹\n\n暑い夏乗り越えましょうね✌️\n浅見は最近〝山形だし〟を作って夏バテ対策してます✌️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1086,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "先日のイベントの際、花束やお手紙、プレゼント受け取らせていただきました！\nありがとうございます😭✨️❤️\n\n時間をかけてペンを走らせてくださったり、浅見のことを考えてプレゼントを選んでくださったり…皆さんからの愛を全身で感じています🥲🫰🏻❣️ https://t.co/ud80hts1yc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 353,
+          "like_count": 28661,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T08:26:03.000Z",
+        "description": "EARLYWING新人声優の浅見春那です🌷福井県出身🦖#魔入りました入間くん(エイコ)/#アニメ鑑定士仮(ファウナ)/#ハイスクール奇面組(出瀬清)/#ヘブバン(命吹雪)/#ポケモンフレンダ(案内ボイス)/#ガールズフィスト!!!!GT(Vo.奈川芳野)🎤💙etc...※事務所スタッフが呟くこともあります",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 27,
+                "tag": "魔入りました入間くん"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "tag": "アニメ鑑定士仮"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "tag": "ハイスクール奇面組"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "ヘブバン"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "tag": "ポケモンフレンダ"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "tag": "ガールズフィスト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "earlywing.co.jp/actordb/catea/…",
+                "end": 23,
+                "expanded_url": "https://www.earlywing.co.jp/actordb/catea/talent_asamiharuna",
+                "start": 0,
+                "url": "https://t.co/1UgMXNS4fq"
+              }
+            ]
+          }
+        },
+        "id": "1346734643744100352",
+        "location": "EARLYWING",
+        "name": "浅見春那@9/20＆21📕『少女ハムレット〜茜色の事件簿〜'26』 📍参宮橋トランスミッション",
+        "pinned_tweet_id": "2051965884999360886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050458973137190912/-qbA8oaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6316,
+          "following_count": 603,
+          "like_count": 20894,
+          "listed_count": 135,
+          "media_count": 902,
+          "tweet_count": 6222
+        },
+        "url": "https://t.co/1UgMXNS4fq",
+        "username": "asami_haru_",
+        "verified": true
+      }
+    ]
+  }
+}

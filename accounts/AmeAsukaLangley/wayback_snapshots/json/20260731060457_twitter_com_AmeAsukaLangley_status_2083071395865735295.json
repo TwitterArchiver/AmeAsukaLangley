@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2083011110119317698",
+    "created_at": "2026-07-31T06:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083071395865735295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        },
+        {
+          "end": 20,
+          "id": "1942770189030023174",
+          "start": 10,
+          "username": "Ariyairis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083071395865735295",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083011110119317698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 @Ariyairis 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2083011110119317698",
+        "created_at": "2026-07-31T06:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083071395865735295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            },
+            {
+              "end": 20,
+              "id": "1942770189030023174",
+              "start": 10,
+              "username": "Ariyairis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083071395865735295",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083011110119317698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 @Ariyairis 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2083011110119317698",
+        "created_at": "2026-07-31T02:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083011110119317698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083011110119317698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Ok啊，也是达到1000fo了\n接下来就是抽奖了\n参加抽奖的条件为:转贴关注点赞评论\n特等奖:13.14元\n一等奖:11.45元\n二等奖:7.77元\n三等奖:5.20元\n四等奖:2.16元\n安慰奖/参与奖:1元，需要主动联系我，没有联系我的自动放弃安慰奖/参与奖\n三天之后的中午3点开奖\n小波奇没什么钱，所以就这样了，对不起，小波奇穷穷的，是个小可怜呢\n会用grok开奖，保证公平公正"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1188,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Ok啊，也是达到1000fo了\n接下来就是抽奖了\n参加抽奖的条件为:转贴关注点赞评论\n特等奖:13.14元\n一等奖:11.45元\n二等奖:7.77元\n三等奖:5.20元\n四等奖:2.16元\n安慰奖/参与奖:1元，需要主动联系我，没有联系我的自动放弃安慰奖/参与奖\n三天之后的中午3点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 361,
+          "like_count": 29297,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 705,
+          "like_count": 13407,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T02:18:21.000Z",
+        "description": "我是可爱的超级天使酱哦！2008.1.22｜水瓶座｜adhd｜焦虑｜抑郁 可以互fo/找我玩",
+        "id": "1942770189030023174",
+        "name": "超级天使酱",
+        "pinned_tweet_id": "2078132194460201340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032773880352485376/-vXmFljl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 506,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "Ariyairis",
+        "verified": false
+      }
+    ]
+  }
+}

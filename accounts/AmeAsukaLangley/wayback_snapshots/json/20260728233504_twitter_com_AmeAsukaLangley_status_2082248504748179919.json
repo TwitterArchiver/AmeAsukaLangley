@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2082072749829398845",
+    "created_at": "2026-07-28T23:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082248504748179919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2034972955294539781",
+          "start": 0,
+          "username": "FliexLanPACZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082248504748179919",
+    "in_reply_to_user_id": "2034972955294539781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082072749829398845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FliexLanPACZ 摸摸泥..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2082072749829398845",
+        "created_at": "2026-07-28T23:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082248504748179919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2034972955294539781",
+              "start": 0,
+              "username": "FliexLanPACZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082248504748179919",
+        "in_reply_to_user_id": "2034972955294539781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082072749829398845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FliexLanPACZ 摸摸泥..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034972955294539781",
+        "conversation_id": "2082072749829398845",
+        "created_at": "2026-07-28T11:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082072749829398845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082072749829398845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我不想剪头发，我想。。。”（砸桌声）“你看看你头发都长什么样子了，你看看这样子多丑啊”“你让我剪的发型更丑”“你不懂，这样子多活力自在啊？你的养父母都把你当亲儿子养，我们给你的都是最好的”“我不剪。”（撕扯声）“不行，明天你叔要和我们吃饭，你这个样子像什么话”“我不。。呜”（巴掌声和倒地声）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 352,
+          "like_count": 28507,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T12:39:05.000Z",
+        "description": "是空二澜雨丫「そらじ らんう（soraji ran’u）」异瞳（右眼白色，左眼红色）喜欢打游戏 梦想是当鼓手，失忆症（14岁之前的记忆都忘记了）双向情感障碍/中度抑郁，PTSD无性别主义者，友人@qianye_zhenyu名片画师\n@e01i3UStwnQjtSd\n\n豪猫大人！rua！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 97,
+                "username": "qianye_zhenyu"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "e01i3UStwnQjtSd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FliexLan",
+                "end": 23,
+                "expanded_url": "https://t.me/FliexLan",
+                "start": 0,
+                "url": "https://t.co/j3No5Qc2AN"
+              }
+            ]
+          }
+        },
+        "id": "2034972955294539781",
+        "location": "Kanagawa-ken, Japan",
+        "name": "空二澜雨FliexRunVso-Lan🌈📎",
+        "pinned_tweet_id": "2071622267201822756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053506570215202816/-j8XON6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 290,
+          "like_count": 929,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/j3No5Qc2AN",
+        "username": "FliexLanPACZ",
+        "verified": false
+      }
+    ]
+  }
+}

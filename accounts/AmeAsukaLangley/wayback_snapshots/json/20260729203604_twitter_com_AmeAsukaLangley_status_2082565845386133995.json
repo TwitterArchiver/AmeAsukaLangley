@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2082358165598019614",
+    "created_at": "2026-07-29T20:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082565845386133995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061934893295419392",
+          "start": 0,
+          "username": "changhangon3413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082565845386133995",
+    "in_reply_to_user_id": "2061934893295419392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082358165598019614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changhangon3413 （切换粤语系统）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2082358160317468672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYFtsjb0AAQ-uk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2082358165598019614",
+        "created_at": "2026-07-29T20:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082565845386133995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061934893295419392",
+              "start": 0,
+              "username": "changhangon3413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082565845386133995",
+        "in_reply_to_user_id": "2061934893295419392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082358165598019614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changhangon3413 （切换粤语系统）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082358160317468672"
+          ]
+        },
+        "author_id": "2061934893295419392",
+        "conversation_id": "2082358165598019614",
+        "created_at": "2026-07-29T06:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082358165598019614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gsnhz6OqvK",
+              "end": 88,
+              "expanded_url": "https://x.com/changhangon3413/status/2082358165598019614/photo/1",
+              "media_key": "3_2082358160317468672",
+              "start": 65,
+              "url": "https://t.co/Gsnhz6OqvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082358165598019614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1626,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是何意味，你觉得很好玩吗？妈个嗨，是不是给你脸了，觉得我们关系很好是吗。待人温和一点就蹬鼻子上脸的话，那你挺没有边界感的。垃圾 https://t.co/Gsnhz6OqvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 353,
+          "like_count": 29025,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T22:17:08.000Z",
+        "description": "这是一个无聊的小孩，试图在这上面分享一些日常和无聊的碎碎念。如果有人看的话不胜感激～～～～欢迎私信骚扰（\n手游主要玩舟/终/084 主玩电脑端游戏，最近沉迷于深海迷航2、都市天际线",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qnmd.com",
+                "end": 23,
+                "expanded_url": "http://qnmd.com",
+                "start": 0,
+                "url": "https://t.co/OgK19vHr7Y"
+              }
+            ]
+          }
+        },
+        "id": "2061934893295419392",
+        "location": "Hong Kong",
+        "name": "寒蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061935605882470400/KGS7qQ3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 707,
+          "like_count": 4675,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/OgK19vHr7Y",
+        "username": "changhangon3413",
+        "verified": false
+      }
+    ]
+  }
+}

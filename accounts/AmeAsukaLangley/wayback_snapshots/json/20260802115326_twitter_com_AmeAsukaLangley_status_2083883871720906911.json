@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083883857745489920"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2083883871720906911",
+    "created_at": "2026-08-02T11:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083883871720906911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4VgmszD1ng",
+          "end": 115,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2083883871720906911/photo/1",
+          "media_key": "3_2083883857745489920",
+          "start": 92,
+          "url": "https://t.co/4VgmszD1ng"
+        },
+        {
+          "display_url": "x.com/dsknzb/status/…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/dsknzb/status/2083858045872832516",
+          "start": 116,
+          "url": "https://t.co/Bf2xsOo527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083883871720906911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083858045872832516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "画一半的是要分开讨论的，我怕自杀但是不怕他杀未知看是什么样的未知，怕虫子，讨厌虫子怕老了怕胖了怕没钱怕失败没经历过宠物离去，家长讨厌猫猫狗狗所以什么宠物都没养过，包括鱼之类的小型宠物 https://t.co/4VgmszD1ng https://t.co/Bf2xsOo527"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083883857745489920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtxU-YXMAA6FvL.jpg",
+        "width": 832
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083857990965424128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtZzVHacAA2PLB.jpg",
+        "width": 832
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083858014784933888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtZ0t2bUAAPrPb.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083883857745489920"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2083883871720906911",
+        "created_at": "2026-08-02T11:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083883871720906911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VgmszD1ng",
+              "end": 115,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2083883871720906911/photo/1",
+              "media_key": "3_2083883857745489920",
+              "start": 92,
+              "url": "https://t.co/4VgmszD1ng"
+            },
+            {
+              "display_url": "x.com/dsknzb/status/…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/dsknzb/status/2083858045872832516",
+              "start": 116,
+              "url": "https://t.co/Bf2xsOo527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083883871720906911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083858045872832516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画一半的是要分开讨论的，我怕自杀但是不怕他杀未知看是什么样的未知，怕虫子，讨厌虫子怕老了怕胖了怕没钱怕失败没经历过宠物离去，家长讨厌猫猫狗狗所以什么宠物都没养过，包括鱼之类的小型宠物 https://t.co/4VgmszD1ng https://t.co/Bf2xsOo527"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083857990965424128",
+            "3_2083858014784933888"
+          ]
+        },
+        "author_id": "1287313244693000193",
+        "conversation_id": "2083858045872832516",
+        "created_at": "2026-08-02T10:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083858045872832516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/URgi8AXBDZ",
+              "end": 26,
+              "expanded_url": "https://x.com/dsknzb/status/2083858045872832516/photo/1",
+              "media_key": "3_2083857990965424128",
+              "start": 3,
+              "url": "https://t.co/URgi8AXBDZ"
+            },
+            {
+              "display_url": "pic.x.com/URgi8AXBDZ",
+              "end": 26,
+              "expanded_url": "https://x.com/dsknzb/status/2083858045872832516/photo/1",
+              "media_key": "3_2083858014784933888",
+              "start": 3,
+              "url": "https://t.co/URgi8AXBDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083858045872832516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦 https://t.co/URgi8AXBDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2067483184691048684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 365,
+          "like_count": 29799,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "Blood,Semen,and Death‖18↑‖杂多里垢‖紫薇圣徒@gsdwnff‖匿名箱https://t.co/UQQWQB3ylm‖互fo欢迎‖单纯的屌丝一枚文盲一个讨厌一切文艺相关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "gsdwnff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 70,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 47,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "🚪1145.14",
+        "name": "死海@肉浪狂熱★DarkRed",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078279893423685632/Ku7FAhep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 2345,
+          "like_count": 23698,
+          "listed_count": 2,
+          "media_count": 635,
+          "tweet_count": 16220
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}
