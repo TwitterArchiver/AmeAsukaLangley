@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090148645182316544"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2090148654510407829",
+    "created_at": "2026-08-19T18:47:26.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090148654510407829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5H0YzPM3j0",
+          "end": 156,
+          "expanded_url": "https://x.com/AmeAsukaLangley/status/2090148654510407829/photo/1",
+          "media_key": "3_2090148645182316544",
+          "start": 133,
+          "url": "https://t.co/5H0YzPM3j0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090148654510407829",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090148645182316544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是说好的好好学习努努力就可以上本科了，那我的本科呢，不是说菜就多练就可以提高游戏水平吗，那我的游戏水平呢，一堆phigros的rks都十五十六的说自己好菜一堆kd一点几二点几的说自己玩的不好，我请问了，不好在哪，卖弱凡尔赛的跟踩头有什么区别，去死去死去死去死去死 https://t.co/5H0YzPM3j0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090148645182316544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGzHmPbIAAbtrU.jpg",
+        "width": 494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090148645182316544"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2090148654510407829",
+        "created_at": "2026-08-19T18:47:26.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090148654510407829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5H0YzPM3j0",
+              "end": 156,
+              "expanded_url": "https://x.com/AmeAsukaLangley/status/2090148654510407829/photo/1",
+              "media_key": "3_2090148645182316544",
+              "start": 133,
+              "url": "https://t.co/5H0YzPM3j0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090148654510407829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090148645182316544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是说好的好好学习努努力就可以上本科了，那我的本科呢，不是说菜就多练就可以提高游戏水平吗，那我的游戏水平呢，一堆phigros的rks都十五十六的说自己好菜一堆kd一点几二点几的说自己玩的不好，我请问了，不好在哪，卖弱凡尔赛的跟踩头有什么区别，去死去死去死去死去死 https://t.co/5H0YzPM3j0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2090148654510407829",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 381,
+          "like_count": 32579,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

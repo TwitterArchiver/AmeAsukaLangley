@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2085449237974978573",
+    "created_at": "2026-08-07T15:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085743965928616100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2054127464537022464",
+          "start": 0,
+          "username": "l14n18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085743965928616100",
+    "in_reply_to_user_id": "2054127464537022464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085655128091279360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l14n18 😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2085449237974978573",
+        "created_at": "2026-08-07T15:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085743965928616100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2054127464537022464",
+              "start": 0,
+              "username": "l14n18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085743965928616100",
+        "in_reply_to_user_id": "2054127464537022464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085655128091279360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l14n18 😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054127464537022464",
+        "conversation_id": "2085449237974978573",
+        "created_at": "2026-08-07T09:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085655128091279360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085655128091279360",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085458824928866492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 谢谢你www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 379,
+          "like_count": 30485,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2546
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T09:12:28.000Z",
+        "description": "网络安全学习者，ctf的web狗，业余同人画师，摇滚与术力口爱好者，普通🇨🇳同人女\nsasakure&r-906&hitorie厨🥰🥰",
+        "id": "2054127464537022464",
+        "name": "lian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076400045239435264/4YWwHO69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 183,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "l14n18",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2085736385835930070",
+    "created_at": "2026-08-07T15:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085753790569889976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2071552995691732993",
+          "start": 0,
+          "username": "YuXi520LingLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085753790569889976",
+    "in_reply_to_user_id": "2071552995691732993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085736385835930070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuXi520LingLing 江苏人吃安徽人是个啥😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2085736376025362432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIGLuwaMAAJly9.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2085736385835930070",
+        "created_at": "2026-08-07T15:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085753790569889976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071552995691732993",
+              "start": 0,
+              "username": "YuXi520LingLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085753790569889976",
+        "in_reply_to_user_id": "2071552995691732993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085736385835930070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuXi520LingLing 江苏人吃安徽人是个啥😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085736376025362432"
+          ]
+        },
+        "author_id": "2071552995691732993",
+        "conversation_id": "2085736385835930070",
+        "created_at": "2026-08-07T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085736385835930070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TMdYG5BNs",
+              "end": 33,
+              "expanded_url": "https://x.com/YuXi520LingLing/status/2085736385835930070/photo/1",
+              "media_key": "3_2085736376025362432",
+              "start": 10,
+              "url": "https://t.co/4TMdYG5BNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085736385835930070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "江苏人也来说道说道 https://t.co/4TMdYG5BNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 381,
+          "like_count": 30641,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T11:20:03.000Z",
+        "description": "MTF｜無證含糖｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜晚安享受者｜ym重度依赖｜精神稳定？？？｜1米68高个子｜有关必回！\n会发一些日常和自己唠叨\n最爱的妹妹：@LingLinghmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "LingLinghmiao"
+              }
+            ]
+          }
+        },
+        "id": "2071552995691732993",
+        "location": "America",
+        "name": "语汐汐喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084566967743385600/tkDTpCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 251,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "YuXi520LingLing",
+        "verified": false
+      }
+    ]
+  }
+}

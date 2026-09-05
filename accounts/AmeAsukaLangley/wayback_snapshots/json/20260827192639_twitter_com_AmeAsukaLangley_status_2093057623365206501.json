@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2093032419712442704",
+    "created_at": "2026-08-27T19:26:39.000Z",
+    "display_text_range": [
+      15,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093057623365206501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870858980752543744",
+          "start": 0,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093057623365206501",
+    "in_reply_to_user_id": "1870858980752543744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093052602137137606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzaelRose1017 每天骂地主家的傻儿子发现人家根本不用考虑这些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2093032419712442704",
+        "created_at": "2026-08-27T19:26:39.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093057623365206501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870858980752543744",
+              "start": 0,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093057623365206501",
+        "in_reply_to_user_id": "1870858980752543744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093052602137137606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzaelRose1017 每天骂地主家的傻儿子发现人家根本不用考虑这些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870858980752543744",
+        "conversation_id": "2093032419712442704",
+        "created_at": "2026-08-27T19:06:42.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093052602137137606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093052602137137606",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093032419712442704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 我每天幻想当个傻逼富二代"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2093057623365206501",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 387,
+          "like_count": 33653,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3089
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "叫我Azael或者清，双相/BPD/ADHD/自残/挂逼/泛性恋/性别是阿普唑仑/上一世被查封秽土转生版/偶尔关闭主页\n在推上什么也不干，纯宣泄，不是同类别找我",
+        "id": "1870858980752543744",
+        "is_identity_verified": false,
+        "location": "马里亚纳海沟",
+        "most_recent_tweet_id": "2093053095076917444",
+        "name": "雨汇聚成海水与眼泪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870858980752543744/1783516773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092604641380814848/qDI672oC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

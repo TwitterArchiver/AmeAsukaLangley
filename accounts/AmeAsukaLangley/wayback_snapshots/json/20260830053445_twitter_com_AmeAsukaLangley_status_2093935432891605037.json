@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2093740184273863022",
+    "created_at": "2026-08-30T05:34:45.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093935432891605037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093935432891605037",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093740184273863022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 炫赫门"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19416,
+        "height": 1280,
+        "media_key": "13_2093740151340183552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093740151340183552/img/ibOv7fEJHJch0sIr.jpg",
+        "public_metrics": {
+          "view_count": 686
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093740151340183552/vid/avc1/320x568/EqJG0PUMKBXosp4e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093740151340183552/vid/avc1/480x852/v5KeWcwnI58Vt4bz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093740151340183552/vid/avc1/720x1280/AxizH6MID50HjTiu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093740151340183552/pl/Kdu4afWpm5-RVrNv.m3u8?v=671"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2093740184273863022",
+        "created_at": "2026-08-30T05:34:45.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093935432891605037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093935432891605037",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093740184273863022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 炫赫门"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093740151340183552"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2093740184273863022",
+        "created_at": "2026-08-29T16:38:54.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093740184273863022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAtloniKh7",
+              "end": 35,
+              "expanded_url": "https://x.com/11andpr89648964/status/2093740184273863022/video/1",
+              "media_key": "13_2093740151340183552",
+              "start": 12,
+              "url": "https://t.co/iAtloniKh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093740184273863022",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093740151340183552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1989,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天你们抽的什么烟呀？ https://t.co/iAtloniKh7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2093935432891605037",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 386,
+          "like_count": 34008,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2093866380089307468",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 980,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 2276
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

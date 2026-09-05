@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2086311910509785585",
+    "created_at": "2026-08-09T11:30:43.000Z",
+    "display_text_range": [
+      27,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086414869662973996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047419861606051840",
+          "start": 0,
+          "username": "Kanaderu_kas"
+        },
+        {
+          "end": 26,
+          "id": "2016028559228469252",
+          "start": 14,
+          "username": "Alvvays8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086414869662973996",
+    "in_reply_to_user_id": "2047419861606051840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086370242109100208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanaderu_kas @Alvvays8964 不是豹豹猫猫和好吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2086311910509785585",
+        "created_at": "2026-08-09T11:30:43.000Z",
+        "display_text_range": [
+          27,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086414869662973996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047419861606051840",
+              "start": 0,
+              "username": "Kanaderu_kas"
+            },
+            {
+              "end": 26,
+              "id": "2016028559228469252",
+              "start": 14,
+              "username": "Alvvays8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086414869662973996",
+        "in_reply_to_user_id": "2047419861606051840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086370242109100208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanaderu_kas @Alvvays8964 不是豹豹猫猫和好吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047419861606051840",
+        "conversation_id": "2086311910509785585",
+        "created_at": "2026-08-09T08:33:23.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086370242109100208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvays8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086370242109100208",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086311910509785585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvays8964 许昊龙宝宝大胆o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2086414889489485872",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 376,
+          "like_count": 30997,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:00:32.000Z",
+        "description": "极速互fo没回关就是在睡觉/19岁/简中🇨🇳繁中🇭🇰日语🇯🇵/🩸🔪/od/重躁鬱/强迫/精神分裂/人格分裂/解离型漫游/倾诉欲望高/打扰到您的话抱歉/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanaderu_kas",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kanaderu_kas",
+                "start": 0,
+                "url": "https://t.co/J7o7eFQA18"
+              }
+            ]
+          }
+        },
+        "id": "2047419861606051840",
+        "is_identity_verified": false,
+        "location": "塔不灭喵",
+        "most_recent_tweet_id": "2086373267544351146",
+        "name": "Kanaderu",
+        "pinned_tweet_id": "2061135115192045576",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047419861606051840/1776980619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072458347316740096/1CZZGaRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 95,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/J7o7eFQA18",
+        "username": "Kanaderu_kas",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086331406628897186",
+        "name": "彩華",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 241,
+          "like_count": 1913,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "Alvvays8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2085411240948490745",
+    "created_at": "2026-08-07T15:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085750758008369555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        },
+        {
+          "end": 19,
+          "id": "2057552254463291393",
+          "start": 10,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085750758008369555",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085742330506780902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 @6De_dian 吃完右佐哪怕我用糯米纸包着直接咽都难受，第二天早上起来想喝口水都感觉一股味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2085411240948490745",
+        "created_at": "2026-08-07T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085750758008369555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            },
+            {
+              "end": 19,
+              "id": "2057552254463291393",
+              "start": 10,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085750758008369555",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085742330506780902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 @6De_dian 吃完右佐哪怕我用糯米纸包着直接咽都难受，第二天早上起来想喝口水都感觉一股味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085411240948490745",
+        "created_at": "2026-08-07T14:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085742330506780902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085742330506780902",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085411240948490745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 我每次吃思诺思都是舌下含服的，就是有一点点辣，我甚至还能含服右佐匹克隆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 381,
+          "like_count": 30570,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 856,
+          "like_count": 6426,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 603,
+          "like_count": 14433,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2845
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

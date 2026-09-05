@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2086502111815291020",
+    "created_at": "2026-08-09T20:02:06.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T21:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086543565895942230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1739471747907223552",
+          "start": 0,
+          "username": "HFructose48051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086543565895942230",
+    "in_reply_to_user_id": "1739471747907223552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086536050126827785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFructose48051 感觉如果真的这样离开也很幸福了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2086502111815291020",
+        "created_at": "2026-08-09T20:02:06.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086543565895942230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1739471747907223552",
+              "start": 0,
+              "username": "HFructose48051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086543565895942230",
+        "in_reply_to_user_id": "1739471747907223552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086536050126827785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFructose48051 感觉如果真的这样离开也很幸福了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739471747907223552",
+        "conversation_id": "2086502111815291020",
+        "created_at": "2026-08-09T19:32:14.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086536050126827785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086536050126827785",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086535660845113821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 也算是给自己临终关怀了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2086543565895942230",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 378,
+          "like_count": 31088,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2636
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-26T02:22:52.000Z",
+        "description": "22岁/日本語/English/双相/欢迎互fo",
+        "id": "1739471747907223552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086537433932554274",
+        "name": "胃里的寄生虫一直控制我去吃寿司",
+        "pinned_tweet_id": "2081507897847214248",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739471747907223552/1782845263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034315676559757313/BgTT3Bd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 81,
+          "like_count": 1255,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "HFructose48051",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

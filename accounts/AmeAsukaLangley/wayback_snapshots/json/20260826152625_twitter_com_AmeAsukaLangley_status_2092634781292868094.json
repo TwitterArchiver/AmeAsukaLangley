@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2092605126951453154",
+    "created_at": "2026-08-26T15:26:25.000Z",
+    "display_text_range": [
+      10,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092634781292868094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051761383197339648",
+          "start": 0,
+          "username": "TSimehpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092634781292868094",
+    "in_reply_to_user_id": "2051761383197339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092605126951453154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSimehpo 我现在听到这首歌就想吐，还有那个中国人能飞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_2092605112309215233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQptQzZbcAEmELI.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2092605126951453154",
+        "created_at": "2026-08-26T15:26:25.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092634781292868094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051761383197339648",
+              "start": 0,
+              "username": "TSimehpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092634781292868094",
+        "in_reply_to_user_id": "2051761383197339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092605126951453154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSimehpo 我现在听到这首歌就想吐，还有那个中国人能飞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092605112309215233"
+          ]
+        },
+        "author_id": "2051761383197339648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092605126951453154",
+        "created_at": "2026-08-26T13:28:35.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092605126951453154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPWG84IeGk",
+              "end": 71,
+              "expanded_url": "https://x.com/TSimehpo/status/2092605126951453154/photo/1",
+              "media_key": "3_2092605112309215233",
+              "start": 48,
+              "url": "https://t.co/aPWG84IeGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092605126951453154",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092605112309215233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2442,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板给我来碗忘情牛肉面😭不放眼泪不放痛放碗清汤😡我要忘掉曾经你所有的味道😂从此爱恨孤随意飘摇🤠 https://t.co/aPWG84IeGk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2092634781292868094",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 383,
+          "like_count": 33450,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3031
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待世界的小麦面包🍞 uwu | 日常碎碎念 | 友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+V67rq5yhFGoyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+V67rq5yhFGoyMzJl",
+                "start": 0,
+                "url": "https://t.co/B23angvb5w"
+              }
+            ]
+          }
+        },
+        "id": "2051761383197339648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092616168968446276",
+        "name": "小麦面包",
+        "pinned_tweet_id": "2092508560844546479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051761383197339648/1780107537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 661,
+          "like_count": 9181,
+          "listed_count": 6,
+          "media_count": 139,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/B23angvb5w",
+        "username": "TSimehpo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "1998378939484656058",
+    "created_at": "2026-08-14T19:20:45.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088345097213706616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663923642852610049",
+          "start": 0,
+          "username": "yyddjuebudantei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088345097213706616",
+    "in_reply_to_user_id": "1663923642852610049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998378939484656058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyddjuebudantei 意淫就意淫，别说是梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "1998378939484656058",
+        "created_at": "2026-08-14T19:20:45.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088345097213706616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663923642852610049",
+              "start": 0,
+              "username": "yyddjuebudantei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088345097213706616",
+        "in_reply_to_user_id": "1663923642852610049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998378939484656058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyddjuebudantei 意淫就意淫，别说是梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663923642852610049",
+        "conversation_id": "1998378939484656058",
+        "created_at": "2025-12-09T13:07:21.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998378939484656058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998378939484656058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1922,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又被以奇怪的梦弄醒了  在梦里 吃饭拼桌  对面是个精神病  还搁那吹自己精神病多厉害  袭击过多少人 还问我怕不怕  给我听厌烦 怼他两句 回答 不怕 他掏出匕首刺我 我伸左臂去挡 他匕首刺我左臂骨头里卡住了 我右手拔腰间的匕首顺他脖子一抹把他动脉割开了 他倒下后给我愁的 咋跟警察解释啊 就醒了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2088345097213706616",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 385,
+          "like_count": 31977,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-31T15:02:25.000Z",
+        "description": "能谤讥于市朝 闻寡人之耳者  受宫刑",
+        "id": "1663923642852610049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088163253486805360",
+        "name": "彭博",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663923897203408896/bunZoRSg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 2546
+        },
+        "url": "",
+        "username": "yyddjuebudantei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

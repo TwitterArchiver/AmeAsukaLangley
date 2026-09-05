@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2087809585205883139",
+    "created_at": "2026-08-13T07:52:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087809585205883139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027785341495873540",
+          "start": 3,
+          "username": "Zhouzhou28ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087809585205883139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087641354645967058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhouzhou28ep: 🎉OK好开心啊也是不知不觉的50fo了🎉\n然后我特别开心来开一个抽奖条😽虽然没什么钱都给抽了吧\n\n转发+关注+评论即可参加\n\n1.一杯奶茶（支付宝口令红包折20元）\n2.一份10米米支付宝口令红包\n3.两份五米米支付宝口令红包\n\n会抽四个名额…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087641335301828609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjKu9EWcAEmjXw.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2087809585205883139",
+        "created_at": "2026-08-13T07:52:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087809585205883139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027785341495873540",
+              "start": 3,
+              "username": "Zhouzhou28ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087809585205883139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087641354645967058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhouzhou28ep: 🎉OK好开心啊也是不知不觉的50fo了🎉\n然后我特别开心来开一个抽奖条😽虽然没什么钱都给抽了吧\n\n转发+关注+评论即可参加\n\n1.一杯奶茶（支付宝口令红包折20元）\n2.一份10米米支付宝口令红包\n3.两份五米米支付宝口令红包\n\n会抽四个名额…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087641335301828609"
+          ]
+        },
+        "author_id": "2027785341495873540",
+        "conversation_id": "2087641354645967058",
+        "created_at": "2026-08-12T20:44:20.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087641354645967058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4uuMmFTjz",
+              "end": 155,
+              "expanded_url": "https://x.com/Zhouzhou28ep/status/2087641354645967058/photo/1",
+              "media_key": "3_2087641335301828609",
+              "start": 132,
+              "url": "https://t.co/G4uuMmFTjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087641354645967058",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087641335301828609"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2400,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "🎉OK好开心啊也是不知不觉的50fo了🎉\n然后我特别开心来开一个抽奖条😽虽然没什么钱都给抽了吧\n\n转发+关注+评论即可参加\n\n1.一杯奶茶（支付宝口令红包折20元）\n2.一份10米米支付宝口令红包\n3.两份五米米支付宝口令红包\n\n会抽四个名额好吧 \n8月16日开 https://t.co/G4uuMmFTjz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2087809585205883139",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 381,
+          "like_count": 31769,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2087807973292728320",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 92,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

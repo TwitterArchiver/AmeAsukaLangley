@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2088643940715217288",
+    "created_at": "2026-08-15T22:33:18.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088755943203123527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088755943203123527",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088643940715217288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2088643940715217288",
+        "created_at": "2026-08-15T22:33:18.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088755943203123527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088755943203123527",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088643940715217288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2088643940715217288",
+        "created_at": "2026-08-15T15:08:15.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088643940715217288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088643940715217288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5960,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了\n我突然觉得唐毓文有点好看\n有点喜欢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2088755943203123527",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 391,
+          "like_count": 32109,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2857
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2088644622809715154",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29516,
+          "following_count": 12247,
+          "like_count": 97848,
+          "listed_count": 105,
+          "media_count": 5676,
+          "tweet_count": 20242
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

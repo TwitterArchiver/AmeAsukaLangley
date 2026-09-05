@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2087462800029594050",
+    "created_at": "2026-08-12T13:54:37.000Z",
+    "display_text_range": [
+      10,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087538247547392364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1776162571709796352",
+          "start": 0,
+          "username": "Fooogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087538247547392364",
+    "in_reply_to_user_id": "1776162571709796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087482058902061388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fooogfox 我想看这本书好久了，但是总是一直找不到机会买，买了之后也看的拖拖拉拉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2087482053780791296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg53jKbYAA076w.jpg",
+        "width": 2772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2087462800029594050",
+        "created_at": "2026-08-12T13:54:37.000Z",
+        "display_text_range": [
+          10,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087538247547392364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1776162571709796352",
+              "start": 0,
+              "username": "Fooogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087538247547392364",
+        "in_reply_to_user_id": "1776162571709796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087482058902061388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fooogfox 我想看这本书好久了，但是总是一直找不到机会买，买了之后也看的拖拖拉拉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087482053780791296"
+          ]
+        },
+        "author_id": "1776162571709796352",
+        "conversation_id": "2087462800029594050",
+        "created_at": "2026-08-12T10:11:21.000Z",
+        "display_text_range": [
+          17,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087482058902061388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhpURuv85R",
+              "end": 85,
+              "expanded_url": "https://x.com/Fooogfox/status/2087482058902061388/photo/1",
+              "media_key": "3_2087482053780791296",
+              "start": 62,
+              "url": "https://t.co/yhpURuv85R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087482058902061388",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087482053780791296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087462800029594050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 当时看窄门还在24年，那时候只拘泥于情情爱爱，没仔细想过背后的考量当时大概只有这种心情： https://t.co/yhpURuv85R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2087538247547392364",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 380,
+          "like_count": 31697,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2738
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生，请称呼我为阿间/雨原花咲\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n不喜欢我请直接ban我\n药物于我如酒精和作家",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 53,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 30,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2087535349291786546",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2087481194414055471",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 369,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

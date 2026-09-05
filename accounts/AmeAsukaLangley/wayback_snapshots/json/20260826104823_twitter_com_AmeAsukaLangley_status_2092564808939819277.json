@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2092342036112232630",
+    "created_at": "2026-08-26T10:48:23.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092564808939819277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090032448050524161",
+          "start": 0,
+          "username": "Yuki1161taff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092564808939819277",
+    "in_reply_to_user_id": "2090032448050524161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092564513044271373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161taff 摸摸泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2092342036112232630",
+        "created_at": "2026-08-26T10:48:23.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092564808939819277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090032448050524161",
+              "start": 0,
+              "username": "Yuki1161taff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092564808939819277",
+        "in_reply_to_user_id": "2090032448050524161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092564513044271373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161taff 摸摸泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090032448050524161",
+        "conversation_id": "2092342036112232630",
+        "created_at": "2026-08-26T10:47:12.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092564513044271373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092564513044271373",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092563333408809198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 明年。我的長發已經被剪成鍋蓋頭了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2092564808939819277",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 385,
+          "like_count": 33340,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n男/互fo微查成分可以私信互fo，全友好，友善中立\n💊/🔪/妈妈@Cecey33\n導師 @kingCrimson_09\n\n对不起，我可能有时候很坏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "Cecey33"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "kingCrimson_09"
+              }
+            ]
+          }
+        },
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092564513044271373",
+        "name": "岐哥。5號機。#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787138596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092451553412079616/ujbHdi_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 279,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

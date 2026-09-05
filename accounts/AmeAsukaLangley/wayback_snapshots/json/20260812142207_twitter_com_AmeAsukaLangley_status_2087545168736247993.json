@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2087545168736247993",
+    "created_at": "2026-08-12T14:22:07.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087545168736247993"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087545168736247993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久不见呀，离开你也有一段时间了呢，最近你过得怎么样啦，最近有好好吃饭吗，还在经常熬夜通宵吗？我还记得你你最喜欢偷偷熬夜了？记得累了要早点休息哦。对了，你还要变得外向起来呀，也希望你真的早日遇到你爱的人，要好好对待他哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2087545168736247993",
+        "created_at": "2026-08-12T14:22:07.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087545168736247993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087545168736247993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见呀，离开你也有一段时间了呢，最近你过得怎么样啦，最近有好好吃饭吗，还在经常熬夜通宵吗？我还记得你你最喜欢偷偷熬夜了？记得累了要早点休息哦。对了，你还要变得外向起来呀，也希望你真的早日遇到你爱的人，要好好对待他哦。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2087545168736247993",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 380,
+          "like_count": 31707,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2748
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

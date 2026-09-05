@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2085377852711866675",
+    "created_at": "2026-08-06T19:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085455423805505760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054587695490613248",
+          "start": 0,
+          "username": "agsg_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085455423805505760",
+    "in_reply_to_user_id": "2054587695490613248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085377852711866675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agsg_553 小团体早就变成音游区的底层逻辑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 785,
+        "media_key": "3_2085377839910825984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDAGLpbMAAfK6C.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2085377852711866675",
+        "created_at": "2026-08-06T19:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085455423805505760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054587695490613248",
+              "start": 0,
+              "username": "agsg_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085455423805505760",
+        "in_reply_to_user_id": "2054587695490613248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085377852711866675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agsg_553 小团体早就变成音游区的底层逻辑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085377839910825984"
+          ]
+        },
+        "author_id": "2054587695490613248",
+        "conversation_id": "2085377852711866675",
+        "created_at": "2026-08-06T14:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085377852711866675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaqS56a9oa",
+              "end": 91,
+              "expanded_url": "https://x.com/agsg_553/status/2085377852711866675/photo/1",
+              "media_key": "3_2085377839910825984",
+              "start": 68,
+              "url": "https://t.co/HaqS56a9oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085377852711866675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了 你们这些把社交作为目的的现充能不能离音游远点 几个神人整天在那里瑞平各种曲师谱师谱面真给我看力竭了 还有小团体 能不能都死早点 https://t.co/HaqS56a9oa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 373,
+          "like_count": 30351,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T15:41:14.000Z",
+        "description": "AG553 they/them\n大号gban了没解除暂时不登了\nEN😋/CN😋/JP🔰\nDTM/Minecraft/音ゲー/FPV\n本体/日常:@agnk_553\n求回foQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "agnk_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/maVhPxynIr"
+              }
+            ]
+          }
+        },
+        "id": "2054587695490613248",
+        "name": "AG553_Nyan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082125765622333440/uANxfXCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 131,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/maVhPxynIr",
+        "username": "agsg_553",
+        "verified": false
+      }
+    ]
+  }
+}

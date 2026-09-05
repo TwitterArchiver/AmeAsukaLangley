@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2087124413829238868",
+    "created_at": "2026-08-11T19:16:02.000Z",
+    "display_text_range": [
+      31,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087256747593650545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745467845759352832",
+          "start": 0,
+          "username": "idwTiSv2hs41854"
+        },
+        {
+          "end": 30,
+          "id": "1519649212736049152",
+          "start": 17,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087256747593650545",
+    "in_reply_to_user_id": "1745467845759352832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087164483974340849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idwTiSv2hs41854 @Mark67358226 二元性别也每天都有很多自杀的只是你没怎么关注而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2087124413829238868",
+        "created_at": "2026-08-11T19:16:02.000Z",
+        "display_text_range": [
+          31,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087256747593650545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745467845759352832",
+              "start": 0,
+              "username": "idwTiSv2hs41854"
+            },
+            {
+              "end": 30,
+              "id": "1519649212736049152",
+              "start": 17,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087256747593650545",
+        "in_reply_to_user_id": "1745467845759352832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087164483974340849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idwTiSv2hs41854 @Mark67358226 二元性别也每天都有很多自杀的只是你没怎么关注而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745467845759352832",
+        "conversation_id": "2087124413829238868",
+        "created_at": "2026-08-11T13:09:25.000Z",
+        "display_text_range": [
+          14,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087164483974340849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087164483974340849",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087124413829238868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 跨性别不被接受是主流 因为这个而不能接受 用死亡螳臂当车 何必呢？ \n跨性别也只是一个选择 选择注定有好坏 \n你们这个圈子似乎挺极端 经常能看见有跨性别自杀 我不能理解 又不是什么滔天大事  \n话说 跨性别到底是男的多 还是女的多？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2087256747593650545",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 380,
+          "like_count": 31533,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-11T15:29:09.000Z",
+        "description": "左右不定 徒增烦恼",
+        "id": "1745467845759352832",
+        "is_identity_verified": false,
+        "location": "0.01千米",
+        "most_recent_tweet_id": "2087186571305136176",
+        "name": "001",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884126748788584448/5C_DhZm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "idwTiSv2hs41854",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 54kg |北京昌平🇨🇳| 主要繁體🇹🇼 簡體🉑 |是mtx喵|日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 |留長髮中| 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG5vDE"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2087249464633242033",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1877,
+          "like_count": 40884,
+          "listed_count": 5,
+          "media_count": 568,
+          "tweet_count": 9155
+        },
+        "url": "https://t.co/0zMrtG5vDE",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

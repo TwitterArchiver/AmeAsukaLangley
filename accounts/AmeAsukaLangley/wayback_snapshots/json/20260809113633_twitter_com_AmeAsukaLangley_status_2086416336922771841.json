@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2086336824910447063",
+    "created_at": "2026-08-09T11:36:33.000Z",
+    "display_text_range": [
+      10,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086416336922771841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057835400790462464",
+          "start": 0,
+          "username": "kimika37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086416336922771841",
+    "in_reply_to_user_id": "2057835400790462464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086415977844285687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimika37 至少单单喹硫平的副作用已经堪比某些药的bad了，我右佐吃没了只能吃这个每天睡的都想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2086336824910447063",
+        "created_at": "2026-08-09T11:36:33.000Z",
+        "display_text_range": [
+          10,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086416336922771841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057835400790462464",
+              "start": 0,
+              "username": "kimika37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086416336922771841",
+        "in_reply_to_user_id": "2057835400790462464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086415977844285687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimika37 至少单单喹硫平的副作用已经堪比某些药的bad了，我右佐吃没了只能吃这个每天睡的都想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057835400790462464",
+        "conversation_id": "2086336824910447063",
+        "created_at": "2026-08-09T11:35:07.000Z",
+        "display_text_range": [
+          17,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086415977844285687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086415977844285687",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086415602919633263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 我今天badtrip已经有自主意识了但是熬通宵了还无法自主入睡，你敢信断断续续从早上睡到下午一两点才睡了一个多小时？。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2086416336922771841",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 376,
+          "like_count": 31024,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "09｜温良边缘人\noder｜🔪🩸｜友跨友一切\n我的宝宝OvO @xiaotunsalutee \n我的主人TvT @AngelIlIIl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "xiaotunsalutee"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "AngelIlIIl"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2086416326558663007",
+        "name": "Curse2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057835400790462464/1785942687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085020979290640384/FjX4cCxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 188,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "kimika37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

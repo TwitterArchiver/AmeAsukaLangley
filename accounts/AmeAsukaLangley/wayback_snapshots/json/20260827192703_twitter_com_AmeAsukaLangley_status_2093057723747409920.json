@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2093030619760517462",
+    "created_at": "2026-08-27T19:27:03.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093057723747409920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670745101071417344",
+          "start": 0,
+          "username": "xingmin1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093057723747409920",
+    "in_reply_to_user_id": "1670745101071417344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093049081044300258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingmin1145 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2093030619760517462",
+        "created_at": "2026-08-27T19:27:03.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093057723747409920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670745101071417344",
+              "start": 0,
+              "username": "xingmin1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093057723747409920",
+        "in_reply_to_user_id": "1670745101071417344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093049081044300258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingmin1145 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670745101071417344",
+        "conversation_id": "2093030619760517462",
+        "created_at": "2026-08-27T18:52:42.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093049081044300258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093049081044300258",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093048378863095915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 好可怜的样子…摸摸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2093057723747409920",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 387,
+          "like_count": 33654,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3091
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-19T10:47:36.000Z",
+        "description": "某只闵的小号\n为了看好康的所以出现了\n大号指路→ @1145xingmin\nEN/CN/JP（翻译器）\n欢迎互关！（私信可以加v/qq）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "1145xingmin"
+              }
+            ]
+          }
+        },
+        "id": "1670745101071417344",
+        "is_identity_verified": false,
+        "location": "喵喵镇",
+        "most_recent_tweet_id": "2093057700200632355",
+        "name": "闵委员长",
+        "pinned_tweet_id": "2055593093009908134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670745101071417344/1781421961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063152707129499648/M6cPZzcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 297,
+          "like_count": 16314,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 4131
+        },
+        "url": "",
+        "username": "xingmin1145",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

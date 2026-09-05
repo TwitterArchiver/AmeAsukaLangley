@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2087571793934799163",
+    "created_at": "2026-08-12T16:08:45.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087572005365457050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081489262982377472",
+          "start": 0,
+          "username": "kamizakajuukou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087572005365457050",
+    "in_reply_to_user_id": "2081489262982377472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087571793934799163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamizakajuukou 可以容忍我这样的不正确吗🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2228,
+        "media_key": "3_2087571782148734976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiLebYawAAhrI-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2087571793934799163",
+        "created_at": "2026-08-12T16:08:45.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087572005365457050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081489262982377472",
+              "start": 0,
+              "username": "kamizakajuukou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087572005365457050",
+        "in_reply_to_user_id": "2081489262982377472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087571793934799163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamizakajuukou 可以容忍我这样的不正确吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087571782148734976"
+          ]
+        },
+        "author_id": "2081489262982377472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087571793934799163",
+        "created_at": "2026-08-12T16:07:55.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087571793934799163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MXbuhGwjf",
+              "end": 39,
+              "expanded_url": "https://x.com/kamizakajuukou/status/2087571793934799163/photo/1",
+              "media_key": "3_2087571782148734976",
+              "start": 16,
+              "url": "https://t.co/9MXbuhGwjf"
+            },
+            {
+              "display_url": "x.com/AmeAsukaLangle…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/AmeAsukaLangley/status/2087538878869868633",
+              "start": 40,
+              "url": "https://t.co/fx7H45J18W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087571793934799163",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087571782148734976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087538878869868633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あ~~~なるほど(*˘︶˘*) https://t.co/9MXbuhGwjf https://t.co/fx7H45J18W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2087572005365457050",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 380,
+          "like_count": 31723,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T21:23:32.000Z",
+        "description": "你好 这里是神坂重工 友跨  这里会更新些日常碎碎念 可以通过下方ngl链接随意向我提问 互fo 愿我们都得到幸福\n\n个人信息：艺术生 性别神坂重工 现居东京 祖籍杭城 重度酒精依赖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kamizakajuukou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kamizakajuukou",
+                "start": 0,
+                "url": "https://t.co/hUWSIOdhct"
+              }
+            ]
+          }
+        },
+        "id": "2081489262982377472",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087571793934799163",
+        "name": "神坂重工",
+        "pinned_tweet_id": "2083994545038233790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081489262982377472/1785102308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083056667034587136/ILFObDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 253,
+          "like_count": 2931,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/hUWSIOdhct",
+        "username": "kamizakajuukou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

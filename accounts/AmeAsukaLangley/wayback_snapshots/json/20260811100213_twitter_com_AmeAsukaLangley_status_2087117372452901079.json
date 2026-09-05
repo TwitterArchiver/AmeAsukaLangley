@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2086636656015397142",
+    "created_at": "2026-08-11T10:02:13.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087117372452901079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1776162571709796352",
+          "start": 0,
+          "username": "Fooogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087117372452901079",
+    "in_reply_to_user_id": "1776162571709796352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086962896509255989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fooogfox 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2086636656015397142",
+        "created_at": "2026-08-11T10:02:13.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087117372452901079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1776162571709796352",
+              "start": 0,
+              "username": "Fooogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087117372452901079",
+        "in_reply_to_user_id": "1776162571709796352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086962896509255989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fooogfox 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2086636656015397142",
+        "created_at": "2026-08-10T23:48:23.000Z",
+        "display_text_range": [
+          17,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T00:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086962896509255989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086962896509255989",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086935789267833219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 我有时候也会觉得沟通会很麻烦～不过我喜欢你，所以愿意主动和你产生沟通，也感谢你愿意听我说那些话，如果你不愿意听的话我大概率最开始就会什么都不说🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2087117372452901079",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 380,
+          "like_count": 31320,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\n碎碎念和不定期药物感受",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 40,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 17,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2087115728755507697",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 370,
+          "like_count": 2007,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2088283447819481135",
+    "created_at": "2026-08-14T19:29:32.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088347308903878878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088347308903878878",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088283447819481135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2084,
+        "media_key": "3_2088283444380045312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsSunyaEAAmL4S.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2088283447819481135",
+        "created_at": "2026-08-14T19:29:32.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088347308903878878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088347308903878878",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088283447819481135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088283444380045312"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "conversation_id": "2088283447819481135",
+        "created_at": "2026-08-14T15:15:47.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088283447819481135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZ092YQzRs",
+              "end": 57,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2088283447819481135/photo/1",
+              "media_key": "3_2088283444380045312",
+              "start": 34,
+              "url": "https://t.co/yZ092YQzRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088283447819481135",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088283444380045312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期神了，我说我是女的有人来烦我，我说我是男的还有人烦我，靠靠靠靠 https://t.co/yZ092YQzRs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2088347308903878878",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 385,
+          "like_count": 31997,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2834
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "友一切 靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹\n\n                        https://t.co/wDrA82nsIu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao53379",
+                "end": 96,
+                "expanded_url": "https://ngl.link/miao53379",
+                "start": 73,
+                "url": "https://t.co/wDrA82nsIu"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "is_identity_verified": false,
+        "location": "中北海 🚪114514",
+        "most_recent_tweet_id": "2088320042593317016",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880803334405435393/1781014159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 1209,
+          "like_count": 13319,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 9365
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
