@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2101700993956376733",
+    "created_at": "2026-09-21T12:48:24.000Z",
+    "display_text_range": [
+      8,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102017099371622651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102017099371622651",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101700993956376733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 太讲人话的一股幼儿园味，不讲人话的又一股无病呻吟味，把握得好尺度的太少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2101700993956376733",
+        "created_at": "2026-09-21T12:48:24.000Z",
+        "display_text_range": [
+          8,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102017099371622651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102017099371622651",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101700993956376733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 太讲人话的一股幼儿园味，不讲人话的又一股无病呻吟味，把握得好尺度的太少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2101700993956376733",
+        "created_at": "2026-09-20T15:52:19.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101700993956376733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101700993956376733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这二游剧情，讲的是人话不？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2102017099371622651",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 401,
+          "like_count": 35588,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3291
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "裏垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 0,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "is_identity_verified": false,
+        "location": "🚪1145.14",
+        "most_recent_tweet_id": "2102013551393034677",
+        "name": "死海",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287313244693000193/1786083224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615198384410624/haGXDIaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 2451,
+          "like_count": 30948,
+          "listed_count": 2,
+          "media_count": 819,
+          "tweet_count": 20268
+        },
+        "url": "https://t.co/UQQWQB3ylm",
+        "username": "dsknzb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

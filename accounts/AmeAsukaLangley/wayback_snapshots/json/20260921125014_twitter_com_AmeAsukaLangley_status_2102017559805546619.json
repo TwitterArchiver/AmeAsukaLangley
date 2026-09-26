@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2101836059554497000",
+    "created_at": "2026-09-21T12:50:14.000Z",
+    "display_text_range": [
+      34,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102017559805546619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1561262672888434688",
+          "start": 0,
+          "username": "cai436"
+        },
+        {
+          "end": 21,
+          "id": "1519649212736049152",
+          "start": 8,
+          "username": "Mark67358226"
+        },
+        {
+          "end": 33,
+          "id": "2037575598730584064",
+          "start": 22,
+          "username": "RenChanT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102017559805546619",
+    "in_reply_to_user_id": "1561262672888434688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101897730729955444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai436 @Mark67358226 @RenChanT_T 一边说文化自信一边，我不好说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2101836059554497000",
+        "created_at": "2026-09-21T12:50:14.000Z",
+        "display_text_range": [
+          34,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102017559805546619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            },
+            {
+              "end": 21,
+              "id": "1519649212736049152",
+              "start": 8,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 33,
+              "id": "2037575598730584064",
+              "start": 22,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102017559805546619",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101897730729955444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 @Mark67358226 @RenChanT_T 一边说文化自信一边，我不好说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561262672888434688",
+        "conversation_id": "2101836059554497000",
+        "created_at": "2026-09-21T04:54:05.000Z",
+        "display_text_range": [
+          26,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101897730729955444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 25,
+              "id": "2037575598730584064",
+              "start": 14,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101897730729955444",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101871123717845304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 @RenChanT_T 这可不行。中国人的英语水平已经够差了，不能更差了。只能改革，不能取消。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2102017559805546619",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 401,
+          "like_count": 35592,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3293
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-21T08:04:19.000Z",
+        "description": "这个人很懒，什么都没有写。",
+        "id": "1561262672888434688",
+        "is_identity_verified": false,
+        "location": "广东省茂名市",
+        "most_recent_tweet_id": "2102014137979347068",
+        "name": "蔡清晏",
+        "pinned_tweet_id": "2044830395179667923",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561262672888434688/1771230908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046910166008999937/JMrFE9pB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1693,
+          "like_count": 34653,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 6005
+        },
+        "url": "",
+        "username": "cai436",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 180cm 53kg |北京昌平🇨🇳| 主要繁體🇹🇼 |含糖mtx🍥|對日朝琉語有興趣喵 | LGBT友好 |留長髮中| 喜歡漢服、寫字，東亞文化喵！歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "Mak1287267"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2101985186049368278",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 2061,
+          "like_count": 54631,
+          "listed_count": 5,
+          "media_count": 753,
+          "tweet_count": 11893
+        },
+        "url": "",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "\"Liberté, égalité, fraternité\"\n\nSocDem🌹⬅️/🏳️‍🌈🏳️‍⚧️ friendly/PEACE & LOVE🇺🇳🌍❤️🤝🕊️/🚩🏴Antifa👊🚫⚡️",
+        "id": "2037575598730584064",
+        "is_identity_verified": false,
+        "location": "人人友爱的天国",
+        "most_recent_tweet_id": "2101944339803103652",
+        "name": "東洋蓮花酥🌹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037575598730584064/1787783909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079425858989912064/VLFzMkJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 520,
+          "like_count": 21440,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 1909
+        },
+        "url": "",
+        "username": "RenChanT_T",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

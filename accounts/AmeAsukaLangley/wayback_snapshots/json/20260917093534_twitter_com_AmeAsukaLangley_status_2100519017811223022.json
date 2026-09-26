@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2100519017811223022",
+    "created_at": "2026-09-17T09:35:34.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100519017811223022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2015509801846046721",
+          "start": 3,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100519017811223022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100310703756415269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fffalsum: 用手指从头到脚划过你身上的每一个部位也算这辈子去过环球旅行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2100519017811223022",
+        "created_at": "2026-09-17T09:35:34.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100519017811223022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2015509801846046721",
+              "start": 3,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100519017811223022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100310703756415269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fffalsum: 用手指从头到脚划过你身上的每一个部位也算这辈子去过环球旅行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015509801846046721",
+        "conversation_id": "2100310703756415269",
+        "created_at": "2026-09-16T19:47:48.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100310703756415269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100310703756415269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "用手指从头到脚划过你身上的每一个部位也算这辈子去过环球旅行了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2100519017811223022",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 398,
+          "like_count": 35231,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3229
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "想有一个按键可以切换人格\n不定时回忆前任/会更新好吃的/文案存档点/東雲絵名\n想知道我的属性可以看置顶图\n祝你幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bf3X7jGd",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bf3X7jGd",
+                "start": 0,
+                "url": "https://t.co/XYnd09bCHp"
+              }
+            ]
+          }
+        },
+        "id": "2015509801846046721",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2100447344756162645",
+        "name": "月社妃",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015509801846046721/1780765169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093085781921509376/r_wOLKWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 579,
+          "like_count": 26043,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 2223
+        },
+        "url": "https://t.co/XYnd09bCHp",
+        "username": "fffalsum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

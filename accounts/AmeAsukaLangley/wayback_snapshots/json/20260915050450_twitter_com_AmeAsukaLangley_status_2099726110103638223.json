@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2099506389580468732",
+    "created_at": "2026-09-15T05:04:50.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099726110103638223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073422551972466689",
+          "start": 0,
+          "username": "Yzrhgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099726110103638223",
+    "in_reply_to_user_id": "2073422551972466689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099506389580468732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzrhgg 吾日三省吾身"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2099506368847978496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLx6zbaoAADrtR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2099506368789241856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLx6zNaYAA8Zd4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2099506389580468732",
+        "created_at": "2026-09-15T05:04:50.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099726110103638223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073422551972466689",
+              "start": 0,
+              "username": "Yzrhgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099726110103638223",
+        "in_reply_to_user_id": "2073422551972466689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099506389580468732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzrhgg 吾日三省吾身"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099506368847978496",
+            "3_2099506368789241856"
+          ]
+        },
+        "author_id": "2073422551972466689",
+        "conversation_id": "2099506389580468732",
+        "created_at": "2026-09-14T14:31:44.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099506389580468732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZRkEKpxTxP",
+              "end": 30,
+              "expanded_url": "https://x.com/Yzrhgg/status/2099506389580468732/photo/1",
+              "media_key": "3_2099506368847978496",
+              "start": 7,
+              "url": "https://t.co/ZRkEKpxTxP"
+            },
+            {
+              "display_url": "pic.x.com/ZRkEKpxTxP",
+              "end": 30,
+              "expanded_url": "https://x.com/Yzrhgg/status/2099506389580468732/photo/1",
+              "media_key": "3_2099506368789241856",
+              "start": 7,
+              "url": "https://t.co/ZRkEKpxTxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099506389580468732",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099506368847978496"
+          },
+          {
+            "media_key": "3_2099506368789241856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今日学习成果 https://t.co/ZRkEKpxTxP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2099726110103638223",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 393,
+          "like_count": 35448,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3198
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:05:34.000Z",
+        "description": "时常感到无聊，欢迎找我聊天\n互fo\n不时发些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%80%80%E5%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%80%80%E5%B1%882/clo",
+                "start": 0,
+                "url": "https://t.co/FB0hVfI0tH"
+              }
+            ]
+          }
+        },
+        "id": "2073422551972466689",
+        "is_identity_verified": false,
+        "location": "梦境",
+        "most_recent_tweet_id": "2099506389580468732",
+        "name": "退屈党人",
+        "pinned_tweet_id": "2074104382912864345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073422551972466689/1783178530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073424909980901376/ap3GnRYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 151,
+          "like_count": 3511,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/FB0hVfI0tH",
+        "username": "Yzrhgg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

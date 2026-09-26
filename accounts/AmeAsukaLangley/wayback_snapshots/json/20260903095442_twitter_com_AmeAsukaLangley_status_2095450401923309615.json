@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2095450401923309615",
+    "created_at": "2026-09-03T09:54:42.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T10:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095450401923309615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094681707052212224",
+          "start": 3,
+          "username": "nanahime1cpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095450401923309615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095350782795317498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanahime1cpc: 大家，亲爱的们，请帮我寻回互关好吗？🫴💖🫴💖非常谢谢大家！菜菜可能需要住院治疗，但是家里没有那么多钱，正在权衡中🥰…菜菜好想努力坚强呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2095450401923309615",
+        "created_at": "2026-09-03T09:54:42.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T10:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095450401923309615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094681707052212224",
+              "start": 3,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095450401923309615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095350782795317498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanahime1cpc: 大家，亲爱的们，请帮我寻回互关好吗？🫴💖🫴💖非常谢谢大家！菜菜可能需要住院治疗，但是家里没有那么多钱，正在权衡中🥰…菜菜好想努力坚强呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2095350782795317498",
+        "created_at": "2026-09-03T03:18:51.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095350782795317498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095350782795317498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家，亲爱的们，请帮我寻回互关好吗？🫴💖🫴💖非常谢谢大家！菜菜可能需要住院治疗，但是家里没有那么多钱，正在权衡中🥰…菜菜好想努力坚强呀…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2095450401923309615",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 383,
+          "like_count": 34809,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3139
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机@licar1949已寄｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜\n我的爱人@cryptochenrui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "licar1949"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "正在和世界对抗",
+        "most_recent_tweet_id": "2095351516681183528",
+        "name": "菜菜警官3.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 82,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

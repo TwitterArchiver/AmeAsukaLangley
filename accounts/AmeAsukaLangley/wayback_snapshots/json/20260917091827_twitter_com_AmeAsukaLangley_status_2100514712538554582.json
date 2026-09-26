@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2100275996721393958",
+    "created_at": "2026-09-17T09:18:27.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100514712538554582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652733611022635009",
+          "start": 0,
+          "username": "kingCrimson_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100514712538554582",
+    "in_reply_to_user_id": "1652733611022635009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100275996721393958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kingCrimson_09 这期神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100275978832678912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWt4ACbkAAzZyP.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2100275996721393958",
+        "created_at": "2026-09-17T09:18:27.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100514712538554582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652733611022635009",
+              "start": 0,
+              "username": "kingCrimson_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100514712538554582",
+        "in_reply_to_user_id": "1652733611022635009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100275996721393958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kingCrimson_09 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100275978832678912"
+          ]
+        },
+        "author_id": "1652733611022635009",
+        "conversation_id": "2100275996721393958",
+        "created_at": "2026-09-16T17:29:53.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100275996721393958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLksQqQk5S",
+              "end": 79,
+              "expanded_url": "https://x.com/kingCrimson_09/status/2100275996721393958/photo/1",
+              "media_key": "3_2100275978832678912",
+              "start": 56,
+              "url": "https://t.co/fLksQqQk5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100275996721393958",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100275978832678912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "煞笔吧我操，我不小心被划伤了发个帖子都不行吗，看到伤口就说别人要自残要自杀，msk你没受过伤还是怎么的真扫码了 https://t.co/fLksQqQk5S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2100514712538554582",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 395,
+          "like_count": 35198,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3216
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-30T17:56:40.000Z",
+        "description": "无月虽醉亦易醒，杯中雪花一点红\n黄昏啊，宛如手心的，曼珠沙华\n恋人：@17yearsDaye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "17yearsDaye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kingcrimson177…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kingcrimson17700",
+                "start": 0,
+                "url": "https://t.co/p1Qj5Vpr8m"
+              }
+            ]
+          }
+        },
+        "id": "1652733611022635009",
+        "is_identity_verified": false,
+        "location": "人世与幽冥的分界线",
+        "most_recent_tweet_id": "2100507234589626565",
+        "name": "你是多首的怪物",
+        "pinned_tweet_id": "2089118541958308150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652733611022635009/1786932013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091019253759582209/mQN_2w17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 565,
+          "like_count": 3130,
+          "listed_count": 3,
+          "media_count": 479,
+          "tweet_count": 2613
+        },
+        "url": "https://t.co/p1Qj5Vpr8m",
+        "username": "kingCrimson_09",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

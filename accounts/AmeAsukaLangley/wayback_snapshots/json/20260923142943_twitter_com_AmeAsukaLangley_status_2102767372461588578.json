@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2102085669686304843",
+    "created_at": "2026-09-23T14:29:43.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102767372461588578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060108659385077760",
+          "start": 0,
+          "username": "SakuraAmesaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102767372461588578",
+    "in_reply_to_user_id": "2060108659385077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102388080481046665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraAmesaki 想变得会吃辣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2102085669686304843",
+        "created_at": "2026-09-23T14:29:43.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102767372461588578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060108659385077760",
+              "start": 0,
+              "username": "SakuraAmesaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102767372461588578",
+        "in_reply_to_user_id": "2060108659385077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102388080481046665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraAmesaki 想变得会吃辣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060108659385077760",
+        "conversation_id": "2102085669686304843",
+        "created_at": "2026-09-22T13:22:33.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102388080481046665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102388080481046665",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102085669686304843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 我很喜欢吃辣，但是吃辣会长痘，所以我现在也不怎么吃辣😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2102767372461588578",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 402,
+          "like_count": 35801,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3327
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T21:20:23.000Z",
+        "description": "小天使请安！今天有在发病的同时好好照顾自己吗？ 07｜心理跨女🏳️‍⚧️，暂时无证无糖，未来可能会做变性手术｜主要玩单机游戏｜喜欢术力口和纯音乐｜政治话题🚫｜主发日常｜选择性回关，主要关注同类和同好｜精神状态不稳定会发些负能量，谨慎关注｜最好的姐姐@LoneStar6072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "LoneStar6072"
+              }
+            ]
+          }
+        },
+        "id": "2060108659385077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102420795519586545",
+        "name": "超绝超可爱诗雨酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060108659385077760/1781726742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088209385348812800/Z5hoE2gC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 282,
+          "like_count": 2954,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1987
+        },
+        "url": "",
+        "username": "SakuraAmesaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

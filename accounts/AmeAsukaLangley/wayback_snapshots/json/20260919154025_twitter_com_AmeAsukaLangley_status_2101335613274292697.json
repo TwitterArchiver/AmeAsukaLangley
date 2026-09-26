@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2100706271858946524",
+    "created_at": "2026-09-19T15:40:25.000Z",
+    "display_text_range": [
+      12,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101335613274292697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "asuka_ra1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101335613274292697",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100875971964653737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asuka_ra1n 主要是我也很少喝这些，太贵了而且之前在霸王茶姬打过工对这些有点祛魅了，我要喝的话一般就是拼好饭里的七块钱小甜水解解腻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2100706271858946524",
+        "created_at": "2026-09-19T15:40:25.000Z",
+        "display_text_range": [
+          12,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101335613274292697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "asuka_ra1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101335613274292697",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100875971964653737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asuka_ra1n 主要是我也很少喝这些，太贵了而且之前在霸王茶姬打过工对这些有点祛魅了，我要喝的话一般就是拼好饭里的七块钱小甜水解解腻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2100706271858946524",
+        "created_at": "2026-09-18T09:13:58.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100875971964653737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100875971964653737",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100706271858946524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 茶颜悦色的那个奶盖拿铁特别好喝我一般都是加糖的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2101335613274292697",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 399,
+          "like_count": 35389,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "被世界所抛弃之人，但依旧能寻找存在的意义\n酒精依赖｜LGBTQ+全友好｜可互fo交朋友喵｜负面情绪内容｜性别称呼请随意｜接受任何友善的立场和我交流｜暂时不od｜药理知识学习中｜choose life｜颓废的文艺青少年\n提问箱：https://t.co/to7wTTqwwt\n小狗：@RenChanT_T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "RenChanT_T"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/asukayeyezi",
+                "end": 136,
+                "expanded_url": "https://ngl.link/asukayeyezi",
+                "start": 113,
+                "url": "https://t.co/to7wTTqwwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gr7A"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "is_identity_verified": false,
+        "location": "夜深寂靜之時",
+        "most_recent_tweet_id": "2101158518460129376",
+        "name": "⁺✞ʚ月雨淚 ɞ✟₊🏴‍☠🏳️‍🌈",
+        "pinned_tweet_id": "2031769044852871196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914611702747779072/1785799212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098209473013907456/sPCWiI3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 847,
+          "like_count": 11176,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 3293
+        },
+        "url": "https://t.co/wdpxB4gr7A",
+        "username": "asuka_ra1n",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

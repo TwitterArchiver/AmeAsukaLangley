@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2095792449222226254",
+    "created_at": "2026-09-04T19:09:05.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T20:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095952305002565955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095952305002565955",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095792449222226254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 ？鸡？！尘！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2095792449222226254",
+        "created_at": "2026-09-04T19:09:05.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095952305002565955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095952305002565955",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095792449222226254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 ？鸡？！尘！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2095792449222226254",
+        "created_at": "2026-09-04T08:33:52.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095792449222226254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095792449222226254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道的呀 我吃烷胺把脑袋吃坏了 这几年发生的事总是记不太清 当时发生的让我觉得幸福永远也不会忘记的事 现在也得靠文字和图片才能恍惚想起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2095952305002565955",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 392,
+          "like_count": 35343,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3160
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "岐第六世\n早已逝去之人 早已宽恕之罪\n 姐姐@Cecey33\n🐱🫳🏻共號²fo喜歡的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/aC39wCmdXR"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2095887027799507100",
+        "name": "🐱🫳🏻岐⁸⁹⁶⁴ #心宿二",
+        "pinned_tweet_id": "2095459432368910758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092859810945634304/6BBETLHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 237,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/aC39wCmdXR",
+        "username": "Yuki1161_IC26",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

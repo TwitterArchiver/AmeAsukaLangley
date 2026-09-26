@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2095552892249964565",
+    "created_at": "2026-09-03T16:52:06.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095555447755305267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073420644109504513",
+          "start": 0,
+          "username": "IYDKMIGTHTKY23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095555447755305267",
+    "in_reply_to_user_id": "2073420644109504513",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095552892249964565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IYDKMIGTHTKY23 🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2095552880325623808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTmPe_bAAAxVkk.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2095552892249964565",
+        "created_at": "2026-09-03T16:52:06.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095555447755305267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073420644109504513",
+              "start": 0,
+              "username": "IYDKMIGTHTKY23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095555447755305267",
+        "in_reply_to_user_id": "2073420644109504513",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095552892249964565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IYDKMIGTHTKY23 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095552880325623808"
+          ]
+        },
+        "author_id": "2073420644109504513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095552892249964565",
+        "created_at": "2026-09-03T16:41:57.000Z",
+        "display_text_range": [
+          0,
+          190
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095552892249964565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AamzM5jAN",
+              "end": 214,
+              "expanded_url": "https://x.com/IYDKMIGTHTKY23/status/2095552892249964565/photo/1",
+              "media_key": "3_2095552880325623808",
+              "start": 191,
+              "url": "https://t.co/1AamzM5jAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095552892249964565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095552880325623808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张图片展示了一种影视道具 其实只是特效和道具的效果 害怕的人请不要点击详情 这只是特效与道具 just a special effect created using props and makeup .This is purely a special effect using theatrical props. Thank you for your understanding https://t.co/1AamzM5jAN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2095555447755305267",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 390,
+          "like_count": 35250,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3154
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆\n同成分會互fo\n爸爸活私這邊：@omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "omo20060903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo09031",
+                "end": 23,
+                "expanded_url": "https://ngl.link/omo09031",
+                "start": 0,
+                "url": "https://t.co/jLwv3cCISf"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "is_identity_verified": false,
+        "location": "你爸床上",
+        "most_recent_tweet_id": "2095552892249964565",
+        "name": "？（3.0）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073420644109504513/1783895478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080376678682087424/stGTfM2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 675,
+          "like_count": 8686,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/jLwv3cCISf",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

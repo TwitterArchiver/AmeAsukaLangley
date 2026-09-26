@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2101596701559603372",
+    "created_at": "2026-09-20T08:57:54.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101596701559603372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674372721726357504",
+          "start": 3,
+          "username": "rosy15811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101596701559603372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101585735153541428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosy15811: 我他妈是男的，男的，男的，而且我不发照片，为什么总是会有点进主页就是一根巴别塔的人关注我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2101596701559603372",
+        "created_at": "2026-09-20T08:57:54.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101596701559603372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674372721726357504",
+              "start": 3,
+              "username": "rosy15811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101596701559603372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101585735153541428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosy15811: 我他妈是男的，男的，男的，而且我不发照片，为什么总是会有点进主页就是一根巴别塔的人关注我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674372721726357504",
+        "conversation_id": "2101585735153541428",
+        "created_at": "2026-09-20T08:14:19.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101585735153541428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101585735153541428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈是男的，男的，男的，而且我不发照片，为什么总是会有点进主页就是一根巴别塔的人关注我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2101596701559603372",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 400,
+          "like_count": 35467,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3264
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-29T11:02:39.000Z",
+        "description": "庆贺我与你与不会再相遇的世界，那个秋天我们最后一次去田里踢球，不会再有的意思就是再也不会有了\n就这样吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasumi60",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasumi60",
+                "start": 0,
+                "url": "https://t.co/vAXfGSs7OY"
+              }
+            ]
+          }
+        },
+        "id": "1674372721726357504",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2101585735153541428",
+        "name": "最後冬是睡眠動物",
+        "pinned_tweet_id": "2095141574116245505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674372721726357504/1785613567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100527805599748096/C2_YT_z5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 106,
+          "like_count": 10335,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/vAXfGSs7OY",
+        "username": "rosy15811",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

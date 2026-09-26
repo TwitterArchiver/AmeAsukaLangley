@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2024448903492620662",
+    "created_at": "2026-09-19T15:48:52.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101337737764691982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691834763823521792",
+          "start": 0,
+          "username": "MammengaV62337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101337737764691982",
+    "in_reply_to_user_id": "1691834763823521792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044811357972021546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MammengaV62337 养生呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2024448903492620662",
+        "created_at": "2026-09-19T15:48:52.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101337737764691982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691834763823521792",
+              "start": 0,
+              "username": "MammengaV62337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101337737764691982",
+        "in_reply_to_user_id": "1691834763823521792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044811357972021546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MammengaV62337 养生呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691834763823521792",
+        "conversation_id": "2024448903492620662",
+        "created_at": "2026-04-16T16:13:13.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044811357972021546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044811357972021546",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1691,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024448903492620662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 我现在天天3t pr加至少6瓶以上啤酒都没事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2101337737764691982",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 400,
+          "like_count": 35407,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-16T15:30:23.000Z",
+        "description": "",
+        "id": "1691834763823521792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2085916572431098311",
+        "name": "丰饶之海",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044811733852979200/WAtKzOCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 341,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "MammengaV62337",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "一位神秘退出圈内的 oder",
+        "id": "622036546",
+        "is_identity_verified": false,
+        "location": "伊甸园",
+        "most_recent_tweet_id": "2101006019308736598",
+        "name": "椎名Shiina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/622036546/1782498730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 110,
+          "like_count": 11373,
+          "listed_count": 8,
+          "media_count": 720,
+          "tweet_count": 4261
+        },
+        "url": "",
+        "username": "Overdose_Rx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

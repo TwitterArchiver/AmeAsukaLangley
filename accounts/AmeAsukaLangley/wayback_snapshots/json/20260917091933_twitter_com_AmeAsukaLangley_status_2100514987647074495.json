@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2100514987647074495",
+    "created_at": "2026-09-17T09:19:33.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100514987647074495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053116713692966913",
+          "start": 3,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100514987647074495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100483806641664418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FREUNDIS4021: 心理素质：三滴尿\n心智：看到7891会笑\n嫉妒心：六头大象\n压力：五千座大山\n脾气：一大颗绿色带鼻涕的鼻屎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2100514987647074495",
+        "created_at": "2026-09-17T09:19:33.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100514987647074495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053116713692966913",
+              "start": 3,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100514987647074495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100483806641664418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FREUNDIS4021: 心理素质：三滴尿\n心智：看到7891会笑\n嫉妒心：六头大象\n压力：五千座大山\n脾气：一大颗绿色带鼻涕的鼻屎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053116713692966913",
+        "conversation_id": "2100483806641664418",
+        "created_at": "2026-09-17T07:15:39.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100483806641664418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100483806641664418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心理素质：三滴尿\n心智：看到7891会笑\n嫉妒心：六头大象\n压力：五千座大山\n脾气：一大颗绿色带鼻涕的鼻屎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2100514987647074495",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 397,
+          "like_count": 35204,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3217
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "https://t.co/St6DRfq3uq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 23,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 0,
+                "url": "https://t.co/St6DRfq3uq"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100487567846130045",
+        "name": "我是废物",
+        "pinned_tweet_id": "2056439958777266683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053116713692966913/1789147667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098462897680916480/q1GfhQI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 442,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "FREUNDIS4021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

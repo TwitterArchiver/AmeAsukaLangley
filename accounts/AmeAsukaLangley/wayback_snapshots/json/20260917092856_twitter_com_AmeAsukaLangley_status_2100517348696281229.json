@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2100086726580748389",
+    "created_at": "2026-09-17T09:28:56.000Z",
+    "display_text_range": [
+      27,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100517348696281229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779156934295232513",
+          "start": 0,
+          "username": "qyn20051031"
+        },
+        {
+          "end": 26,
+          "id": "2047687133708599296",
+          "start": 13,
+          "username": "themaniachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100517348696281229",
+    "in_reply_to_user_id": "1779156934295232513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100190526503108986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qyn20051031 @themaniachan 难吃倒是真的，但是价值不可估量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2100086726580748389",
+        "created_at": "2026-09-17T09:28:56.000Z",
+        "display_text_range": [
+          27,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100517348696281229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779156934295232513",
+              "start": 0,
+              "username": "qyn20051031"
+            },
+            {
+              "end": 26,
+              "id": "2047687133708599296",
+              "start": 13,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100517348696281229",
+        "in_reply_to_user_id": "1779156934295232513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100190526503108986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qyn20051031 @themaniachan 难吃倒是真的，但是价值不可估量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779156934295232513",
+        "conversation_id": "2100086726580748389",
+        "created_at": "2026-09-16T11:50:15.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100190526503108986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100190526503108986",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100086726580748389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 最难吃的药…没有OD的价值"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2100517348696281229",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 397,
+          "like_count": 35214,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-13T14:37:32.000Z",
+        "description": "靡不有初，鲜克有终",
+        "id": "1779156934295232513",
+        "is_identity_verified": false,
+        "location": "魂归天国",
+        "most_recent_tweet_id": "2100190526503108986",
+        "name": "谁叫你天天玩手机缺乏锻炼",
+        "pinned_tweet_id": "1982124099561533888",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779156934295232513/1745211162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792404237454106624/C1AcrUdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 260,
+          "like_count": 619,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 1447
+        },
+        "url": "",
+        "username": "qyn20051031",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100441645544005924",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 334,
+          "like_count": 2547,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 2072
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2101836059554497000",
+    "created_at": "2026-09-21T12:52:58.000Z",
+    "display_text_range": [
+      21,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102018247247679851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        },
+        {
+          "end": 20,
+          "id": "2037575598730584064",
+          "start": 9,
+          "username": "RenChanT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102018247247679851",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101842386892751035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 @RenChanT_T 书面英语但是大部分人学出来连书面都做不好，真的很难想象中国的语言学习只考验书面表达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2101836059554497000",
+        "created_at": "2026-09-21T12:52:58.000Z",
+        "display_text_range": [
+          21,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102018247247679851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            },
+            {
+              "end": 20,
+              "id": "2037575598730584064",
+              "start": 9,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102018247247679851",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101842386892751035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 @RenChanT_T 书面英语但是大部分人学出来连书面都做不好，真的很难想象中国的语言学习只考验书面表达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "2101836059554497000",
+        "created_at": "2026-09-21T01:14:10.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101842386892751035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101842386892751035",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101836059554497000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChanT_T 其实我觉得老中那英语教学取消了也问题不大（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2102018247247679851",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 401,
+          "like_count": 35592,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3295
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "Wish you were here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/NCmkS9Sf5a"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "is_identity_verified": false,
+        "location": "level 790",
+        "most_recent_tweet_id": "2102017675312374141",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2085584792461132007",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094985055911473152/orOihCgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1137,
+          "like_count": 3458,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 5477
+        },
+        "url": "https://t.co/NCmkS9Sf5a",
+        "username": "h2o2333",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "\"Liberté, égalité, fraternité\"\n\nSocDem🌹⬅️/🏳️‍🌈🏳️‍⚧️ friendly/PEACE & LOVE🇺🇳🌍❤️🤝🕊️/🚩🏴Antifa👊🚫⚡️",
+        "id": "2037575598730584064",
+        "is_identity_verified": false,
+        "location": "人人友爱的天国",
+        "most_recent_tweet_id": "2101944339803103652",
+        "name": "東洋蓮花酥🌹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037575598730584064/1787783909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079425858989912064/VLFzMkJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 520,
+          "like_count": 21440,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 1909
+        },
+        "url": "",
+        "username": "RenChanT_T",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

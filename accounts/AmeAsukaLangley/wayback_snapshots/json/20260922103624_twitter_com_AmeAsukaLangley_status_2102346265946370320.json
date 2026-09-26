@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2102158449786360062",
+    "created_at": "2026-09-22T10:36:24.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102346265946370320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102346265946370320",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102158449786360062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvovl3 ③呃......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2102158449786360062",
+        "created_at": "2026-09-22T10:36:24.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102346265946370320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102346265946370320",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102158449786360062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 ③呃......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036011923",
+              "name": "ポケットモンスター"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2102158449786360062",
+        "created_at": "2026-09-21T22:10:05.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T23:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102158449786360062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bamrcus/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/bamrcus/status/2101829392620212384",
+              "start": 50,
+              "url": "https://t.co/yfuCIpbiFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102158449786360062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101829392620212384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我找到群体了\n但是受众好小\n①神经多样性群体\n②非二元里非人类认同群体\n③呃………物质滥用群体…… https://t.co/yfuCIpbiFf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2102346265946370320",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 402,
+          "like_count": 35652,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3315
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD/我的斜杠青年是精神疾病/双相/精神分裂/ed/严肃od中/girl but not human/not alien\n全世界最恨homework之人/人生是被恐惧追赶着逃跑\n有🚪88/爱我请口令红包@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "luciawannadone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zabuu.site/user/detail/19…",
+                "end": 23,
+                "expanded_url": "https://zabuu.site/user/detail/1994724283176947712",
+                "start": 0,
+                "url": "https://t.co/y3THJjqrwt"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名是备用号  链接是提问箱",
+        "most_recent_tweet_id": "2102291153660071983",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 657,
+          "like_count": 5874,
+          "listed_count": 2,
+          "media_count": 636,
+          "tweet_count": 6849
+        },
+        "url": "https://t.co/y3THJjqrwt",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

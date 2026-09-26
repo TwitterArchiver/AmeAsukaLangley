@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2100108594683539784",
+    "created_at": "2026-09-17T09:55:53.000Z",
+    "display_text_range": [
+      24,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100524132710445384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1242663433",
+          "start": 0,
+          "username": "Correctside_0"
+        },
+        {
+          "end": 23,
+          "id": "403206640",
+          "start": 15,
+          "username": "cc_1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100524132710445384",
+    "in_reply_to_user_id": "1242663433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100125581694386270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Correctside_0 @cc_1022 你的表达非常口语化（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2100108594683539784",
+        "created_at": "2026-09-17T09:55:53.000Z",
+        "display_text_range": [
+          24,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100524132710445384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1242663433",
+              "start": 0,
+              "username": "Correctside_0"
+            },
+            {
+              "end": 23,
+              "id": "403206640",
+              "start": 15,
+              "username": "cc_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100524132710445384",
+        "in_reply_to_user_id": "1242663433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100125581694386270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Correctside_0 @cc_1022 你的表达非常口语化（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242663433",
+        "conversation_id": "2100108594683539784",
+        "created_at": "2026-09-16T07:32:11.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100125581694386270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "403206640",
+              "start": 0,
+              "username": "cc_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100125581694386270",
+        "in_reply_to_user_id": "403206640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9982,
+          "like_count": 281,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100115368929063070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cc_1022 傻逼哪儿都是 甭理就是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2100524132710445384",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 399,
+          "like_count": 35327,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3238
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-05T02:16:15.000Z",
+        "description": "中高大10年間🇨🇳に留学してました。\n\nDMにて通訳、翻訳のお仕事募集してます‼️",
+        "id": "1242663433",
+        "is_identity_verified": false,
+        "location": "大阪⇄北京⇄東京",
+        "most_recent_tweet_id": "2100496801497481281",
+        "name": "らずろ",
+        "pinned_tweet_id": "2089324549917802624",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242663433/1632919506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946056774630408193/pFVZQvKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3027,
+          "following_count": 835,
+          "like_count": 169909,
+          "listed_count": 12,
+          "media_count": 5383,
+          "tweet_count": 20998
+        },
+        "url": "",
+        "username": "Correctside_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-02T05:13:28.000Z",
+        "description": "",
+        "id": "403206640",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2100514606946898021",
+        "name": "cc",
+        "pinned_tweet_id": "1406957429678493696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403206640/1524060838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969412769264123912/biYIn5va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 501,
+          "like_count": 15775,
+          "listed_count": 7,
+          "media_count": 767,
+          "tweet_count": 15207
+        },
+        "url": "",
+        "username": "cc_1022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

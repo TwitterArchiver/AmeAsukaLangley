@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2095461119309578367",
+    "created_at": "2026-09-03T10:37:17.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095461119309578367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1570575810733416450",
+          "start": 3,
+          "username": "sera_fims"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095461119309578367",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 970
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094947394056053223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sera_fims: every single year i don’t kill myself because it’s going to get better next year and then it’s next year and it’s never any…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2095461119309578367",
+        "created_at": "2026-09-03T10:37:17.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095461119309578367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1570575810733416450",
+              "start": 3,
+              "username": "sera_fims"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095461119309578367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 970
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094947394056053223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sera_fims: every single year i don’t kill myself because it’s going to get better next year and then it’s next year and it’s never any…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570575810733416450",
+        "conversation_id": "2094947394056053223",
+        "created_at": "2026-09-02T00:35:55.000Z",
+        "display_text_range": [
+          0,
+          192
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094947394056053223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094947394056053223",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 46392,
+          "like_count": 4744,
+          "quote_count": 37,
+          "reply_count": 15,
+          "retweet_count": 970
+        },
+        "reply_settings": "everyone",
+        "text": "every single year i don’t kill myself because it’s going to get better next year and then it’s next year and it’s never any better. at what point will i grow a pair of balls and end this cycle"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2095461119309578367",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 387,
+          "like_count": 35053,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3145
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-16T00:50:35.000Z",
+        "description": "she/they",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/sera_fims",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/sera_fims",
+                "start": 0,
+                "url": "https://t.co/7TK9M5ZOZp"
+              }
+            ]
+          }
+        },
+        "id": "1570575810733416450",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095145569207390484",
+        "name": "sera ᯓ★",
+        "pinned_tweet_id": "1863395005928247746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570575810733416450/1751766639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941675990633070592/CwAZoE3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1263,
+          "like_count": 1812,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/7TK9M5ZOZp",
+        "username": "sera_fims",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

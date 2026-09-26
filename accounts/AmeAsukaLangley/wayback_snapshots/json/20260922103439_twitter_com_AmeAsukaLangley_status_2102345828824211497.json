@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2102324008482152900",
+    "created_at": "2026-09-22T10:34:39.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102345828824211497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063809217488982016",
+          "start": 0,
+          "username": "Nijika_Dark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102345828824211497",
+    "in_reply_to_user_id": "2063809217488982016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102324008482152900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark2 别这么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2102324008482152900",
+        "created_at": "2026-09-22T10:34:39.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102345828824211497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063809217488982016",
+              "start": 0,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102345828824211497",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102324008482152900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark2 别这么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2102324008482152900",
+        "created_at": "2026-09-22T09:07:57.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102324008482152900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102324008482152900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我花费了3秒钟就完成了蛆体化\n可是虹畜🥺真的是条蛆啊😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2102345828824211497",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 402,
+          "like_count": 35646,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3313
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2102344719623979050",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063809217488982016/1790009724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102079255341588481/u-bqnna6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 216,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

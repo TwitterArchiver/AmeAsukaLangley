@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2095223850632106322",
+    "created_at": "2026-09-03T17:04:37.000Z",
+    "display_text_range": [
+      12,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T18:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095558594607354164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "RenChanT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095558594607354164",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095223850632106322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChanT_T 思考半天得出结论，今日买这个明日买那个然后再这样那样就知道人生的意义了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2095223850632106322",
+        "created_at": "2026-09-03T17:04:37.000Z",
+        "display_text_range": [
+          12,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095558594607354164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095558594607354164",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095223850632106322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChanT_T 思考半天得出结论，今日买这个明日买那个然后再这样那样就知道人生的意义了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037575598730584064",
+        "conversation_id": "2095223850632106322",
+        "created_at": "2026-09-02T18:54:28.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095223850632106322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095223850632106322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜就是很容易抑郁啊 睡不着就在这思考你妈的人生的意义"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2095558594607354164",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 391,
+          "like_count": 35295,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3155
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "虽然大号@RenChan_VmV 身死 但我们只有踩在它的尸体上进行新的炒作🤚\n不过一个10后初中小登 没读过书 文笔不佳 唯一愿景就是世界太平🌹🕊️🆓如果我们有意见不合 还请不要攻击\n时而平和 时而恶俗 取决于你看到了我的哪一面\n人在墙内🇨🇳有些话不能说🫢\n是个没有特长的笨蛋\n小猪@asuka_ra1n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "RenChan_VmV"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "asuka_ra1n"
+              }
+            ]
+          }
+        },
+        "id": "2037575598730584064",
+        "is_identity_verified": false,
+        "location": "反支云等恶俗狗革命根据地",
+        "most_recent_tweet_id": "2095557823925236152",
+        "name": "東洋蓮花酥🏳️‍🌈🏳️‍⚧️🌹重生归来我要夺回属于自己的一切🔥 🇹🇼 👊",
+        "pinned_tweet_id": "2092681004955906271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037575598730584064/1787783909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079425858989912064/VLFzMkJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 496,
+          "like_count": 19386,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 1597
+        },
+        "url": "",
+        "username": "RenChanT_T",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2095164273844445541",
+    "created_at": "2026-09-02T14:57:43.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095164273844445541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778719380639014913",
+          "start": 3,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095164273844445541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094802069010190525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ancde_1118: 这一秒还能停留多久？回不去的旧日，看不清的以后。站在时间缝隙里，明知会过去，仍想留下些什么。不如就停在这一秒。让我再看一眼你眼里的我，记住你望我的模样。在最后一滴泪落下前，在松开彼此前，让这一秒替我们留下些什么。哪怕回不去，至少此刻我还在你身边。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2095164273844445541",
+        "created_at": "2026-09-02T14:57:43.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095164273844445541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778719380639014913",
+              "start": 3,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095164273844445541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094802069010190525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ancde_1118: 这一秒还能停留多久？回不去的旧日，看不清的以后。站在时间缝隙里，明知会过去，仍想留下些什么。不如就停在这一秒。让我再看一眼你眼里的我，记住你望我的模样。在最后一滴泪落下前，在松开彼此前，让这一秒替我们留下些什么。哪怕回不去，至少此刻我还在你身边。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2094802069010190525",
+        "created_at": "2026-09-01T14:58:27.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094802069010190525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094802069010190525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1235,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这一秒还能停留多久？回不去的旧日，看不清的以后。站在时间缝隙里，明知会过去，仍想留下些什么。不如就停在这一秒。让我再看一眼你眼里的我，记住你望我的模样。在最后一滴泪落下前，在松开彼此前，让这一秒替我们留下些什么。哪怕回不去，至少此刻我还在你身边。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2095164273844445541",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 384,
+          "like_count": 34761,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094802364805079276",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 693,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

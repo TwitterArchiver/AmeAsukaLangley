@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2102165066334212513",
+    "created_at": "2026-09-22T10:39:17.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102346991275511941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102346991275511941",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102165066334212513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo 吃pr有两种结果，冲的更爽亦或者出不来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2102165066334212513",
+        "created_at": "2026-09-22T10:39:17.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102346991275511941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102346991275511941",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102165066334212513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo 吃pr有两种结果，冲的更爽亦或者出不来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2102165066334212513",
+        "created_at": "2026-09-21T22:36:22.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T23:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102165066334212513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102165066334212513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的吃了pr冲不出来直接抽烟了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2102346991275511941",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 402,
+          "like_count": 35660,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "恨比天高\n我是渔鸽。ed | od。非二元性别/性别流动 但更喜欢被称呼为＇他＇。喜欢模糊性别。撒旦信徒。会查成分回关。\n\n家里那口子@67De_dian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "67De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2102179202111770981",
+        "name": "將眼泪与過往一同埋葬",
+        "pinned_tweet_id": "2075254551624728638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755664020944941056/1783600638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092246536931655680/D9y_JTTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 623,
+          "like_count": 6364,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1796
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

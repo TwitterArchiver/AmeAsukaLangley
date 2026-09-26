@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2100241958690275614",
+    "created_at": "2026-09-17T09:38:01.000Z",
+    "display_text_range": [
+      14,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100519635707678782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100519635707678782",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100244820077990192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 不拉黑人心态还是太好了，我完全做不到，以前是看到傻逼就想骂，后面是看到傻逼直接就顺手拉黑了懒得多说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2100241958690275614",
+        "created_at": "2026-09-17T09:38:01.000Z",
+        "display_text_range": [
+          14,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100519635707678782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100519635707678782",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100244820077990192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 不拉黑人心态还是太好了，我完全做不到，以前是看到傻逼就想骂，后面是看到傻逼直接就顺手拉黑了懒得多说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2100241958690275614",
+        "created_at": "2026-09-16T15:26:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100244820077990192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100244820077990192",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100241958690275614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了特殊情况，我从不拉黑人，这位推敌想回来对线随时欢迎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2100519635707678782",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 398,
+          "like_count": 35238,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "我是伪人，现在却得了爱。读一些中国古典诗文和西方哲学，最爱的作者是 庾信 杜甫 王沂孙 辛弃疾 周邦彦 奥古斯丁 康德 黑格尔，欢迎让我荐书喔。最近一层人生观是v曲和木柜子动画塑造的。近对 柏拉图主义 早期基督教 罗马法 感兴趣。理论物理研究生，梦想的职业是科学史和文学批评。想做一个为爱而幸福者。我上推就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "is_identity_verified": false,
+        "location": "上海浦东",
+        "most_recent_tweet_id": "2100497804338819579",
+        "name": "ZhuangXuexin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717455447110844416/1782323227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100291762472603648/hMl-FsnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 195,
+          "like_count": 35319,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
