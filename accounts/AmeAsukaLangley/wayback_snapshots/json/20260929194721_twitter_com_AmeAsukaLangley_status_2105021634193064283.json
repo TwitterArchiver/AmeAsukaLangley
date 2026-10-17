@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2104409945064038562",
+    "created_at": "2026-09-29T19:47:21.000Z",
+    "display_text_range": [
+      17,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T20:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105021634193064283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027300186507374592",
+          "start": 0,
+          "username": "ConatusMoon2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105021634193064283",
+    "in_reply_to_user_id": "2027300186507374592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105021214314156089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ConatusMoon2222 总的来说，还是算的上推荐去的，如果只是偶尔解解馋的话，虽然说萨莉亚已经称得上平价了，但是一顿想吃好一点感觉还是得花五六十"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2104409945064038562",
+        "created_at": "2026-09-29T19:47:21.000Z",
+        "display_text_range": [
+          17,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T20:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105021634193064283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027300186507374592",
+              "start": 0,
+              "username": "ConatusMoon2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105021634193064283",
+        "in_reply_to_user_id": "2027300186507374592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105021214314156089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ConatusMoon2222 总的来说，还是算的上推荐去的，如果只是偶尔解解馋的话，虽然说萨莉亚已经称得上平价了，但是一顿想吃好一点感觉还是得花五六十"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027300186507374592",
+        "conversation_id": "2104409945064038562",
+        "created_at": "2026-09-29T19:45:41.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T20:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105021214314156089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105021214314156089",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104409945064038562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 我还没吃过呢，有机会去试试"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2105021634193064283",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 400,
+          "like_count": 36638,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3396
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-27T08:38:02.000Z",
+        "description": "不曾拥有过的梦",
+        "id": "2027300186507374592",
+        "is_identity_verified": false,
+        "location": "数据链路层 - 媒体访问控制子层",
+        "most_recent_tweet_id": "2105021214314156089",
+        "name": "ConatusMoon",
+        "pinned_tweet_id": "2090140828064993358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027300186507374592/1781361958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061135155725742080/CrMPbfY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 2238,
+          "like_count": 9628,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1749
+        },
+        "url": "",
+        "username": "ConatusMoon2222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

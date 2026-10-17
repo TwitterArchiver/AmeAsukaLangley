@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2103277547417227322",
+    "created_at": "2026-09-25T01:02:48.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T02:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103289078825283651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2098055160480280576",
+          "start": 0,
+          "username": "Y_0102_Zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103289078825283651",
+    "in_reply_to_user_id": "2098055160480280576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103277547417227322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_0102_Zero 欧弟区最终兵器，看我十三香跳拉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2103277539653550080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBXx1cbgAA6qR4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2103277547417227322",
+        "created_at": "2026-09-25T01:02:48.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T02:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103289078825283651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2098055160480280576",
+              "start": 0,
+              "username": "Y_0102_Zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103289078825283651",
+        "in_reply_to_user_id": "2098055160480280576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103277547417227322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_0102_Zero 欧弟区最终兵器，看我十三香跳拉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103277539653550080"
+          ]
+        },
+        "author_id": "2098055160480280576",
+        "conversation_id": "2103277547417227322",
+        "created_at": "2026-09-25T00:16:58.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103277547417227322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZEaDkMz7c",
+              "end": 30,
+              "expanded_url": "https://x.com/Y_0102_Zero/status/2103277547417227322/photo/1",
+              "media_key": "3_2103277539653550080",
+              "start": 7,
+              "url": "https://t.co/TZEaDkMz7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103277547417227322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103277539653550080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老干妈冲击( https://t.co/TZEaDkMz7c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2103289078825283651",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 402,
+          "like_count": 36185,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T14:27:56.000Z",
+        "description": "もう二度と顔も見たくないってくらいに\n最低最悪な僕になれたかな？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shimakwaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shimakwaii",
+                "start": 0,
+                "url": "https://t.co/pzP4rIUIMN"
+              }
+            ]
+          }
+        },
+        "id": "2098055160480280576",
+        "is_identity_verified": false,
+        "location": "幸せ？",
+        "most_recent_tweet_id": "2103281518407995702",
+        "name": "下手くそな恋も終わり",
+        "pinned_tweet_id": "2098065080181289460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098055160480280576/1790296422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098056313330921472/fZVMYsyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 29,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/pzP4rIUIMN",
+        "username": "Y_0102_Zero",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

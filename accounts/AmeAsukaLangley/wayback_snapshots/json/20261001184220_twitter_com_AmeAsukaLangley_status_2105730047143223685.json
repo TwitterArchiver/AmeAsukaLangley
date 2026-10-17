@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2105700506001895771",
+    "created_at": "2026-10-01T18:42:20.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T19:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105730047143223685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652733611022635009",
+          "start": 0,
+          "username": "kingCrimson_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105730047143223685",
+    "in_reply_to_user_id": "1652733611022635009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105700506001895771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kingCrimson_09 主播你也在长沙吗，确实凉，前几天还热的批爆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2105700506001895771",
+        "created_at": "2026-10-01T18:42:20.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105730047143223685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652733611022635009",
+              "start": 0,
+              "username": "kingCrimson_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105730047143223685",
+        "in_reply_to_user_id": "1652733611022635009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105700506001895771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kingCrimson_09 主播你也在长沙吗，确实凉，前几天还热的批爆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652733611022635009",
+        "conversation_id": "2105700506001895771",
+        "created_at": "2026-10-01T16:44:57.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105700506001895771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105700506001895771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自古逢秋悲寂寥\n今日长沙气温14摄氏度\n下班了，各位安好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2105730047143223685",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 401,
+          "like_count": 36696,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3408
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-30T17:56:40.000Z",
+        "description": "无月虽醉亦易醒，杯中雪花一点红\n黄昏啊，宛如手心的，曼珠沙华\n恋人：@17yearsDaye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "17yearsDaye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kingcrimson177…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kingcrimson17700",
+                "start": 0,
+                "url": "https://t.co/p1Qj5Vpr8m"
+              }
+            ]
+          }
+        },
+        "id": "1652733611022635009",
+        "is_identity_verified": false,
+        "location": "越过晨昏线，跨过日界线",
+        "most_recent_tweet_id": "2105723806392398164",
+        "name": "你是多首的怪物",
+        "pinned_tweet_id": "2089118541958308150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652733611022635009/1786932013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091019253759582209/mQN_2w17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 559,
+          "like_count": 3378,
+          "listed_count": 3,
+          "media_count": 543,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/p1Qj5Vpr8m",
+        "username": "kingCrimson_09",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

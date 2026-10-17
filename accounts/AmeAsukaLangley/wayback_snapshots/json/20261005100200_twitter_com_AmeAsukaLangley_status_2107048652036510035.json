@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2106774252703842421",
+    "created_at": "2026-10-05T10:02:00.000Z",
+    "display_text_range": [
+      28,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T11:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107048652036510035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2092680299796905984",
+          "start": 0,
+          "username": "xiaozhi_0801"
+        },
+        {
+          "end": 27,
+          "id": "2094681707052212224",
+          "start": 14,
+          "username": "nanahime1cpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107048652036510035",
+    "in_reply_to_user_id": "2092680299796905984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106774252703842421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhi_0801 @nanahime1cpc 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2106774244889858048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzEA3iaEAAYQiq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2106774252703842421",
+        "created_at": "2026-10-05T10:02:00.000Z",
+        "display_text_range": [
+          28,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107048652036510035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2092680299796905984",
+              "start": 0,
+              "username": "xiaozhi_0801"
+            },
+            {
+              "end": 27,
+              "id": "2094681707052212224",
+              "start": 14,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107048652036510035",
+        "in_reply_to_user_id": "2092680299796905984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106774252703842421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhi_0801 @nanahime1cpc 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106774244889858048"
+          ]
+        },
+        "author_id": "2092680299796905984",
+        "conversation_id": "2106774252703842421",
+        "created_at": "2026-10-04T15:51:38.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106774252703842421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/862kXcWLlw",
+              "end": 148,
+              "expanded_url": "https://x.com/xiaozhi_0801/status/2106774252703842421/photo/1",
+              "media_key": "3_2106774244889858048",
+              "start": 125,
+              "url": "https://t.co/862kXcWLlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106774252703842421",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106774244889858048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3572,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 105,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "媽呀！！我居然能100fo了！！來來來給大家抽個獎\n參與條件：關+轉+評\n一等獎：玉米片兩板（折現28）*1\n二等獎：雞塵30t（折現4.5r）*2\n三等獎：給你畫一張qq人（折現2.5r）*3\n\n感謝大家陪我玩呀……我沒什麼錢只能給大家抽點這個了 https://t.co/862kXcWLlw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2107048668373168501",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 400,
+          "like_count": 37221,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3450
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T18:29:22.000Z",
+        "description": "只是一個善良的人呀。\n互fo互轉請大膽私信…長期開放閑聊模塊\n匿名提問箱https://t.co/eJ9W79m8Ac",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399/bit",
+                "end": 59,
+                "expanded_url": "https://ngl.link/zhi68399/bit",
+                "start": 36,
+                "url": "https://t.co/eJ9W79m8Ac"
+              }
+            ]
+          }
+        },
+        "id": "2092680299796905984",
+        "is_identity_verified": false,
+        "location": "距離你2.778km",
+        "most_recent_tweet_id": "2107047281526800514",
+        "name": "滯⁶",
+        "pinned_tweet_id": "2092684925942256007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092680299796905984/1787769409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680953135276032/KdZz1L4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 120,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "xiaozhi_0801",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2107041138792337486",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 419,
+          "like_count": 2432,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

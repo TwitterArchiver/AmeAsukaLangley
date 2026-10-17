@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109302482581266432"
+      ],
+      "media_source_tweet_id": [
+        "2109302489267023872"
+      ]
+    },
+    "author_id": "1732763258325762048",
+    "conversation_id": "2109406472572412073",
+    "created_at": "2026-10-11T22:11:08.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T23:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109406472572412073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1627301480440164352",
+          "start": 3,
+          "username": "Fassaite111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hrtKf9RXSe",
+          "end": 57,
+          "expanded_url": "https://x.com/Fassaite111/status/2109302489267023872/photo/1",
+          "media_key": "3_2109302482581266432",
+          "start": 34,
+          "url": "https://t.co/hrtKf9RXSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109406472572412073",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109302482581266432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109302489267023872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fassaite111: 自从小学毕业我再没吃过那种炸鸡柳 https://t.co/hrtKf9RXSe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2109302482581266432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUW_bq4bIAAVBSM.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109302482581266432"
+          ],
+          "media_source_tweet_id": [
+            "2109302489267023872"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "conversation_id": "2109406472572412073",
+        "created_at": "2026-10-11T22:11:08.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T23:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109406472572412073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1627301480440164352",
+              "start": 3,
+              "username": "Fassaite111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrtKf9RXSe",
+              "end": 57,
+              "expanded_url": "https://x.com/Fassaite111/status/2109302489267023872/photo/1",
+              "media_key": "3_2109302482581266432",
+              "start": 34,
+              "url": "https://t.co/hrtKf9RXSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109406472572412073",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109302482581266432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109302489267023872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fassaite111: 自从小学毕业我再没吃过那种炸鸡柳 https://t.co/hrtKf9RXSe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109302482581266432"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "conversation_id": "2109302489267023872",
+        "created_at": "2026-10-11T15:17:57.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T16:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109302489267023872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrtKf9RXSe",
+              "end": 40,
+              "expanded_url": "https://x.com/Fassaite111/status/2109302489267023872/photo/1",
+              "media_key": "3_2109302482581266432",
+              "start": 17,
+              "url": "https://t.co/hrtKf9RXSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109302489267023872",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109302482581266432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自从小学毕业我再没吃过那种炸鸡柳 https://t.co/hrtKf9RXSe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2109406472572412073",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 400,
+          "like_count": 38146,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜眼镜娘厨｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "is_identity_verified": false,
+        "location": "Kyoto-fu, Japan",
+        "most_recent_tweet_id": "2109337323376910594",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1627301480440164352/1676814949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107799519475695616/X2Vehzyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1500,
+          "like_count": 161269,
+          "listed_count": 8,
+          "media_count": 2406,
+          "tweet_count": 11796
+        },
+        "url": "",
+        "username": "Fassaite111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

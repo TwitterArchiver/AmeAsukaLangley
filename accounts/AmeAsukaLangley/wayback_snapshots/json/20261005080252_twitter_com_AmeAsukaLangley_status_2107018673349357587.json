@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2106803545492361248",
+    "created_at": "2026-10-05T08:02:52.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107018673349357587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652733611022635009",
+          "start": 0,
+          "username": "kingCrimson_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107018673349357587",
+    "in_reply_to_user_id": "1652733611022635009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106803545492361248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kingCrimson_09 什么时候变m1a4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2106803545492361248",
+        "created_at": "2026-10-05T08:02:52.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107018673349357587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652733611022635009",
+              "start": 0,
+              "username": "kingCrimson_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107018673349357587",
+        "in_reply_to_user_id": "1652733611022635009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106803545492361248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kingCrimson_09 什么时候变m1a4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652733611022635009",
+        "conversation_id": "2106803545492361248",
+        "created_at": "2026-10-04T17:48:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106803545492361248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki3mepcpy/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yuki3mepcpy/status/2106739448792625348",
+              "start": 11,
+              "url": "https://t.co/4gfFKszTvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106803545492361248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106739448792625348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别为柯尔特M4A1 https://t.co/4gfFKszTvH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2107018673349357587",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 399,
+          "like_count": 37091,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3442
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-30T17:56:40.000Z",
+        "description": "无月虽醉亦易醒，杯中雪花一点红\n黄昏啊，宛如手心的，曼珠沙华\n恋人：@17yearsDaye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "17yearsDaye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kingcrimson177…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kingcrimson17700",
+                "start": 0,
+                "url": "https://t.co/p1Qj5Vpr8m"
+              }
+            ]
+          }
+        },
+        "id": "1652733611022635009",
+        "is_identity_verified": false,
+        "location": "越过晨昏线，跨过日界线",
+        "most_recent_tweet_id": "2106819013804499242",
+        "name": "你是多首的怪物",
+        "pinned_tweet_id": "2089118541958308150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652733611022635009/1786932013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091019253759582209/mQN_2w17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 566,
+          "like_count": 3424,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/p1Qj5Vpr8m",
+        "username": "kingCrimson_09",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

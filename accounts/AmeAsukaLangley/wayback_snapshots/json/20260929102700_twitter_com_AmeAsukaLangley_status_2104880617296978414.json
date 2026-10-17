@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2104442138360680789",
+    "created_at": "2026-09-29T10:27:00.000Z",
+    "display_text_range": [
+      11,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T11:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104880617296978414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674372721726357504",
+          "start": 0,
+          "username": "rosy15811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104880617296978414",
+    "in_reply_to_user_id": "1674372721726357504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104724216197403084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rosy15811 主要是镇静药物拢共就那么些，吃来吃去就那几种，喹硫平我还是不太愿意经常吃，因为吃完一次对于我的精神状态打击太大了，z药我觉得得偶尔断药一段时间才会好一点，一直吃效果很容易变得很差很差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2104442138360680789",
+        "created_at": "2026-09-29T10:27:00.000Z",
+        "display_text_range": [
+          11,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104880617296978414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674372721726357504",
+              "start": 0,
+              "username": "rosy15811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104880617296978414",
+        "in_reply_to_user_id": "1674372721726357504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104724216197403084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rosy15811 主要是镇静药物拢共就那么些，吃来吃去就那几种，喹硫平我还是不太愿意经常吃，因为吃完一次对于我的精神状态打击太大了，z药我觉得得偶尔断药一段时间才会好一点，一直吃效果很容易变得很差很差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674372721726357504",
+        "conversation_id": "2104442138360680789",
+        "created_at": "2026-09-29T00:05:31.000Z",
+        "display_text_range": [
+          17,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T01:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104724216197403084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104724216197403084",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104685075392766048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 目前曲唑酮还有用，喹硫平我是真吃不了，z药也基本没用了……空腹1tsns也睡不着。复诊试试换Doras，虽然这个我记得贵到不行……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2104880617296978414",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 399,
+          "like_count": 36509,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3382
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-29T11:02:39.000Z",
+        "description": "庆贺我与你与不会再相遇的世界，那个秋天我们最后一次去田里踢球，不会再有的意思就是再也不会有了\n就这样吧。\n\n/male/cis-genderless/aro-ace/sex-averse/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasumi60",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasumi60",
+                "start": 0,
+                "url": "https://t.co/vAXfGSs7OY"
+              }
+            ]
+          }
+        },
+        "id": "1674372721726357504",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2104866057974689887",
+        "name": "最後冬是最後冬嗎？",
+        "pinned_tweet_id": "2095141574116245505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674372721726357504/1785613567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100527805599748096/C2_YT_z5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 116,
+          "like_count": 10690,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/vAXfGSs7OY",
+        "username": "rosy15811",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

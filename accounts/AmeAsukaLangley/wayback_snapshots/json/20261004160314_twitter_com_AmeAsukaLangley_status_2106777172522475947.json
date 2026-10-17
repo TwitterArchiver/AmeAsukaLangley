@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2106568188179939785",
+    "created_at": "2026-10-04T16:03:14.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T17:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106777172522475947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2098055160480280576",
+          "start": 0,
+          "username": "Y_0102_Zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106777172522475947",
+    "in_reply_to_user_id": "2098055160480280576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106568188179939785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_0102_Zero Shima可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106568179858419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwImTeaMAAiyGc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2106568188179939785",
+        "created_at": "2026-10-04T16:03:14.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T17:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106777172522475947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2098055160480280576",
+              "start": 0,
+              "username": "Y_0102_Zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106777172522475947",
+        "in_reply_to_user_id": "2098055160480280576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106568188179939785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_0102_Zero Shima可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106568179858419712"
+          ]
+        },
+        "author_id": "2098055160480280576",
+        "conversation_id": "2106568188179939785",
+        "created_at": "2026-10-04T02:12:48.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106568188179939785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKxTeQ75hM",
+              "end": 42,
+              "expanded_url": "https://x.com/Y_0102_Zero/status/2106568188179939785/photo/1",
+              "media_key": "3_2106568179858419712",
+              "start": 19,
+              "url": "https://t.co/HKxTeQ75hM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106568188179939785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106568179858419712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塞个老图 去年的了 草拟吗越来越重了 https://t.co/HKxTeQ75hM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2106777172522475947",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 399,
+          "like_count": 37020,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T14:27:56.000Z",
+        "description": "もう二度と顔も見たくないってくらいに\n最低最悪な僕になれたかな？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shimakwaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shimakwaii",
+                "start": 0,
+                "url": "https://t.co/pzP4rIUIMN"
+              }
+            ]
+          }
+        },
+        "id": "2098055160480280576",
+        "is_identity_verified": false,
+        "location": "幸せ？",
+        "most_recent_tweet_id": "2106749559829581867",
+        "name": "下手くそな恋も終わり",
+        "pinned_tweet_id": "2098065080181289460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098055160480280576/1790395497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106409794399862784/AUs487VA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 46,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/pzP4rIUIMN",
+        "username": "Y_0102_Zero",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

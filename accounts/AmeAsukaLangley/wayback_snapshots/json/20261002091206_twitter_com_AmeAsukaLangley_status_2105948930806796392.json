@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2105597648904298711",
+    "created_at": "2026-10-02T09:12:06.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T10:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105948930806796392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492068366731059203",
+          "start": 0,
+          "username": "Yuki3Mepcpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105948930806796392",
+    "in_reply_to_user_id": "1492068366731059203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105597648904298711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki3Mepcpy 四目博士说笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2105597639492243456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiV5a3WEAAX_jl.jpg",
+        "width": 647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2105597648904298711",
+        "created_at": "2026-10-02T09:12:06.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105948930806796392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492068366731059203",
+              "start": 0,
+              "username": "Yuki3Mepcpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105948930806796392",
+        "in_reply_to_user_id": "1492068366731059203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105597648904298711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki3Mepcpy 四目博士说笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105597639492243456"
+          ]
+        },
+        "author_id": "1492068366731059203",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105597648904298711",
+        "created_at": "2026-10-01T09:56:14.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105597648904298711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGOYQoBx7x",
+              "end": 66,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2105597648904298711/photo/1",
+              "media_key": "3_2105597639492243456",
+              "start": 43,
+              "url": "https://t.co/iGOYQoBx7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105597648904298711",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105597639492243456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1772,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看了1161个宇宙，可是每一个宇宙里大家都有吃不完的金刚烷胺，感康，美金刚，苯海索 https://t.co/iGOYQoBx7x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2105948930806796392",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 400,
+          "like_count": 36757,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3413
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-11T09:30:08.000Z",
+        "description": "7.0 依旧被永封\n早已逝去之人 早已宽恕之罪 \n和小策宝宝 @Cecey33 共号\n逃生仓@Yuki114514_DXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "Cecey33"
+              },
+              {
+                "end": 61,
+                "start": 46,
+                "username": "Yuki114514_DXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/VLygxKkrdq"
+              }
+            ]
+          }
+        },
+        "id": "1492068366731059203",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2105618809801351320",
+        "name": "岐#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492068366731059203/1790852745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104172346491736064/aEszKX97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 185,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/VLygxKkrdq",
+        "username": "Yuki3Mepcpy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

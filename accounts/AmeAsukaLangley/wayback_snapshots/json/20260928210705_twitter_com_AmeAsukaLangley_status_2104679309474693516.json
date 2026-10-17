@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1732763258325762048",
+    "conversation_id": "2104602362727817638",
+    "created_at": "2026-09-28T21:07:05.000Z",
+    "display_text_range": [
+      22,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T22:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104679309474693516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492068366731059203",
+          "start": 0,
+          "username": "Yuki3Mepcpy"
+        },
+        {
+          "end": 21,
+          "id": "1449753518420619264",
+          "start": 13,
+          "username": "Cecey33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104679309474693516",
+    "in_reply_to_user_id": "1492068366731059203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104602362727817638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki3Mepcpy @Cecey33 真好啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1502,
+        "media_key": "3_2104602331073421312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUMq2EXIAA7tJx.jpg",
+        "width": 871
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2104602342016299008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUMre1WMAA85a_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1908,
+        "media_key": "3_2104602352372133888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUMsFaXsAABIDX.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2104602362727817638",
+        "created_at": "2026-09-28T21:07:05.000Z",
+        "display_text_range": [
+          22,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T22:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104679309474693516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492068366731059203",
+              "start": 0,
+              "username": "Yuki3Mepcpy"
+            },
+            {
+              "end": 21,
+              "id": "1449753518420619264",
+              "start": 13,
+              "username": "Cecey33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104679309474693516",
+        "in_reply_to_user_id": "1492068366731059203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104602362727817638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki3Mepcpy @Cecey33 真好啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104602331073421312",
+            "3_2104602342016299008",
+            "3_2104602352372133888"
+          ]
+        },
+        "author_id": "1492068366731059203",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104602362727817638",
+        "created_at": "2026-09-28T16:01:19.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104602362727817638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 124,
+              "id": "1449753518420619264",
+              "start": 116,
+              "username": "Cecey33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/78gSDWla27",
+              "end": 148,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2104602362727817638/photo/1",
+              "media_key": "3_2104602331073421312",
+              "start": 125,
+              "url": "https://t.co/78gSDWla27"
+            },
+            {
+              "display_url": "pic.x.com/78gSDWla27",
+              "end": 148,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2104602362727817638/photo/1",
+              "media_key": "3_2104602342016299008",
+              "start": 125,
+              "url": "https://t.co/78gSDWla27"
+            },
+            {
+              "display_url": "pic.x.com/78gSDWla27",
+              "end": 148,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2104602362727817638/photo/1",
+              "media_key": "3_2104602352372133888",
+              "start": 125,
+              "url": "https://t.co/78gSDWla27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104602362727817638",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104602331073421312"
+          },
+          {
+            "media_key": "3_2104602342016299008"
+          },
+          {
+            "media_key": "3_2104602352372133888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚打视频互相聊了很多🥺不知道是不是我的言语太有穿透性了，把我们都说哭了，我们已经经历过好多了哦，命运让我们相遇，好不容易，好奇怪\n说好了，不要离开彼此，翻到了以前的聊天记录，边看边哭🥺🥺🥺怎么会这样疯狂呢，亲爱的，只属于我一个人吧@Cecey33 https://t.co/78gSDWla27"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Toyokawa, Aichi, Japan",
+              "geo": {
+                "coordinates": [
+                  137.4,
+                  34.81667
+                ],
+                "type": "Point"
+              },
+              "locality": "Toyokawa",
+              "region": "Aichi"
+            }
+          ]
+        },
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2104679309474693516",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 399,
+          "like_count": 36404,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3378
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-11T09:30:08.000Z",
+        "description": "前世依旧又又又被永封\n早已逝去之人 早已宽恕之罪 \n和小策宝宝 @Cecey33 共号\n逃生仓@Yuki114514_DXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "Cecey33"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Yuki114514_DXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/VLygxKkrdq"
+              }
+            ]
+          }
+        },
+        "id": "1492068366731059203",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2104642918048755799",
+        "name": "岐#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492068366731059203/1788247653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104172346491736064/aEszKX97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 145,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/VLygxKkrdq",
+        "username": "Yuki3Mepcpy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-17T15:06:06.000Z",
+        "description": "",
+        "id": "1449753518420619264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102413213514269153",
+        "name": "cece",
+        "pinned_tweet_id": "1495081797994283008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1449753518420619264/1788096074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494241860940099584/SXyyb3zw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 140,
+          "like_count": 3274,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "Cecey33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
